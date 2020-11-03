@@ -1,5 +1,5 @@
 # SE05-Nhom23
-This resporitory includes source code of Chat bot Project.
+This repository includes source code of Chat bot Project.
 
 Author: Do Duy Dao, Nguyen Khanh Hoa, Le Huy.
 
