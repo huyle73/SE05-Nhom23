@@ -1,7 +1,7 @@
 # SE05-Nhom23
 This resporitory includes source code of Chat bot Project.
 
-Author: Do Duy Dao, Nguyen Khanh Hoa, Le Huy.\n
+Author: Do Duy Dao, Nguyen Khanh Hoa, Le Huy.
 
 Teacher: Bui Sy Nguyen - CEO and Founder of House 3D.
 
