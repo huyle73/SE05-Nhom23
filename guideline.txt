@@ -1,0 +1,14 @@
+#Các bước xây dựng chatbot House3D:
+1. Thu thập dữ liệu:
+  1.1 Dữ liệu được lấy ra bởi các cuộc hội thoại trước đó của page House3D trên Facebook.
+  1.2 Sử dụng trình khám phá API Đồ thị của Facebook for developers để truy vấn các cuộc hội thoại.
+  1.3 Sử dụng CURL trên bash shell để lấy dữ liệu về.
+2. Xử lí dữ liệu:
+  2.1 Tiền xử lí:
+    2.1.1 Giải mã dữ liệu định dạng HTML.(Giải mã)
+    2.1.2 Tách các cuộc hội thoại riêng rẽ.(Tách)
+    2.1.3 Xử lí hội thoại rác và tin nhắn rác.(Lọc)
+  2.2 Hậu xử lí:
+    2.2.1 tinh chỉnh phông chữ.
+    2.2.2 l
+    
