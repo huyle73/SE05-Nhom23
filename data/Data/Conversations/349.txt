@@ -1,0 +1,25 @@
+
+hi
+xem hỗ trợ mình với
+vẫn k được
+
+Hãy di chuyển lùi hoặc tiến lên 1 chút
+Hoặc là camera của bạn bị đặt nằm ngay trong bức tường. Hoặc là bạn đặt cut depth chưa đủ
+có vấn đề gì ở đây bạn nhỉ
+mình để camera cut nhưng render lại không ẩn được tường
+click vào phòng - chuột phải - ẩn phào tường/trần
+vào chế độ 2d
+a ẩn phào đi nhé
+xử lý ntn nhỉ
+có trường hợp mình không muốn có phào trần, nhưng render nó vẫn hiện ra
+mình cám ơn nha
+ok\
+
+Như vậy anh phải ren lại ảnh 720 từ các file đó mới ghép được nha anh.
+có cách nào để mình ghép k vậy
+mình có 3 ảnh 720 từ 3 tài khoản,
+Anh mở danh sách ảnh render 720 lên, tíck chọn các ảnh 720 muốn ghép, sau đó tíck vào nút MERGE nhé.
+A vào trang hướng dẫn, tìm mục ghép nối không gian 720 a nhé
+mình tìm mà k thấy bài hướng đẫn đó
+để click từ khòng khách vào phòng ngủ đó bạn
+Cảm ơn bạn đã ghé thăm, House3D có thể hỗ trợ gì cho bạn?  https://house3d.com/

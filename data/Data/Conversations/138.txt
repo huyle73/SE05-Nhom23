@@ -1,0 +1,25 @@
+cho mk hỏi là muốn vẽ tầng cho tòa nhà thì làm thế nào ak
+ok bạn mk thấy rồi,thanks bạn
+Anh tìm model cầu thang tại vị trí VẬT LIỆU HOÀN THIỆN & BỀ MẶT --> CẤU KIỆN --> CẦU THANG
+ok để mk thử xem
+vấn đề là khi áp dụng cách bên mk đưa ra thì nó là 1 phần của bức tường nên ko thể di chuyển dc
+Hoặc anh có thể dựng một model cầu thang bằng phần mềm thứ 3 và import vào thư viện cá nhân của mình để dùng ạ
+Anh có thể sử dụng bục nền để ghép nối với nhau thành các bậc cầu thang ạ. Nhưng giải pháp tối ưu vẫn là sử dụng các model có sẵn trong thư viện cầu thang
+khá  là  khó  để  vẽ dù  mk  đã  tham  khảo  clip  của  bên  bạn  trên  youtube
+có  1 vấn  đề  khi  vẽ  cầu  thang
+mk  cài  win  10 nên  vào  dc  rồi
+Mình đã cài lại được chưa a
+Anh ơi, tình hình máy mình sao rồi ạ
+Vâng, bạn tìm cái USB cài win và cài mới lại được mà :P
+nó  đứng yên  ở  màn  hình  chờ rồi  chớp  như  điên
+cài nâng cấp cũng không tốt lắm
+chịu khó kiếm cái USB cài mới đi ạ
+🤣🤣🤣
+lỗi  win  luôn  rồi
+Thế nâng cấp lên win10 được chưa ạ
+win  7 pro  64bit
+mk đợi  lâu  quá  lên  nâng  cấp  lên  win  10 h nó  ko thèm  lên  luôn  rồi
+Bạn xài windows nào
+🤣🤣🤣
+anh chụp lại màn hình giúp e nhé
+Failed to load Resource File. Please check your network conecction and your Internet Explorer (IE). House3D requires IE 11 or later. mình có thử tải và khởi chạy ứng dụng nhưng báo lỗi như trên mặc dù máy mk có ie 11

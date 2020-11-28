@@ -1,0 +1,1 @@
+Chào bạn, hiện tại tính năng xuất ra máy CNC đang được thử nghiệm ở giai đoạn cuối cùng trước khi phát hành chính thức. Đối với bản full tính năng hiện tại cũng giúp bạn tiết kiệm được nhiều thời gian và tiền bạc.

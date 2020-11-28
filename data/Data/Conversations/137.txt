@@ -1,0 +1,26 @@
+Ok b
+Xin chào, để chạy được House3D trên máy tính, bạn không cần máy cấu hình cao nhưng cần một windows và IE được cập nhật. Bạn vui lòng cài teamviewer trước. Sau đó đội kỹ thuật House3D sẽ hỗ trợ giúp bạn cài đặt để bạn dùng thử.
+M k bạn ak :)
+e có thể xem hỗ trợ qua teamview cho anh
+Mình có dùng teamview k nhỉ
+M vẫn chưa cài đc IE nên chưa chạy đc b ak
+Có khó khăn gì cần ad hỗ trợ không ạ
+Bạn ơi, mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ?
+Ok bạn. Tks b nhiều nhé
+Bạn tham khảo cách xử lý ở đây nhé
+https://academy.house3d.com/guide/loi-khi-chua-cap-nhap-internet-explorer-11ie11-cho-windows-7?lang=vi
+cái này liên quan đến bảo vệ security cho chính tài khoản của bạn, tránh bị hack
+phải nâng cấp lên SP1 và cài IE tối thiểu bản 11
+Đấy là do máy của bạn đang không cập nhật lâu quá rồi
+Nó báo lỗi cái IE đó b
+Đó
+nếu giải nén file ZIP chạy mà nó báo lỗi liên quan đến trình duyệt Internet Explorer thì bạn hãy chụp ảnh màn hình gửi lên đây chúng tôi hướng dẫn tiếp
+Ok tks b. Cần gì m lại hỏi b nhé
+Ok để tẹo m làm lại xem sao nhé
+Còn hướng dẫn sử dụng thì đây:
+https://academy.house3d.com/homepage?lang=vi
+chỉ việc download về giải nén file ZIP là chạy luôn thôi
+phần mềm của chúng tôi KHÔNG CẦN CÀI
+Với chi phí sau 14 ngày là bn bạn nhỉ
+Cho m xin với
+B có hướng dẫn cài k

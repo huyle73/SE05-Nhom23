@@ -1,0 +1,25 @@
+
+Có thể do camera sát tường quá anh ạ
+
+Góc camera khác thì ok
+hic
+Render test trắng phớ
+
+
+Oki a nha
+anh chạy ok rồi nhé
+
+Các bạn kĩ thuật vừa báo đã khắc phục xong rồi anh ạ
+Anh thử tắt app đi bật lại xem còn bị lỗi nữa không ạ
+mấy bạn ấy đang khắc phục
+
+mấy bạn kĩ thuật vừa báo lại, chế độ chọn viền đang có lỗi anh ạ
+đúng
+anh vẫn vào chế độ chọn viền ạ?
+lại tự động out rồi
+hic vẫn bị
+ko chính thống
+như vậy lỗi có thể do cơ chế chạy file exe của mình
+có vẻ hết rồi
+
+

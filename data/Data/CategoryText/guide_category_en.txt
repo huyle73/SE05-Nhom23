@@ -1,0 +1,203 @@
+Basic Design Functions
+House3D basic design functions
+Rendering
+Render
+Rendering Styles
+Choose from a variety of modes, resolutions and settings to get desired results 
+Create & Edit Wall
+How to draw and modify  walls while designing
+Floor & Wall Paving
+Brick design
+Paving Layout Setup
+The various methods and styles pavers can be laid and arranged.  
+Brick justify
+Brick justify
+Modify size
+Modify size
+General Paving Operations
+General operations in the Paving design interface
+Create and Export to Waterjet
+Create & export to waterjet
+Space Naming
+Add names to rooms and Spaces created
+Furniture Arrangement
+Bring in Furniture and Accessories into your space
+Setup ceiling lights
+Setup ceiling lights
+Setup furniture items
+Setup furniture items
+Finishes & Fixtures Set-up
+How to set-up the decorations finishes and fixtures for a space
+Manage Design Projects
+Save project
+Beginners Guide 
+Basic Design Operations
+Pre-Rendering Settings
+Toggle available settings to optimize the render output 
+Post-Rendering Settings
+Add details, edit and customize rendered images 
+Special design
+Special design
+Customize area
+Customize area
+Floor Plan Set-up 
+How to Import Extract & Share Floor plans 
+VR Showroom
+VR Showroom
+Frequently Asked Questions
+Frequently questions
+One-Click Paving Layout
+Quick easy way to lay your tiles using available templates
+Customized Paving Patterns
+Create a customized paving pattern 
+Paver Arrangement 
+General operations on the arrangement of pavers around the design area
+Design Area Setup
+Setup the design area
+Area Partitioning
+How to create partitions and border design
+Create  Border Designs
+Create  Borders on Design Area
+Insert Frames
+Draw brick area
+Paver Modification
+How to modify the shape size and other specifications of pavers
+Apply brick
+Apply brick
+Create wall border
+Create wall border
+Wall background
+Wall background
+Handling brick slot when create pillar
+Handling brick slot when create pillar
+Export Plan and Cut List
+Export Plan and Cut List
+Ceiling & Wall Transformation 
+Design floor-ceil-wall
+Kitchen Cabinet Design
+Design and customize your kitchen cabinets
+Custom Cabinet Design
+Design custom cabinet
+Wardrobe Design
+Operations on the design and customization of wardrobe
+Basic
+
+Base Cabinets
+Operations regarding the Installation and management of  Base Cabinets. 
+Kitchen Wares and Components
+General operations for the installation of kitchen wares, cabinet components and accessories. 
+Countertop Installation
+Install and customize countertops for the top panels in a design
+Wall Cabinets
+Operations regarding the installation and management of Wall Cabinets.
+Component
+
+Add Moldings
+installation of crown, base and light rail moldings. 
+Door Panels and Handles
+Installation and modification of dors and handles
+Material Management 
+Change and modify cabinet material
+Handle
+
+Interface Selection and Motion Modes
+Available interface design modes
+Export Quotes and Drawings 
+Export Design Quotations and  Kitchen Cabinet Drawing Plans
+Custom Kitchen Cabinet  Designs
+
+Wardrobe Frame Units
+Wardrobe frames to make built-in wardrobe designs 
+Freestanding Wardrobe Units
+
+Set Up Wardrobe Frames
+Select drag and drop  wardrobe frames into the design 
+Set Up Wardrobe Doors
+Add doors to the dragged in frames 
+Add Moldings
+
+Door board
+
+Wardrobe Material Management 
+
+Install and Replace Handle
+
+Panel Editing
+General panel operations and modification
+Wardrobe Organization
+Install and organise a wardrobe
+Wardrobe Door Settings
+Set up and organise the wardrobe doors
+Material
+
+Handle
+
+Cabinet door boards
+
+Exports 
+
+Basic
+
+Drop ceiling
+
+Basic drop-ceiling
+
+Complex drop-ceiling
+
+Pave ceiling
+
+Design wall
+
+Application
+
+Stairway
+
+Others
+
+H3D Tool
+
+My Space
+my Space is the feature that allows you to upload models and textures into a personalized library 
+General Operations
+General House3D Operations  
+Design Component Set-up
+Operations on how to sort and arrange Design component in a Space
+Create and Edit Wall
+How to draw and modify walls while designing
+
+Landscape Design
+Design the landscape 
+Training Videos
+Videos of training sessions 
+Custom Cabinet
+Custom Cabinet
+Custom Cabinet Design
+Operations on the design of  custom cabinets
+Custom Paving Design
+Create unique and customized patterns 
+Application
+
+Library Management
+How to manage the various Libraries in the House3D application
+Wooden Door Design
+Wooden door Design
+Shower Room Design
+Shower Room Design
+Wooden Door Design
+
+Login
+
+Good looking objects
+
+Convert
+
+Rendering
+
+Use
+
+Accounts
+
+Shower Room Design
+
+Payment
+

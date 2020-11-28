@@ -1,0 +1,25 @@
+Dùng máy tính có thể tải dc định dạng ảnh JPEG mà e
+Đây là tải link thôi ạ
+Ảnh pano anh ko tải về được ạ. Vì ảnh là dạng link web. Anh có thể tải ảnh QR code hoặc lưu đường link tại để gửi khách
+
+Chứ ảnh 2d thì dc
+Ảnh ren đơn điểm đó e
+Bấm vào ảnh là tải về được mà anh?
+
+Muốn tải về điện thoại chỉ có vào my.house3d thôi ai
+Cảm ơn bạn đã ghé thăm, House3D có thể hỗ trợ gì cho bạn?  https://house3d.com/
+Trong my.house3d, mình tải file bằng điện thoại ko dc, nó ko lưu về máy ? Có cách nào để lưu ảnh render về điện thoại ko e ?
+Ok e
+Phiền anh kiểm tra trong my.house3d.com và upload đè (overwrite) lại một lần nữa các texture này là sẽ được ạ
+Chúng tôi vừa vá lỗi
+Hi anh, các texture bên mình upload trong khoảng ngày giờ: từ 2020-05-25 12:55:05 tới 2020-05-26 15:53:43 đã bị lỗi
+Tk : nhatbasic@gmail.com
+Em ơi, nó ở tình trạng này mấy tiếng đồng hồ rồi
+
+
+
+Trong quá trình upload texture lên có lẽ đã chọn phải vật liệu lỗi. Chúng tôi sẽ điều tra, tuy nhiên anh nên upload lại texture và chọn lại vật liệu thử xem sao ạ
+Chỉ khi ren ra kết quả thì bị
+Vì kiểm thì thấy hiển thị đúng hết
+Up lên e, nhưng ko biết là lỗi gì
+Map này fo mình up lên hay từ thư viện sẵn có của House3D ạ?

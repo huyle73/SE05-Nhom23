@@ -1,0 +1,38 @@
+[
+	{
+		"id": "1",
+		"title_vi": "Câu hỏi thường gặp",
+		"title_en": "Basic Questions",
+		"status": "1",
+		"slug": "cau-hoi-thuong-gap",
+		"is_deleted": "0",
+		"created_at": "1565166644",
+		"created_by": "admin",
+		"updated_at": "1565166644",
+		"updated_by": "admin"
+	},
+	{
+		"id": "2",
+		"title_vi": "Tài liệu và video hướng dẫn",
+		"title_en": "Documents and videos",
+		"status": "1",
+		"slug": "tai-lieu-va-video-huong-dan",
+		"is_deleted": "0",
+		"created_at": "1565771136",
+		"created_by": "hungmx",
+		"updated_at": "1565771136",
+		"updated_by": "hungmx"
+	},
+	{
+		"id": "3",
+		"title_vi": "Lịch đào tạo",
+		"title_en": "Training schedule",
+		"status": "1",
+		"slug": "lich-dao-tao",
+		"is_deleted": "0",
+		"created_at": "1568104078",
+		"created_by": "hungmx",
+		"updated_at": "1568104078",
+		"updated_by": "hungmx"
+	}
+]

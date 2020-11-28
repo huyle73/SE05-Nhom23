@@ -1,0 +1,218 @@
+[
+	{
+		"version": "m000000_000000_base",
+		"apply_time": "1541663640"
+	},
+	{
+		"version": "m140506_102106_rbac_init",
+		"apply_time": "1541663643"
+	},
+	{
+		"version": "m170907_052038_rbac_add_index_on_auth_assignment_user_id",
+		"apply_time": "1541663643"
+	},
+	{
+		"version": "m130524_201442_init",
+		"apply_time": "1541663743"
+	},
+	{
+		"version": "m181108_072500_rbac_init",
+		"apply_time": "1541663683"
+	},
+	{
+		"version": "m181108_080235_create_guide_category_table",
+		"apply_time": "1542341712"
+	},
+	{
+		"version": "m181108_091001_create_guide_table",
+		"apply_time": "1542341712"
+	},
+	{
+		"version": "m181110_033028_add_level_into_guide_category_table",
+		"apply_time": "1541820924"
+	},
+	{
+		"version": "m181109_024841_create_about_table",
+		"apply_time": "1542341712"
+	},
+	{
+		"version": "m181112_135915_add_video_column_to_about_table",
+		"apply_time": "1542342205"
+	},
+	{
+		"version": "m181110_082107_create_contact_table",
+		"apply_time": "1542341713"
+	},
+	{
+		"version": "m181113_160318_create_banner_table",
+		"apply_time": "1542341713"
+	},
+	{
+		"version": "m181122_023543_create_subscribe_table",
+		"apply_time": "1542869907"
+	},
+	{
+		"version": "m181227_093743_add_sort_into_guide_category_table",
+		"apply_time": "1545979806"
+	},
+	{
+		"version": "m190107_043059_add_multiple_column_to_user_table",
+		"apply_time": "1547004077"
+	},
+	{
+		"version": "m190108_024112_create_email_table",
+		"apply_time": "1547004077"
+	},
+	{
+		"version": "m190108_095830_log",
+		"apply_time": "1547004077"
+	},
+	{
+		"version": "m190115_101901_add_is_deleted_column",
+		"apply_time": "1547801060"
+	},
+	{
+		"version": "m190116_041857_add_node_path_column_to_guide_category_table",
+		"apply_time": "1547801060"
+	},
+	{
+		"version": "m190225_045659_create_table_experience",
+		"apply_time": "1558427371"
+	},
+	{
+		"version": "m190227_025815_create_experience_edit",
+		"apply_time": "1558427371"
+	},
+	{
+		"version": "m190227_032347_add_status_columns",
+		"apply_time": "1558427371"
+	},
+	{
+		"version": "m190504_045759_create_column_youtubelink_in_guide",
+		"apply_time": "1558427372"
+	},
+	{
+		"version": "m190507_100727_add_sort_column_in_guide",
+		"apply_time": "1558427372"
+	},
+	{
+		"version": "m190509_083644_create_table_course_list",
+		"apply_time": "1558427372"
+	},
+	{
+		"version": "m190515_010107_add_hour_in_course_list",
+		"apply_time": "1558427372"
+	},
+	{
+		"version": "m190515_023308_time_hour_in_course_list",
+		"apply_time": "1558427372"
+	},
+	{
+		"version": "m190515_030625_add_hour_to_course_list",
+		"apply_time": "1558427372"
+	},
+	{
+		"version": "m190515_045158_alter_time_course_list",
+		"apply_time": "1558427372"
+	},
+	{
+		"version": "m190516_104549_default_deleted_in_course_list",
+		"apply_time": "1558427373"
+	},
+	{
+		"version": "m190518_032055_alter_price_course_list",
+		"apply_time": "1558427373"
+	},
+	{
+		"version": "m190523_072322_add_ishomepage_in_course_list",
+		"apply_time": "1560508920"
+	},
+	{
+		"version": "m190606_021243_create_file_storage_item_table",
+		"apply_time": "1560508920"
+	},
+	{
+		"version": "m190626_023746_add_youtube_link_en_to_table_guide",
+		"apply_time": "1561544714"
+	},
+	{
+		"version": "m190620_044312_create_comments",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190620_045504_create_recorded_email",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190620_045545_add_foreign_key_comments_recorded_email",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190620_050519_add_hour_in_tbc_comments",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190624_031103_add_is_active_in_tbl_comments",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190628_044823_add_view_column_to_guide_table",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190629_023910_edit_status_column_in_about_table",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190629_023925_edit_status_column_in_banner_table",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190629_030822_edit_status_column_in_email_table",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190701_072757_add_parentID_targetID_type_in_tbl_comments",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190709_043347_add_token_column_to_user_table",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190709_080841_create_history_table",
+		"apply_time": "1565002549"
+	},
+	{
+		"version": "m190627_031241_create_faq_table",
+		"apply_time": "1565164786"
+	},
+	{
+		"version": "m190627_031328_create_faq_category_table",
+		"apply_time": "1565164786"
+	},
+	{
+		"version": "m190809_043231_add_sort_set_up_in_table_faq",
+		"apply_time": "1565768655"
+	},
+	{
+		"version": "m190815_070207_del_set_up_add_sort",
+		"apply_time": "1567222246"
+	},
+	{
+		"version": "m190816_035142_create_library_table",
+		"apply_time": "1567222246"
+	},
+	{
+		"version": "m190819_094638_create_library_category_table",
+		"apply_time": "1567222246"
+	},
+	{
+		"version": "m190820_071146_add_category_id_and_sort_column_to_library_table",
+		"apply_time": "1567222246"
+	},
+	{
+		"version": "m190903_044330_update_sort_and_set_up_column_in_table_faq",
+		"apply_time": "1568086723"
+	}
+]

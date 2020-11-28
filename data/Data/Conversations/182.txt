@@ -1,0 +1,9 @@
+Hiện có 82 người đang render ảnh 720 với tổng cộng gần 200 điểm đứng.
+Chúng tôi khuyến cáo các bạn không nên lạm dụng render 720 multi-point mà hãy render single point, sau đó dùng chương trình VR Editor của House3D để ghép các point lại với nhau
+Sent by Bùi Sỹ
+Chức năng 720 vẫn đang render bình thường, tuy nhiên tại DataCenter ở Sài Gòn hôm nay có sự đột biến về tần suất người dùng, do vậy bị chậm hơn hẳn so với thông thường.
+Chào bạn
+render bị trục trặc sáng giờ ko ren được
+e team thiết kế của modular.vn
+Cảm ơn bạn đã ghé thăm, House3D có thể hỗ trợ gì cho bạn?  https://house3d.com/
+xem giúp e phầ render 720

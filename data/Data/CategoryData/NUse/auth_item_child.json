@@ -1,0 +1,22 @@
+[
+	{
+		"parent": "admin",
+		"child": "backend_permission"
+	},
+	{
+		"parent": "admin",
+		"child": "create"
+	},
+	{
+		"parent": "admin",
+		"child": "delete"
+	},
+	{
+		"parent": "admin",
+		"child": "edit"
+	},
+	{
+		"parent": "admin",
+		"child": "view"
+	}
+]

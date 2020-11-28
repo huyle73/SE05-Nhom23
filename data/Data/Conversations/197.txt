@@ -1,0 +1,12 @@
+Ok em, còn xuất ra máy cnc khi nào hoàn thiện đc em
+House3D đang chỉ nhận import file ảnh vào thôi ạ. (Định dạng png hoặc jpg)
+Còn từ file autocad thì anh/chị vui lòng xuất ra file ảnh, hoặc chụp màn hình và lưu ảnh lại mới có thể import vào phần mềm ạ
+Hiện tại xuất ra CNC vẫn đang R&D ạ
+Có import đc file cad vô đc ko vây?
+Cho a hỏi cái này mình có xuất đc file ra máy cnc ko
+Đc rồi e
+anh ơi mình tải ứng dụng về chưa ạ
+Hiện tại hệ thống server app đang được bảo trì. Bạn chờ chúng tôi sẽ thông báo lại trên fanpage nhé
+minhf tải về mà không dc
+Cảm ơn bạn đã ghé thăm, House3D có thể hỗ trợ gì cho bạn?  https://house3d.com/
+cho mình hỏi làm sao tải ứng dụng về cho mac
