@@ -39,15 +39,3 @@ def remove_stop_word(text):
 
     text = line_empty
     return text
-if __name__ == '__main__':
-    fileName = "C:\\Users\Mr.SpAm-PC\PycharmProjects\ChatBot\Data\Conversations\\20.txt"
-    file = open(fileName,"r",encoding="utf-8")
-    text = file.read()
-    text = remove_url(text)
-    print(text)
-    print("oke")
-    text = remove_special_characters(text)
-    print(text)
-    print("oke")
-    text = remove_stop_word(text)
-    print(text)
