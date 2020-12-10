@@ -1,5 +1,0 @@
-https://academy.house3d.com/guide/how-to-install-house3d-on-macos?lang=vi
-Bạn cần cho phép H3D quyền khởi động ứng dụng, đây là do tính năng bảo mật của MacOS
-Mình tải về cả 2 phiên bản cho Mac đều mở k dc :(
-Cảm ơn bạn đã ghé thăm, House3D có thể hỗ trợ gì cho bạn?  https://house3d.com/
-Có phiên bản nào chạy được trên Hệ điều hành OS X EL Capitan k ạ ?

@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.*" />
+          <option value="Process.convert.some_parser" />
+          <option value="taggers" />
+          <option value="text_to_tsv_class" />
+          <option value="Process.WebannoAnnotationTools.tests.test_process_tsv.*" />
+          <option value="Process.WebannoAnnotationTools.classes.join_entities_with_relations.Annotation" />
+          <option value="Process.convert2.*" />
+          <option value="typing.Pattern.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
