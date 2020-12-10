@@ -28,3 +28,14 @@ class Doc:
 
 class Tag:
     def __init__(self,filename):
+        self.tag(filename)
+        self.loadDoc(filename)
+
+    def loadDoc(self,filename):
+        doc = Doc(filename)
+        questions = doc.load_data_question(filename)
+        answers = doc.load_data_answer(filename)
+        return (questions,answers)
+    def tag(self,filename):
+        data = self.loadDoc(filename)
+        return (filename,data)
