@@ -39,3 +39,27 @@ class Tag:
     def tag(self,filename):
         data = self.loadDoc(filename)
         return (filename,data)
+
+def write_intents():
+    path = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/data_raw"
+    contextures = os.listdir(path)
+    # print(contextures)
+    for contexture in contextures:
+        if contexture != ".DS_Store":
+            # print(contexture)
+            path_lv2 = path+"/"+contexture
+            # print(path_lv2)
+            tags = os.listdir(path_lv2)
+            # print(tags)
+            for tag in tags:
+                # print(tag)
+                if tag != ".DS_Store":
+                    path_lv3 = path_lv2+"/"+tag
+                    docs = os.listdir(path_lv3)
+                    for doc in docs:
+                        print(doc)
+
+
+    return 0
+
+write_intents()
