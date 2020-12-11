@@ -14,8 +14,6 @@ from keras import layers
 
 import matplotlib.pyplot as plt
 
-from preProcess import PreProcess
-
 import json
 with open('intents.json') as json_data:
     intents = json.load(json_data)
@@ -34,8 +32,8 @@ for line in file_Stop_word:
 ignore_words = list(stopWords)
 
 for intent in intents['intents']:
-    for question in intent['questions']:
-        w = nltk.word_tokenize(question)
+    for pattern in intent['patterns']:
+        w = nltk.word_tokenize(pattern)
         words.extend(w)
         documents.append((w, intent['tag']))
         if intent['tag'] not in classes:
@@ -53,10 +51,10 @@ output_empty = [0] * len(classes)
 
 for doc in documents:
     bag = []
-    question_words = doc[0]
-    question_words = [stemmer.stem(word.lower()) for word in question_words]
+    pattern_words = doc[0]
+    pattern_words = [stemmer.stem(word.lower()) for word in pattern_words]
     for w in words:
-        if w in question_words:
+        if w in pattern_words:
             bag.append(1)
         else:
             bag.append(0)
@@ -99,7 +97,7 @@ plt.legend()
 plt.show()
 
 def clean_up_sentence(sentence):
-    sentence_words = PreProcess().preProcessing(sentence).split()
+    sentence_words = nltk.word_tokenize(sentence)
     sentence_words = [stemmer.stem(word.lower()) for word in sentence_words]
     return sentence_words
 
