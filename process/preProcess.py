@@ -1,7 +1,6 @@
 import re
 from underthesea import word_tokenize
 
-<<<<<<< HEAD
 def processing(sentence):
     sentence = normalize(sentence)
     sentence = remove_url(sentence)
@@ -54,13 +53,6 @@ def remove_stop_word(sentence):
     sentence = sent_new[:-1]
     return sentence
 
-
-if __name__ == '__main__':
-
-    sentence = "bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https://academy.house3d.com/guide/chuyen-doi-che-do-hien-thi?lang=vi"
-    sent = processing(sentence)
-    print (sent)
-=======
 class PreProcess():
     # dữ liệu khi xử lí là 1 câu
     def __int__(self,sentence):
@@ -102,4 +94,9 @@ class PreProcess():
                 sent_new += word + " "
         sentence = sent_new[:-1]
         return sentence
->>>>>>> 57607514d79a0a179c587e0610ed9b29c58c71b0
+
+if __name__ == '__main__':
+
+    sentence = "bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https://academy.house3d.com/guide/chuyen-doi-che-do-hien-thi?lang=vi"
+    sent = processing(sentence)
+    print (sent)
