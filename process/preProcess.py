@@ -25,7 +25,7 @@ class PreProcess():
         sentence = re.sub(pattern, ' ', sentence)
         return sentence
     def remove_stop_word(self,sentence):
-        fileName = "StopWords"
+        fileName = "StopWords.txt"
         file_Stop_word = open(fileName,"r",encoding="utf-8")
         stopWords = dict()
         for line in file_Stop_word:
