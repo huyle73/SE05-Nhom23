@@ -1,5 +1,6 @@
 import os
 import json
+import sys
 path = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/data_raw"
 
 class Doc:
@@ -13,6 +14,7 @@ class Doc:
         file = open(filename,"r",encoding="utf-8")
         data_answer = set()
         for line in file:
+            line = line.strip("\n")
             data_answer.add(line)
 
         answers = list(data_answer)
@@ -23,71 +25,62 @@ class Doc:
         file = open(filename,"r",encoding="utf-8")
         data_question = set()
         for line in file:
+            line = line.strip("\n")
             data_question.add(line)
 
         questions = list(data_question)
         questions.sort()
         return questions
 
-class Tag:
-    def __init__(self,filename):
-        self.tag(filename)
-        self.loadDoc(filename)
+class Intent:
+    def __init__(self,tag,question,answer,contexture_lv1,contexture_lv2):
+        self.tag = tag
+        self.question = question
+        self.answer = answer
+        self.contexture_lv1 = contexture_lv1
+        self.contexture_lv2 = contexture_lv2
 
-    def loadDoc(self,filename):
-        doc = Doc(filename)
-        questions = doc.load_data_question(filename)
-        answers = doc.load_data_answer(filename)
-        return (questions,answers)
-    def tag(self,filename):
-        data = self.loadDoc(filename)
-        return (filename,data)
-def form_intent(tag,que,ans,contexture_lv2,contexture):
-
-    intent ={
-        "tag": tag,
-        "question":que,
-        "answer": ans,
-        "contexture": contexture,
-        "contexture_lv2":contexture_lv2
-        }
-    return intent
-def write_intents():
+    def form_intent(self):
+        intent = {
+            "tag":  self.tag,
+            "question":self.question,
+            "answer": self.answer,
+            "contexture_lv1": self.contexture_lv1,
+            "contexture_lv2":self.contexture_lv2
+            }
+        return intent
+def load_intents(path_data_raw):
     intents = []
-    path = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/data_raw"
+
     contextures = os.listdir(path)
-    # print(contextures)
-
-
+    # tầng 1:
     for contexture in contextures:
         if contexture != ".DS_Store":
             # print(contexture+"\n")
-            path_lv2 = path+"/"+contexture
+            path_lv2 = path_data_raw+"/"+contexture
             # print(path_lv2)
             contextures_lv2 = os.listdir(path_lv2)
 
-
-
+    # tầng 2:
             for contexture_lv2 in contextures_lv2:
                 if contexture_lv2 != ".DS_Store":
                     path_lv3 = path_lv2+"/"+contexture_lv2
                     tags = os.listdir(path_lv3)
                     # print(tags)
 
-
-
+    # tầng 3:
                     for tag in tags:
                         if tag != ".DS_Store":
-                            print(tag)
+                            # print(tag)
                             path_lv4 = path_lv3+"/"+tag
                             docs = os.listdir(path_lv4)
-
-
+    # tầng 4:
+                            ans = []
+                            que = []
                             for doc in docs:
                                 if doc != ".DS_Store":
                                     path_doc = path_lv4+"/"+doc
-                                    ans = []
-                                    que = []
+
                                     if doc =="answer.txt":
                                         answers = Doc(path_doc)
                                         ans = answers.load_data_answer()
@@ -96,13 +89,21 @@ def write_intents():
                                         quetions = Doc(path_doc)
                                         que = quetions.load_data_question()
                                         # print(que)
-                                    intents.append(form_intent(tag,que,ans,contexture_lv2,contexture))
 
-                            print()
+                            intent = Intent(tag,que,ans,contexture_lv2,contexture)
 
-
-            print("oke\n")
+                            intents.append(intent)
+    print("loaded!")
     return intents
-
-intents = write_intents()
-print(intents)
+def wirte_intents(path_data_raw,path_out):
+    intents = load_intents(path_data_raw)
+    result={"intents": [intent.form_intent() for intent in intents]}
+    result =json.dumps(result, ensure_ascii=False,indent=4)
+    print(result)
+    file_out = open(path_out,"w",encoding="utf-8")
+    file_out.write(result)
+    file_out.close()
+if __name__ == '__main__':
+    path_data_raw = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/data_raw"
+    path_out = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/dataset/intents"
+    wirte_intents(path_data_raw,path_out)
