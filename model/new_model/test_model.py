@@ -42,14 +42,15 @@ for intent in intents['intents']:
         documents.append((w, intent['tag']))
         if intent['tag'] not in classes:
             classes.append(intent['tag'])
-            contexture.append((intent['contexture_lv1'],intent['contexture_lv2']))
+
 
 
 words = [stemmer.stem(w.lower()) for w in words if w not in ignore_words]
 words = sorted(list(set(words)))
 
 classes = sorted(list(set(classes)))
-contexture = sorted(list(set(contexture)))
+# contexture = sorted(list(set(contexture)))
+
 
 output_empty = [0] * len(classes)
 
@@ -82,7 +83,7 @@ def bow(sentence, words, show_details=False):
 
 model = load_model('model.h5')
 sleep(5)
-p = bow("nạp tiền vào tài khoản", words)
+p = bow("render facebook", words)
 print(p)
 print(classes)
 
@@ -94,6 +95,16 @@ tot = np.vstack((p, a))
 prediction = model.predict(tot)
 predicted_index = np.argmax(prediction)
 print (classes[predicted_index])
-# index = intents['intents'][classes]
-# print(index)
-print(contexture)
+
+name_class = classes[predicted_index]
+
+response = ""
+for intent in intents["intents"]:
+    if intent["tag"] == name_class:
+        contexture.append((intent['contexture_lv1'], intent['contexture_lv2']))
+        response = random.choice(intent['answers'])
+
+print(contexture[0])
+
+print("cau tra loi la:", response)
+
