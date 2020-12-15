@@ -11,7 +11,6 @@ import random
 from tensorflow import keras
 from keras.models import load_model
 
-import matplotlib.pyplot as plt
 
 from process.preProcess import processing
 
@@ -106,5 +105,5 @@ for intent in intents["intents"]:
 
 print(contexture[0])
 
-print("cau tra loi la:", response)
+print("Câu trả lời:", response)
 
