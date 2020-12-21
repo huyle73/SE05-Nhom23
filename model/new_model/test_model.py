@@ -79,31 +79,32 @@ def bow(sentence, words, show_details=False):
                 if show_details:
                     print ("found in bag: %s" % w)
     return(np.array(bag))
+def predict(sentence):
+    model = load_model('model.h5')
+    sleep(5)
+    p = bow(sentence, words)
+    # print(p)
+    # print(classes)
+    #
+    d = len(p)
+    f = len(documents) - 2
+    a = np.zeros([f, d])
+    tot = np.vstack((p, a))
 
-model = load_model('model.h5')
-sleep(5)
-p = bow("render facebook", words)
-print(p)
-print(classes)
+    prediction = model.predict(tot)
+    predicted_index = np.argmax(prediction)
+    print (classes[predicted_index])
 
-d = len(p)
-f = len(documents) - 2
-a = np.zeros([f, d])
-tot = np.vstack((p, a))
+    name_class = classes[predicted_index]
 
-prediction = model.predict(tot)
-predicted_index = np.argmax(prediction)
-print (classes[predicted_index])
+    response = ""
+    for intent in intents["intents"]:
+        if intent["tag"] == name_class:
+            contexture.append((intent['contexture_lv1'], intent['contexture_lv2']))
+            response = random.choice(intent['answers'])
 
-name_class = classes[predicted_index]
+    # print(contexture[0])
 
-response = ""
-for intent in intents["intents"]:
-    if intent["tag"] == name_class:
-        contexture.append((intent['contexture_lv1'], intent['contexture_lv2']))
-        response = random.choice(intent['answers'])
-
-print(contexture[0])
-
-print("Câu trả lời:", response)
+    print("Câu trả lời:", response)
+    return response
 
