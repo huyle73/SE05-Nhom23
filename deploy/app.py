@@ -1,33 +1,32 @@
 import os
+import sys
+
 import requests
-from flask import Flask, request, render_template
+from flask import Flask, request
 
 import nltk
-
 nltk.download('punkt')
 from nltk.stem.lancaster import LancasterStemmer
-
 stemmer = LancasterStemmer()
 
 import numpy as np
 import random
-
 from tensorflow import keras
 from keras.models import load_model
-# from model.new_model.test_model import predict
 
 from process.preProcess import processing
 
+# import our chat-bot intents file
 import json
-
 with open('intents.json') as json_data:
     intents = json.load(json_data)
+
 
 words = []
 classes = []
 documents = []
 
-fileName = "StopWords.txt"
+fileName = "StopWords"
 file_Stop_word = open(fileName,"r",encoding="utf-8")
 stopWords = set()
 for line in file_Stop_word:
