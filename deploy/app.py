@@ -48,7 +48,7 @@ model = load_model('model.h5')
 
 def clean_up_sentence(sentence):
     sentence_words = processing(sentence).split()
-    sentence_words = [word.lower() for word in sentence_words if len(word)>1]
+    sentence_words = [word.lower() for word in sentence_words if len(word) > 1]
     return sentence_words
 
 
@@ -93,9 +93,9 @@ def response(sentence, userID, show_details=False):
             for i in intents['intents']:
                 if i['tag'] == results[0][0]:
                     if 'contexture_lv1' in i:
-                        if show_details: print('context:', i['contexture_lv2'])
+                        if show_details: print('context:', i['contexture_lv1'] ,",", i['contexture_lv2'])
                         context[userID] = i['contexture_lv1']
-                    if not 'context_filter' in i or \
+                    if not 'contexture_lv1' in i or \
                             (userID in context and 'contexture_lv1' in i and i['contexture_lv1'] == context[userID]):
                         if show_details: print('tag:', i['tag'])
                         return (random.choice(i['answers']))
