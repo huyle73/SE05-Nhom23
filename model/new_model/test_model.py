@@ -1,16 +1,12 @@
 from time import sleep
 
-import nltk
-
-from nltk.stem.lancaster import LancasterStemmer
-stemmer = LancasterStemmer()
+from underthesea import word_tokenize
 
 import numpy as np
 import random
 
 from tensorflow import keras
 from keras.models import load_model
-
 
 from process.preProcess import processing
 
@@ -24,7 +20,6 @@ documents = []
 
 contexture = []
 
-
 fileName = "StopWords"
 file_Stop_word = open(fileName,"r",encoding="utf-8")
 stopWords = set()
@@ -36,27 +31,24 @@ ignore_words = list(stopWords)
 
 for intent in intents['intents']:
     for question in intent['questions']:
-        w = nltk.word_tokenize(question)
+        w = word_tokenize(question)
         words.extend(w)
         documents.append((w, intent['tag']))
         if intent['tag'] not in classes:
             classes.append(intent['tag'])
 
 
-
-words = [stemmer.stem(w.lower()) for w in words if w not in ignore_words]
+words = [w.lower() for w in words if w not in ignore_words if len(w) != 1]
 words = sorted(list(set(words)))
 
 classes = sorted(list(set(classes)))
-# contexture = sorted(list(set(contexture)))
-
 
 output_empty = [0] * len(classes)
 
 for doc in documents:
     bag = []
     question_words = doc[0]
-    question_words = [stemmer.stem(word.lower()) for word in question_words]
+    question_words = [word.lower() for word in question_words if len(word) > 1]
     for w in words:
         if w in question_words:
             bag.append(1)
@@ -66,8 +58,9 @@ for doc in documents:
 
 def clean_up_sentence(sentence):
     sentence_words = processing(sentence).split()
-    sentence_words = [stemmer.stem(word.lower()) for word in sentence_words]
+    sentence_words = [word.lower() for word in sentence_words if len(word) > 1]
     return sentence_words
+
 
 def bow(sentence, words, show_details=False):
     sentence_words = clean_up_sentence(sentence)
@@ -79,6 +72,8 @@ def bow(sentence, words, show_details=False):
                 if show_details:
                     print ("found in bag: %s" % w)
     return(np.array(bag))
+
+
 def predict(sentence):
     model = load_model('model.h5')
     sleep(5)
@@ -103,8 +98,6 @@ def predict(sentence):
             contexture.append((intent['contexture_lv1'], intent['contexture_lv2']))
             response = random.choice(intent['answers'])
 
-    # print(contexture[0])
-
-    print("Câu trả lời:", response)
+    # print("Câu trả lời:", response)
     return response
 
