@@ -1,148 +1,120 @@
+from underthesea import word_tokenize
+
+import numpy as np
+import random
+
 from tensorflow import keras
 from keras.models import Sequential
-from keras.layers import Dense, Activation
+from keras.layers import Dense, Activation, Dropout
 from keras import utils
 from keras import layers
+
 import matplotlib.pyplot as plt
-import numpy as np
+import pickle
+
 import json
-import random
-from  process.preProcess import processing
 
-from  underthesea import word_tokenize
+file_intents = "../dataset/intents.json"
 
-def train(file_data):
-    training = create_data_training(file_data=file_data)
+with open(file_intents) as json_data:
+    intents = json.load(json_data)
 
-    train_x = list(training[:,0])
-    train_y = list(training[:,1])
+words = []
+classes = []
+documents = []
 
-    model = Sequential()
-    model.add(Dense(128, input_shape=[len(train_x[0],)]))
-    model.add(Dense(64))
-    model.add(Dense(32))
-    model.add(Dense(len(train_y[0]), activation='softmax'))
+fileName = "../process/StopWords"
 
-    model.summary()
-    model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
-    history = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=8)
+file_Stop_word = open(fileName,"r",encoding="utf-8")
+stopWords = set()
 
-    model.save('C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/model/H3D.h5')
+for line in file_Stop_word:
+    line = line.strip("\n")
+    stopWords.add(line)
 
-    history_dict = history.history
-    history_dict.keys()
+ignore_words = list(stopWords)
 
-    acc = history.history['acc']
-    loss = history.history['loss']
-    epochs = range(1, len(acc) + 1)
-    plt.plot(epochs, acc, 'bo', label='Training acc')
+for intent in intents['intents']:
+    for question in intent['questions']:
+        w = word_tokenize(question)
+        words.extend(w)
+        documents.append((w, intent['tag']))
+        if intent['tag'] not in classes:
+            classes.append(intent['tag'])
 
-    plt.title('Training and validation accuracy')
-    plt.legend()
-    plt.figure()
-    plt.plot(epochs, loss, 'bo', label='Training loss')
-    plt.title('Training and validation loss')
-    plt.legend()
-    plt.show()
+words = [w.lower() for w in words if w not in ignore_words if len(w) != 1]
+words = sorted(list(set(words)))
 
-def load_ignore_words(file_data):
-    with open(file_data,"r",encoding="utf-8") as f:
-        ignore_words = [ word for word in f]
-    return ignore_words
-def load_data_training(file_data):
-    # import chat-bot intents file
-    with open(file_data,encoding="utf-8") as json_data:
-        intents = json.load(json_data)
+classes = sorted(list(set(classes)))
 
-    words = []
-    classes = []
-    documents = []
+pickle.dump(words, open('words.pkl', 'wb'))
+pickle.dump(classes, open('classes.pkl', 'wb'))
+pickle.dump(documents, open('documents.pkl', 'wb'))
+pickle.dump(ignore_words, open('ignore_words.pkl', 'wb'))
 
-    # loop through each sentence in our intents patterns
-    for intent in intents['intents']:
-        for question in intent['question']:
-            # tokenize each word in the sentence
-            w = word_tokenize(question)
-            # add to our words list
-            words.extend(w)
-            # add to documents in our corpus
-            documents.append((w, intent['tag']))
-            # add to our classes list
-            if intent['tag'] not in classes:
-                classes.append(intent['tag'])
-    ignore_words = load_ignore_words("C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/process/StopWords")
+dataset = []
+output = []
 
-    words = [ word for word in words if word not in ignore_words]
-    words = sorted(list(set(words)))
+output_empty = [0] * len(classes)
 
-    classes = sorted(list(set(classes)))
+for doc in documents:
+    bag = []
+    question_words = doc[0]
+    question_words = [word.lower() for word in question_words if word not in ignore_words if len(word) != 1]
 
-    print(len(documents), "documents")
-    print(len(classes), "classes", classes)
-    print(len(words), "unique stemmed words", words)
-    return documents,classes,words
+    for w in words:
+        if w in question_words:
+            bag.append(1)
+        else:
+            bag.append(0)
 
-def create_data_training(file_data):
-    documents,classes,words = load_data_training(file_data)
-    training = []
-    output = []
-    # create an empty array for our output
-    output_empty = [0] * len(classes)
+    output_row = list(output_empty)
+    output_row[classes.index(doc[1])] = 1
+    dataset.append([bag, output_row])
 
-    # training set, bag of words for each sentence
-    for doc in documents:
-        # initialize our bag of words
-        bag = []
-        # list of tokenized words for the pattern
-        pattern_words = doc[0]
-        # stem each word
-        pattern_words = [word for word in pattern_words]
-        # create our bag of words array
-        for w in words:
-            bag.append(1) if w in pattern_words else bag.append(0)
+    # print(bag)
+random.shuffle(dataset)
+len_dataset = len(dataset)
 
-        # output is a '0' for each tag and '1' for current tag
-        output_row = list(output_empty)
-        # print(classes.index(doc[1]))
-        output_row[classes.index(doc[1])] = 1
+len_train = int(len_dataset * 0.8)
 
-        training.append([bag, output_row])
+training = dataset[0:len_train]
+testing = dataset[len_train:len_dataset]
 
-        # shuffle our features and turn into np.array
-        random.shuffle(training)
-        data_training = np.array(training)
+training = np.array(training)
+testing = np.array(testing)
 
-        return data_training
+train_x = list(training[:,0])
+test_x = list(testing[:,0])
 
-def test_model(model,sentence,file_data):
-    def clean_up_sentence(sentence):
-        sentence_words = processing(sentence).split()
-        return sentence_words
+train_y = list(training[:,1])
+test_y = list(testing[:,1])
 
-    def bow(sentence, words, show_details=False):
-        sentence_words = clean_up_sentence(sentence)
-        bag = [0] * len(words)
-        for s in sentence_words:
-            for i, w in enumerate(words):
-                if w == s:
-                    bag[i] = 1
-                    if show_details:
-                        print("found in bag: %s" % w)
-        return (np.array(bag))
+model = Sequential()
+model.add(Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
+model.add(Dropout(0.6))
+model.add(Dense(64, activation='relu'))
+model.add(Dropout(0.6))
+model.add(Dense(len(train_y[0]), activation='softmax'))
 
-    documents, classes, words = load_data_training(file_data)
+model.summary()
+model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
+history = model.fit(np.array(train_x), np.array(train_y), epochs=4000, batch_size=32)
 
-    p = bow("I would like to buy flowers", words)
-    print(p)
-    print(classes)
-    d = len(p)
-    f = len(documents) - 2
-    a = np.zeros([f, d])
-    tot = np.vstack((p, a))
-    prediction = model.predict(tot)
-    predicted_index = np.argmax(prediction)
-    print (predicted_index)
+model.save('model_h3d.h5')
 
-if __name__ == '__main__':
-    file_data = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/dataset/intents.json"
-    train(file_data=file_data)
+history_dict = history.history
+history_dict.keys()
+
+acc = history.history['acc']
+loss = history.history['loss']
+epochs = range(1, len(acc) + 1)
+plt.plot(epochs, acc, 'bo', label='Training acc')
+
+plt.title('Training and validation accuracy')
+plt.legend()
+plt.figure()
+plt.plot(epochs, loss, 'bo', label='Training loss')
+plt.title('Training and validation loss')
+plt.legend()
+plt.show()
