@@ -65,7 +65,9 @@
         },
         {
             "tag": "cách kéo thả đồ đạc",
-            "questions": [],
+            "questions": [
+                "a"
+            ],
             "answers": [],
             "contexture_lv1": "lắp đặt nội thất",
             "contexture_lv2": "chức năng thiết kế cơ bản"
@@ -358,7 +360,7 @@
                 "Hcoin là gì ?",
                 "Hcoin tương ứng với bao nhiêu vnđ?",
                 "bên house3d có những phương thức thanh toán nào ?",
-                "bên mình có hỗ trợ thanh toán bằng VNPAY QR không ?",
+                "bên mình có hỗ trợ thanh toán bằnonlineg VNPAY QR không ?",
                 "bên mình hỗ trợ thanh toán qua những ngân hàng nào ?",
                 "cách thanh toán online ?",
                 "có hướng dẫn chi tiết về thanh toán cho house3d không ?",
@@ -2300,6 +2302,46 @@
             "answers": [],
             "contexture_lv1": "training cơ bản-video",
             "contexture_lv2": "training"
+        },
+        {
+            "tag": "Chào hỏi",
+            "questions": [
+                "chào bạn",
+                "chào",
+                "hi bạn",
+                "xin chào công ty house 3d",
+                "chào anh chị",
+                "chào công ty house 3d",
+                "hello",
+                "chào anh",
+                "chào chị",
+                "cho tôi hỏi",
+                "hi ad",
+                "xin chào ad",
+                "chào admin",
+                "hi admin",
+                "hello ad",
+                "xin chào anh chị ạ",
+                "em chào anh chị công ty House 3D",
+                "bạn ơi",
+                "Xin chào bạn",
+                "hi"
+
+            ],
+            "answers": [
+                "Chatbot House 3D rất hân hạnh được đón tiếp bạn",
+                "Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn",
+                "Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn",
+                "Xin chào quý khách, House 3D rất hân hạnh được phục vụ",
+                "Xin chào, rất hân hạnh được đón tiếp quý khách",
+                "Rất hân hạnh xin được gặp bạn",
+                "House 3D rất hân hạnh được đón tiếp quý khách",
+                "House 3D chatbot rất hân hạnh được phục vụ bạn"
+            ],
+            "contexture_lv1": "Chào và hỏi với khách hàng",
+            "contexture_lv2": "Chào và hỏi"
+
         }
+
     ]
 }

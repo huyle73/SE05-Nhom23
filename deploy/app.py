@@ -1,11 +1,12 @@
 import os
 import requests
-from flask import Flask, request
+from flask import Flask, request, render_template
 
 from underthesea import word_tokenize
 
 import numpy as np
 import random
+
 from tensorflow import keras
 from keras.models import load_model
 
@@ -22,7 +23,7 @@ classes = pickle.load(open("../model/classes.pkl", 'rb'))
 documents= pickle.load(open("../model/documents.pkl", 'rb'))
 ignore_words = pickle.load(open("../model/ignore_words.pkl", 'rb'))
 
-model = load_model('model_h3d.h5')
+model = load_model('../model/model_h3d.h5')
 
 def clean_up_sentence(sentence):
 
@@ -54,6 +55,8 @@ def classify(sentence):
     tot = np.vstack((p, a))
 
     results = model.predict(tot)[0]
+    result_index = np.argmax(results)
+    tag = classes[result_index]
 
     results = [[i, r] for i, r in enumerate(results) if r > ERROR_THRESHOLD]
     results.sort(key=lambda x: x[1], reverse=True)
@@ -68,19 +71,19 @@ def response(sentence, userID, show_details=False):
     if results:
         while results:
             for i in intents['intents']:
-                # find a tag matching the first result
                 if i['tag'] == results[0][0]:
-                    # set context for this intent if necessary
                     if 'contexture_lv1' in i:
                         if show_details: print('context:', i['contexture_lv1'] ,",", i['contexture_lv2'])
                         context[userID] = i['contexture_lv1']
                     if not 'contexture_lv1' in i or \
                             (userID in context and 'contexture_lv1' in i and i['contexture_lv1'] == context[userID]):
                         if show_details: print('tag:', i['tag'])
-                        return (random.choice(i['answers']))
+                        ans = (random.choice(i['answers']))
+                        return ans
             results.pop(0)
+    return "Xin lỗi tôi không hiểu, bạn có thể tôi câu khác được không"
 
-# print(response("thanh toán online", "123", show_details=True))
+response("", "", show_details=True)
 
 app = Flask(__name__)
 
@@ -148,9 +151,18 @@ def send_message(recipient_id, message_text):
         print(r.status_code)
         print(r.text)
 
-# @app.route('/gui')
-# def index():
-#     return render_template('index1.html')
+@app.route('/gui')
+def index():
+    return render_template('index1.html')
+
+
+@app.route('/test')
+def get_bot_response():
+    message = request.args.get('msg')
+    if message:
+        return response(message,"123",show_details=True)
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#sudo /opt/lampp/lampp start run XAMPP
