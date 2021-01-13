@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <link rel="stylesheet" href='/static/main.css' />
+      <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+
+body {
+  /* Set "my-sec-counter" to 0 */
+  counter-reset: my-sec-counter;
+}
+
+h3::before {
+  /* Increment "my-sec-counter" by 1 */
+  counter-increment: my-sec-counter;
+  content: "" counter(my-sec-counter) ". ";
+}
+</style>
+
+  </head>
+  <body>
+    <h1>{{title}}</h1>
+    <table>
+
+        <tr>
+            {% for row in rows %}
+            <td>
+                <h3>
+                    {{row[0]}}</br>
+                </h3>
+            </td>
+        </tr>
+            {% endfor %}
+    </table>
+ </body>
+</html>

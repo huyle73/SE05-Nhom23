@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>House 3D's Data</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+<form method="POST" action="">
+
+<h2>Welcome to House 3D's Data</h2>
+
+
+<div class="container">
+
+    <label for="qs">Question</label>
+    <input type="text" id="qs" name = "Question" placeholder="Insert your question here..">
+
+
+
+    <label for="ans">Answer</label>
+    <input type="text" id="ans" name="Answer" placeholder="Insert your answer here..">
+
+    <label for="table">Table name</label>
+    <input type="text" id="table" name="Table" placeholder="Insert your table name here..">
+
+
+ <input type="submit" name="submit_button" value="Show table name">
+    <input type = "submit" name="submit_button" value="Insert">
+
+
+    <center>
+        <img src="https://cdn2.house3d.com/app/webroot/assets/logo_2c88313475cc631f2d5ebb53746d05b9.png" style = "position : left" class="img-fluid" width="271.5" height="100">
+    </center>
+
+
+</div>
+</form>
+</body>
+</html>
