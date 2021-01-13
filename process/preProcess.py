@@ -38,7 +38,7 @@ def remove_special_characters(sentence):
     return sentence
 
 def remove_stop_word(sentence):
-    fileName = "StopWords"
+    fileName = "../SE05-Nhom23/process/StopWords"
     file_Stop_word = open(fileName,"r",encoding="utf-8")
     stopWords = set()
     for line in file_Stop_word:

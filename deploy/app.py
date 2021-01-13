@@ -13,17 +13,15 @@ from keras.models import load_model
 import json
 import pickle
 
-file_intents = "../dataset/intents.json"
-
-with open(file_intents) as json_data:
+with open('../SE05-Nhom23/dataset/intents.json', encoding="utf-8") as json_data:
     intents = json.load(json_data)
 
-words = pickle.load(open("../model/words.pkl", 'rb'))
-classes = pickle.load(open("../model/classes.pkl", 'rb'))
-documents= pickle.load(open("../model/documents.pkl", 'rb'))
-ignore_words = pickle.load(open("../model/ignore_words.pkl", 'rb'))
+words = pickle.load(open("../SE05-Nhom23/deploy/words.pkl", 'rb'))
+classes = pickle.load(open("../SE05-Nhom23/deploy/classes.pkl", 'rb'))
+documents= pickle.load(open("../SE05-Nhom23/deploy/documents.pkl", 'rb'))
+ignore_words = pickle.load(open("../SE05-Nhom23/deploy/ignore_words.pkl", 'rb'))
 
-model = load_model('../model/model_h3d.h5')
+model = load_model('../SE05-Nhom23/model/model_h3d.h5')
 
 def clean_up_sentence(sentence):
 
