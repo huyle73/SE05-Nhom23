@@ -24,7 +24,7 @@ Next version will be extended from dev branch.
 - Tensorflow 1.7.0
 - Flask==0.11.1
 - Keras==2.1.5
-- Uderthesea==1.2.3
+- Underthesea==1.2.3
 
 Download requirements by running this commands on command line ! 
 ```
@@ -40,7 +40,7 @@ git clone https://github.com/huyle73/SE05-N3.git
 ```
 
 #### Data
-- Data raw: are files that have been sorted into files containing the subject and question answer of each topic.
+- Data raw: are files that have been sorted into files containing the subjects, questions and answers of each topic.
 
 - Dataset: The `intents.json` file contains all data of raw data that has been broken down by subject and questions and answers that appropriate with context.
 
@@ -49,7 +49,7 @@ git clone https://github.com/huyle73/SE05-N3.git
  python load_data_raw.py
 ```
 
-*** The result of running this file is the intents file that have format like this:
+*** The result of running the above file is that the intents file has the following format:
 ```
 {
     "intents": [
@@ -97,9 +97,9 @@ Run file ``test_model.py`` for testing model and chat `thoát` to quit program.
 
 #### In this case, we use platform ``Flask`` và free server ``Heroku`` for building web app.
 
-####1. Build app
+#### 1. Build app
 
-You need to register a new account[Heroku](http://heroku.com/) here.
+You need to register a new account [Heroku](http://heroku.com/) here.
 And install heroku by this command:
 ```
 sudo snap install --classic heroku
@@ -114,7 +114,7 @@ git push heroku master
 ```
 After running completely, you will have a link to your website.
 We use this link for configuring for webhooks on the next part.
-####2. Connect app to Facebook
+#### 2. Connect app to Facebook
 
 Sign in [FacebookforDeveloper](https://developers.facebook.com/) then go to My app and Create a new app.
 On Production part, you add 2 folders:
