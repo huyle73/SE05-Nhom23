@@ -68,21 +68,21 @@ git clone https://github.com/huyle73/SE05-N3.git
 ```
 
 #### Training
-In this case, we have pretrained model ``H3D.h5`` run stably.
+In this case, we have pretrained model ``model_h3d.h5`` run stably.
 
 If you want to reatrain mode, you move to folder model and run file `model.py`
 ```
 python model.py
 ```
 
-After running completely, you will have file `model_h3d.h5` and the files included in the  `app` directory that consists of:
+After running completely, you will have file `model_h3d.h5` and the files included in the  `deploy` directory that consists of:
 ```
 - classes.pkl
 - documents.pkl
 - ignore_words.pkl
 - words.pkl
 ```
-*** When the run is complete, there will be model evaluation parameters, with an accuracy of over 0.8 then acceptable. You need copy all files output to folder `app` to buil web app.
+*** When the run is complete, there will be model evaluation parameters, with an accuracy of over 0.9 then acceptable. You need copy all files output to folder `app` to buil web app.
 
 #### Testing
 
@@ -114,7 +114,7 @@ We use this link for configuring for webhooks on the next part.
 
 #### 2. Connect app to Facebook
 
-Sign in [FacebookforDeveloper](https://developers.facebook.com/) then go to My app and Create a new app.
+Sign in [Facebook for Developer](https://developers.facebook.com/) then go to My app and Create a new app.
 On Production part, you add 2 folders:
 ```
 Webhooks
@@ -149,7 +149,7 @@ You can test your application on Facebook already.
 
 Run file `update.py` for updating data and model.
 
-Files ``intents.json`` and ``model_h3d.h5`` will be created in update folder. Let's copy and replace in folder `deploy`.
+Files ``intents.json``, ``model_h3d.h5``, and attachment files will be created in `deploy` folder.
 Finally, run this command:
 ```
 git add .
