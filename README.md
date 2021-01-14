@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ## Get started
-#### We recommend you install this software on Ubuntu operating system.
+#### We highlrecommend you install this software on Ubuntu operating system.
 #### If you run on Window operating system, you need to install Anaconda.
 #### Clone the repository
 ```
@@ -87,7 +87,7 @@ After running completely, you will have file `model_h3d.h5` and the files includ
 - ignore_words.pkl
 - words.pkl
 ```
-*** When the run is complete, there will be model evaluation parameters, with an accuracy of over 0.9 then acceptable.
+*** When the run is complete, there will be model evaluation parameters, with an accuracy of over 0.8 then acceptable.
 
 #### Testing
 
@@ -100,10 +100,12 @@ Run file ``test_model.py`` for testing model and chat `thoát` to quit program.
 #### 1. Build app
 
 You need to register a new account [Heroku](http://heroku.com/) here.
-And install heroku by this command:
+And install heroku by this command(for Ubuntu):
 ```
 sudo snap install --classic heroku
 ```
+*** ìf you install heroku on Windows, you can follow this [link](https://devcenter.heroku.com/articles/heroku-cli).
+
 Next, run this command to push app on server
 ```
 git init
@@ -114,6 +116,7 @@ git push heroku master
 ```
 After running completely, you will have a link to your website.
 We use this link for configuring for webhooks on the next part.
+
 #### 2. Connect app to Facebook
 
 Sign in [FacebookforDeveloper](https://developers.facebook.com/) then go to My app and Create a new app.
