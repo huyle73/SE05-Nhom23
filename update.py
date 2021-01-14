@@ -20,26 +20,26 @@ def load_database_form_sql():
         query = "select * from `"+table[0]+"`"
         cursor.execute(query)
         data = cursor.fetchall()
-        print(data)
+        # print(data)
         database.append((table,data))
     return database
 
 
-def update_dataset(database):
-    class Intent:
-        def __init__(self,tag,question,answer):
-            self.tag = tag
-            self.question = question
-            self.answer = answer
+class Intent:
+    def __init__(self,tag,question,answer):
+        self.tag = tag
+        self.question = question
+        self.answer = answer
 
-        def form_intent(self):
-            intent = {
-                "tag":  self.tag,
-                "questions":self.question,
-                "answers": self.answer,
+    def form_intent(self):
+        intent = {
+            "tag":  self.tag,
+            "questions":self.question,
+            "answers": self.answer,
+            }
+        return intent
 
-                }
-            return intent
+def load_new_data(database):
     intents = []
     for data in database:
         tag = str(data[0][0]).lower().replace("\b","")
@@ -47,20 +47,27 @@ def update_dataset(database):
         question= set()
         answer =set()
         for qa in data[1]:
-            print(qa)
+            # print(qa)
             question.add(qa[0])
             answer.add(qa[1])
 
         intent = Intent(tag,list(question),list(answer)).form_intent()
         intents.append(intent)
-    result={"intents": intents}
+    return intents
+
+def update_dataset():
+    database = load_database_form_sql()
+    intents_new = load_new_data(database)
+
+    result={"intents": intents_new}
     result =json.dumps(result, ensure_ascii=False,indent=4)
-    file_out = 'update/intents1.json'
+    file_out = 'deploy/intents.json'
     file_out = open(file_out,"w",encoding="utf-8")
     file_out.write(result)
     file_out.close()
     print("Update data successfully")
 
+update_dataset()
 
 #2 update model
 from underthesea import word_tokenize
@@ -71,7 +78,7 @@ from keras.layers import Dense,Dropout
 import pickle
 
 def buil_new_model():
-    with open('update/intents1.json', encoding ="utf-8") as json_data:
+    with open('deploy/intents.json', encoding ="utf-8") as json_data:
         intents = json.load(json_data)
 
     words = []
@@ -100,10 +107,10 @@ def buil_new_model():
 
     classes = sorted(list(set(classes)))
 
-    pickle.dump(words, open('update/words.pkl', 'wb'))
-    pickle.dump(classes, open('update/classes.pkl', 'wb'))
-    pickle.dump(documents, open('update/documents.pkl', 'wb'))
-    pickle.dump(ignore_words, open('update/ignore_words.pkl', 'wb'))
+    pickle.dump(words, open('deploy/words.pkl', 'wb'))
+    pickle.dump(classes, open('deploy/classes.pkl', 'wb'))
+    pickle.dump(documents, open('deploy/documents.pkl', 'wb'))
+    pickle.dump(ignore_words, open('deploy/ignore_words.pkl', 'wb'))
 
     dataset = []
     output = []
@@ -130,7 +137,7 @@ def buil_new_model():
     random.shuffle(dataset)
     len_dataset = len(dataset)
 
-    len_train = int(len_dataset * 0.8)
+    len_train = int(len_dataset * 0.75)
 
     training = dataset[0:len_train]
     testing = dataset[len_train:len_dataset]
@@ -146,28 +153,21 @@ def buil_new_model():
 
     model = Sequential()
     model.add(Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
-    model.add(Dropout(0.6))
+    model.add(Dropout(0.1))
     model.add(Dense(64, activation='relu'))
-    model.add(Dropout(0.6))
+    model.add(Dropout(0.5))
     model.add(Dense(len(train_y[0]), activation='softmax'))
-    # model = Sequential()
-    # model.add(Dense(8, input_shape=[len(train_x[0],)]))
-    # model.add(Dense(8))
-    # model.add(Dense(8))
-    # model.add(Dense(len(train_y[0]), activation='softmax'))
+
 
     model.summary()
-    model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
-    history = model.fit(np.array(train_x), np.array(train_y), epochs=4000, batch_size=32)
-    model_path = "../SE05-Nhom23/update/model_h3d.h5"
+    model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['acc'])
+    history = model.fit(np.array(train_x), np.array(train_y), epochs=20000, batch_size=64)
+    model_path = "deploy/model_h3d.h5"
     model.save(model_path)
 
     # Evaluate the model on the test data using `evaluate`
     print("Evaluate on test data")
-    results = model.evaluate(np.array(test_x), np.array(test_y), batch_size=32)
+    results = model.evaluate(np.array(test_x), np.array(test_y), batch_size=64)
     print("test loss, test acc:", results)
 
-
-database = load_database_form_sql()
-update_dataset(database)
 buil_new_model()
