@@ -87,7 +87,7 @@ def verify():
             return "Verification token mismatch", 403
         return request.args["hub.challenge"], 200
 
-    return "Nice to meet you", 200
+    return render_template('index1.html'), 200
 
 
 @app.route('/', methods=['POST'])
