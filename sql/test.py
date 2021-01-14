@@ -10,7 +10,7 @@ app.config['MYSQL_DB'] = 'CHATBOTH3D'
 mysql = MySQL(app)
 
 
-@app.route('/sql', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == "POST":
         details = request.form
