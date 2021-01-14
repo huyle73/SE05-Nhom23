@@ -43,7 +43,7 @@ def bow(sentence, words, show_details=False):
 
 context = {}
 
-ERROR_THRESHOLD = 0.95
+ERROR_THRESHOLD = 0.90
 
 def classify(sentence):
     p = bow(sentence, words)
@@ -53,8 +53,6 @@ def classify(sentence):
     tot = np.vstack((p, a))
 
     results = model.predict(tot)[0]
-    result_index = np.argmax(results)
-    tag = classes[result_index]
 
     results = [[i, r] for i, r in enumerate(results) if r > ERROR_THRESHOLD]
     results.sort(key=lambda x: x[1], reverse=True)
@@ -70,14 +68,10 @@ def response(sentence, userID, show_details=False):
         while results:
             for i in intents['intents']:
                 if i['tag'] == results[0][0]:
-                    if 'contexture_lv1' in i:
-                        if show_details: print('context:', i['contexture_lv1'] ,",", i['contexture_lv2'])
-                        context[userID] = i['contexture_lv1']
-                    if not 'contexture_lv1' in i or \
-                            (userID in context and 'contexture_lv1' in i and i['contexture_lv1'] == context[userID]):
-                        if show_details: print('tag:', i['tag'])
-                        ans = (random.choice(i['answers']))
-                        return ans
+                    ans = (random.choice(i['answers']))
+                    if ans is None:
+                        return "Câu hỏi của bạn chưa có câu trả lời trong bộ dữ liệu. Vui lòng hỏi câu hỏi khác."
+                    return ans
             results.pop(0)
     return "Xin lỗi tôi không hiểu, bạn có thể tôi câu khác được không"
 
