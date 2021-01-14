@@ -86,7 +86,7 @@ After running completely, you will have file `model_h3d.h5` and the files includ
 - ignore_words.pkl
 - words.pkl
 ```
-*** When the run is complete, there will be model evaluation parameters, with an accuracy of over 0.8 then acceptable.
+*** When the run is complete, there will be model evaluation parameters, with an accuracy of over 0.8 then acceptable. You need copy all files output to folder `app` to buil web app.
 
 #### Testing
 
