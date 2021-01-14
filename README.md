@@ -101,7 +101,7 @@ sudo snap install --classic heroku
 ```
 *** ìf you install heroku on Windows, you can follow this [link](https://devcenter.heroku.com/articles/heroku-cli).
 
-Next, run this command to push app on server
+Next, go to `deploy` folder and follow this command to push app on server:
 ```
 git init
 git add .
