@@ -12,14 +12,14 @@ from keras import layers
 import pickle
 import json
 
-with open('../SE05-Nhom23/dataset/intents.json', encoding="utf-8") as json_data:
+with open('../dataset/intents.json', encoding="utf-8") as json_data:
     intents = json.load(json_data)
 
 words = []
 classes = []
 documents = []
 
-fileName = "../SE05-Nhom23/process/StopWords"
+fileName = "../process/StopWords"
 file_Stop_word = open(fileName, "r", encoding="utf-8")
 stopWords = set()
 for line in file_Stop_word:
@@ -41,10 +41,10 @@ words = sorted(list(set(words)))
 
 classes = sorted(list(set(classes)))
 
-pickle.dump(words, open('../SE05-Nhom23/deploy/words.pkl', 'wb'))
-pickle.dump(classes, open('../SE05-Nhom23/deploy/classes.pkl', 'wb'))
-pickle.dump(documents, open('../SE05-Nhom23/deploy/documents.pkl', 'wb'))
-pickle.dump(ignore_words, open('../SE05-Nhom23/deploy/ignore_words.pkl', 'wb'))
+pickle.dump(words, open('../deploy/words.pkl', 'wb'))
+pickle.dump(classes, open('../deploy/classes.pkl', 'wb'))
+pickle.dump(documents, open('../deploy/documents.pkl', 'wb'))
+pickle.dump(ignore_words, open('../deploy/ignore_words.pkl', 'wb'))
 
 dataset = []
 output = []
@@ -71,7 +71,7 @@ for doc in documents:
 random.shuffle(dataset)
 len_dataset = len(dataset)
 
-len_train = int(len_dataset * 0.8)
+len_train = int(len_dataset * 0.75)
 
 training = dataset[0:len_train]
 testing = dataset[len_train:len_dataset]
@@ -87,23 +87,20 @@ test_y = list(testing[:, 1])
 
 model = Sequential()
 model.add(Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
-model.add(Dropout(0.6))
+model.add(Dropout(0.1))
 model.add(Dense(64, activation='relu'))
-model.add(Dropout(0.6))
+model.add(Dropout(0.5))
 model.add(Dense(len(train_y[0]), activation='softmax'))
-# model = Sequential()
-# model.add(Dense(8, input_shape=[len(train_x[0],)]))
-# model.add(Dense(8))
-# model.add(Dense(8))
-# model.add(Dense(len(train_y[0]), activation='softmax'))
+
 
 model.summary()
-model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
-history = model.fit(np.array(train_x), np.array(train_y), epochs=4000, batch_size=32)
+model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['acc'])
+history = model.fit(np.array(train_x), np.array(train_y), epochs=10000, batch_size=64)
 
 model.save('model_h3d.h5')
+model.save('../deploy/model_h3d.h5')
 
 # Evaluate the model on the test data using `evaluate`
 print("Evaluate on test data")
-results = model.evaluate(np.array(test_x), np.array(test_y), batch_size=32)
+results = model.evaluate(np.array(test_x), np.array(test_y), batch_size=64)
 print("test loss, test acc:", results)

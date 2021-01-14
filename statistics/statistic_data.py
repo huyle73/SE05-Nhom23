@@ -1,7 +1,7 @@
 import json
 import csv
 import pandas as pd
-with open('../SE05-Nhom23/dataset/intents.json') as json_data:
+with open('../deploy/intents.json') as json_data:
     intents = json.load(json_data)
 # Các tags có câu hỏi và câu trả lời
 tags_QA = []

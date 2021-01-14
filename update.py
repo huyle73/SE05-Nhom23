@@ -161,7 +161,7 @@ def buil_new_model():
 
     model.summary()
     model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['acc'])
-    history = model.fit(np.array(train_x), np.array(train_y), epochs=20000, batch_size=64)
+    history = model.fit(np.array(train_x), np.array(train_y), epochs=4000, batch_size=64)
     model_path = "deploy/model_h3d.h5"
     model.save(model_path)
 

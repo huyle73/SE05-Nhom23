@@ -1,2723 +1,1643 @@
 {
     "intents": [
         {
-            "tag": "chức năng đóng góp mặt bằng",
-            "questions": [
-                "chức năng đóng góp sơ đồ mặt bằng ở đâu?",
-                "làm thế nào để đóng góp thêm vào sơ đồ mặt bằng đã có sẵn?",
-                "thêm vị trí sơ đồ mặt bằng ở đâu?",
-                "xem sơ đồ mặt bằng ở đâu?",
-                "thay đổi sơ đồ mặt bằng như thế nào?",
-                "bao lâu mới được duyệt sơ đồ mặt bằng?",
-                "thay đổi tên sơ đồ mặt bằng ở đâu?",
-                "xem lại sơ đồ mặt bằng đã đóng góp ở đâu?",
-                "có thể thay đổi những thông tin gì của sơ đồ mặt bằng?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về chức năng đóng góp sơ đồ mặt bằng tại đây: https://academy.house3d.com/guide/contribute-the-site-map-2?lang=vi"
-            ],
-            "contexture_lv1": "dựng tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "xuất bản vẽ sơ đồ mặt bằng",
-            "questions": [
-                "làm thế nào để xuất bản vẽ sơ đồ mặt bằng?",
-                "xuất bản vẽ sơ đồ mặt bằng ở đâu?",
-                "tải về sơ đồ mặt bằng ở đâu?",
-                "làm thế nào để in sơ đồ mặt bằng?",
-                "làm thế nào để xoay sơ đồ mặt bằng?",
-                "xuất sơ đồ mặt bằng ở đâu?",
-                "có cách nào để xuất bản vẽ sơ đồ mặt bằng?"
-            ],
-            "answers": [
-                "Bạn có thể xuất bản vẽ sơ đồ mặt bằng ở đây: https://academy.house3d.com/guide/xuat-ban-ve-so-do-mat-bang?lang=vi"
-            ],
-            "contexture_lv1": "dựng tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "đo tường từ bản vẽ sơn đồ mặt bằng",
-            "questions": [
-                "làm thế nào dể dựng tường từ bản vẽ sơ đồ mặt bằng?",
-                "tôi không biết dựng tường từ bản vẽ sơ đồ mặt bằng ở đâu?",
-                "làm thế nào để đồ tường?",
-                "đồ lại sơ đồ mặt bằng như nào?",
-                "ẩn sơ đồ mặt bằng ở đâu?",
-                "mở file sơ đồ mặt bằng ở đâu?",
-                "tiến hành đồ tường ở đâu?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách đồ tường từ bản vẽ sơ đồ mặt bằng tại đây: https://academy.house3d.com/guide/do-tuong-tu-ban-ve-so-do-mat-bang?lang=vi"
-            ],
-            "contexture_lv1": "dựng tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "cách lưu dự án",
-            "questions": [
-                "làm thế nào để lưu dự án?",
-                "làm thế nào để lưu 2 dự án tách biệt?",
-                "chế độ lưu mới khác gì lưu bình thường?",
-                "làm thế nào để xem dự án đã lưu?",
-                "làm thế nào để lưu dự án về máy?",
-                "tôi không tìm thấy chỗ lưu dự án?",
-                "làm thế nào để xem dự án đã lưu trên đám mây?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách lưu dự án tại đây: https://academy.house3d.com/guide/cach-luu-du-an?lang=vi"
-            ],
-            "contexture_lv1": "lưu dự án",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "lưu lịch sử thiết kế dự án",
-            "questions": [
-                "làm thế nào để lưu lịch sử thiết kế dự án?",
-                "tôi không tìm thấy chỗ lưu lịch sử thiết kế dự án?",
-                "phím tắt nào dùng để lưu lịch sử thiết kế dự án?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về lưu lịch sử thiết kế dự án tại đây:https://academy.house3d.com/guide/luu-lich-su-thiet-ke-du-an?lang=vi"
-            ],
-            "contexture_lv1": "lưu dự án",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "tìm dự án",
-            "questions": [
-                "làm thế nào để tìm dự án?",
-                "có thể tìm dự án trong khoảng thời gian bao lâu?",
-                "trong khu vực tìm dự án nếu để lâu có bị mất không?",
-                "có thể tìm dự án theo bộ lọc thời gian không?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách tìm dự án tại đây: https://academy.house3d.com/guide/tim-du-an?lang=vi"
-            ],
-            "contexture_lv1": "lưu dự án",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "tìm hiểu lịch sử lưu dự án",
-            "questions": [
-                "làm thế nào để tìm lịch sử lưu dự án?",
-                "xem lịch sử đã lưu trước đây của dự án ở đâu?",
-                "tôi có thể dùng lại bản lịch sử dự án đã lưu về không?",
-                "tôi có thể khôi phục lại phần đã làm từ lịch sử dự án không?",
-                "tôi có thể lấy phần đã làm từ lịch sử lưu dự án để tạo thành 1 file mới không?",
-                "tôi có thể xem phiên bản trong lịch sử lưu dự án không?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về tìm lịch sử lưu dự án tại đây: https://academy.house3d.com/guide/tim-lich-su-luu-du-an?lang=vi"
-            ],
-            "contexture_lv1": "lưu dự án",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "xoá dự án",
-            "questions": [
-                "làm thế nào để xoá dự án?",
-                "tôi không biết chỗ xoá dự án ở đâu?",
-                "xoá dự án rồi có thể lấy lại được không?",
-                "có thể xoá được nhiều dự án không?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách xoá dự án ở đâu: https://academy.house3d.com/guide/xoa-du-an?lang=vi"
-            ],
-            "contexture_lv1": "lưu dự án",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "xoá lịch sử thiết kế dự án",
-            "questions": [
-                "làm thế nào có thể xoá lịch sử thiết kế dự án?",
-                "có thể xoá phiên bản trong lịch sử thiết kế dự án không?",
-                "không thấy chỗ xoá phiên bản đã tạo trong lịch sử thiết kế dự án?",
-                "có thể xoá tất cả phiên bản trong lịch sử thiết kế dự án không?",
-                "làm thế nào để quán lý lịch sử thiết kế dự án?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách xoá lịch sử thiết kế dự án tại đây: https://academy.house3d.com/guide/tim-lich-su-luu-du-an?lang=vi"
-            ],
-            "contexture_lv1": "lưu dự án",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "cách kéo thả đồ đạc",
-            "questions": [
-                "làm thế nào để kéo thả đồ đạc?",
-                "làm thế nào để kéo đồ ở chế độ 2D?",
-                "làm thế nào để kéo đồ ở chế độ 3D?",
-                "tôi không biết kéo đồ ở đâu?",
-                "kéo đồ vào dự án như nào?",
-                "tôi có thể kéo thả đồ đạc mong muốn không?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu cách kéo thả đồ đạc tại đây: https://academy.house3d.com/guide/cach-keo-tha-do-dac?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "căn chỉnh đối tượng",
-            "questions": [
-              "làm thế nào để căn chỉnh đối tượng,?",
-              "căn chỉnh đối tượng ở đâu?",
-              "căn chỉnh đối tượng phải để ở chế độ nào?",
-              "làm thế nào để căn chỉnh 2 đối tượng?",
-              "có những kiểu căn chỉnh nào?",
-              "làm thế nào để căn chỉnh giữa đối tượng?",
-              "làm thế nào để căn chỉnh dưới đối tượng?",
-              "làm thế nào để căn chỉnh trước đối tượng?",
-              "làm thế nào để căn chỉnh sau đối tượng?",
-              "làm thế nào để căn chỉnh trái phải đối tượng?",
-              "làm thế nào để căn chỉnh trước sau đối tượng?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về cách căn chỉnh đối tượng tại đây: https://academy.house3d.com/guide/can-chinh-doi-tuong?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "di chuyển và chỉnh sửa kích thước đối tượng",
-            "questions": [
-              "làm thế nào để chỉnh sửa kích thước đồ nội thất?",
-              "làm thế nào để chỉnh sửa  kích thước đồ nội thất trong chế độ 2D?",
-              "làm thế nào để chỉnh sửa kích thước đồ nội thất trong chế độ 3D?",
-              "làm thế nào để tchỉnh sửa kích thước đồ nội thất trong chế độ VR?",
-              "tôi có thể khoá kích thước một chiều của đồ nội thất không?",
-              "di chuyển đồ nội thất như thế nào?",
-              "làm thế nào để chỉnh sửa thông số kích thước đối tượng?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về di chuyển và chỉnh sửa kích thước đối tượng tại đây: https://academy.house3d.com/guide/move-and-resize-objects?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "nhóm và tách nhóm các đối tượng",
-            "questions": [
-              "làm thế nào để gộp các đối tượng vào một nhóm?",
-              "làm thế nào để tách nhóm thành các đối tượng?",
-              "tôi không biết chỗ gộp các đối tượng ở đâu?",
-              "tôi không biết chỗ tách nhóm các đối tượng ở đâu?",
-              "có tài liệu hướng dẫn cách gộp và tách nhóm các đối tượng không?",
-              "tôi có thể đặt tên cho nhóm các đối tượng không?",
-              "có thể thêm tối đa bao nhiêu đối tượng vào một nhóm?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về nhóm và tách nhóm ở đây: https://academy.house3d.com/guide/nhom-tach-nhom-cac-doi-tuong?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "sao chép đối tượng",
+            "tag": "lát gạch kiểu cối xay gió",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
+            "answers": []
         },
         {
-            "tag": "thay thế nhanh bằng sản phẩm cùng loại",
+            "tag": "đăng ký và cài đặt macos",
             "questions": [
-              "làm thế nào đẻ sao chép đối tượng?",
-              "có những cách nào để sao chép đối tượng?",
-              "sao chép đối tượng sử dụng tổ hợp ctr+V khác gì so với phím shift?",
-              "tôi không biết cách sao chép đối tượng?",
-              "sao chép đối tượng như nào?",
-              "sử dụng phím tắt gì để sao chép được đối tượng?"
-
+                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
+                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
+                "có video hướng đẫn cách cài đặt không?",
+                "cách đăng ký tài khoản trên House 3D ?",
+                "làm thế nào để download ứng dụng hous3d cho hệ điều hành macos ?",
+                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
+                "mình cần link kích hoạt tài khoản ?",
+                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ !",
+                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?"
             ],
             "answers": [
-              "bạn có thể tìm hiểu về cách sao chép đối tượng tại đây: https://academy.house3d.com/guide/sao-chep-doi-tuong?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
+                "ạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi",
+                "bạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi",
+                "bạn có thể tìm hiểu và"
+            ]
         },
         {
-            "tag": "thay đổi texture cho đồ thất",
+            "tag": "đăng ký và cài đặt windows",
             "questions": [
-              "làm thế nào để thay đổi texture cho đồ nội thất?",
-              "tôi không biết thay đổi texture cho đồ nội thất ở đâu?",
-              "thư viện model nào mới thay đổi được texture?",
-              "có thể thay đổi texture khác thư viện của model không?",
-              "làm thế nào để biết model có thể thay đổi được texture hay không?",
-              "thay đổi kích thước texture như thế nào?",
-              "thay đổi texture cho đồ nội thất ở đâu trong giao diện làm việc?"
+                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
+                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
+                "có video hướng đẫn cách cài đặt không?",
+                "cách đăng ký tài khoản trên House 3D ?",
+                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ ! ",
+                "cần sử dụng trình duyệt Internet Explorer phiên bản bao nhiêu để cài đặt được phần mềm",
+                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
+                "mình cần link kích hoạt tài khoản ?",
+                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
+                "làm thế nào để download ứng dụng hous3d cho hệ điều hành windows ?",
+                "em đang sử dụng hệ điều hành window 7, bên bạn có phiên bản house 3d hỗ trợ không ?"
             ],
             "answers": [
-              "bạn có thể tìm hiẻu về cách thay đổi texture cho đồ nội thất ở đây: https://academy.house3d.com/guide/thay-doi-texture-cho-do-noi-that-2?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
+                "bạn có thể tìm hiểu về cách cài đặt phần mềm trên hệ điều hành Windows qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-windows?lang=vi"
+            ]
         },
         {
-            "tag": "thêm đối tượng vào yêu thích",
-            "questions": [
-              "làm thế nào để thêm đối tượng vào bộ sưu tập yêu thích?",
-              "làm thế nào để lưu đối tượng trong thư mục chung?",
-              "tôi không biết cách thêm đối tượng vào bộ sưu tập yêu thích?",
-              "thêm bộ sư tập ưu thích ở đâu?",
-              "tôi có thể xem lại bộ sưu tập yêu thích không?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về cách thêm đối tượng yêu thích tại đây: https://academy.house3d.com/guide/them-doi-tuong-vao-yeu-thich?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "đo khoảng cách giữa các đối tượng",
-            "questions": [
-              "làm thế nào để đo khoảng cách giữa các đối tượng?",
-              "có những cách nào để đo khoảng cách giữa các đối tượng?",
-              "làm thế nào để đo khoảng cách từ cột nhà đến tường?",
-              "làm thế nào để đo khoảng cách giữa các đối tượng chính xác?",
-              "đo khoảng cách đối tượng ở chế độ 3D như thế nào?",
-              "đo khoảng cách đối tượng ở chế độ 2D như thế nào?",
-              "đo khoảng cách từ cột nhà pillar đến nội thất như nào?",
-              "khoảng cách tối đa để pillar cách tường là bao nhiêu?",
-              "làm thế nào để điều chỉnh khoảng cách cột pillar về sát tường?",
-              "đơn vị đo khoảng cách giữa các đối tượng là gì?",
-              "có thể chuyển đổi đơn vị đo giữa các đối tượng không?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về đo khoảng cách giữa các đối tượng ở đây: https://academy.house3d.com/guide/do-khoang-cach-giua-cac-doi-tuong?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "ấn và hiện model hàng loạt",
-            "questions": [
-              "làm thế nào để ẩn model?",
-              "làm thế nào để hiện model?",
-              "làm thế nào để ẩn hoặc hiện một đối tượng?",
-              "làm thế nào để ẩn hiện nhiều đối tượng?",
-              "để xem đồ vật đã ẩn đi ở đâu?",
-              "để xem model đã ẩn đi ở đâu?",
-              "làm thế nào để xoá đồ đã ẩn?",
-              "làm thế nào để hiển thị modle đã ẩn?",
-              "làm thế nào để ẩn và hiện trần?",
-              "làm thế nào để ẩn và hiện đồ nội thất?",
-              "làm thế nào để ẩn và hiện cửa?",
-              "tôi không biết chỗ ẩn model ở đâu?",
-              "tôi không biết cho hiện model sau khi ẩn ở đâu?"
-
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về cách ẩn và hiện model hàng loạt ở đây: https://academy.house3d.com/guide/an-hien-model-hang-loat?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt nội thất",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "cách lắp trần nhà",
-            "questions": [
-              "làm thế nào để lắp trần nhà?",
-              "có thể xem thiết kế những mẫu trần nhà nào?",
-              "tuỳ chỉnh kích thước trần nhà như thế nào?",
-              "điều chỉnh thông số trần nhà như thế nào?",
-              "có thể chọn những mẫu trần nhà nào?",
-              "chỉnh kích thước toàn bộ trần như thế nào?",
-              "đặt trần trong phòng ở như thế nào?",
-              "tìm thư viện trần ở đâu?",
-              "thay đổi thông số của trần như thế nào?",
-              "xem trần sau khi lắp ở đâu?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi"
-
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "lắp đặt background",
-            "questions": [
-              "làm thế nào để đặt background cho tường?",
-              "tôi có thể chọn những loại background nào?",
-              "xem thư viện tường background ở đâu?",
-              "chỉnh kích thước của tường background ở đâu?",
-              "cách lắp đặt background tường?",
-              "có những cách chỉnh sửa kích thước cho background tường nào?",
-              "làm thế nào để xem background cho tường đã thêm?",
-              "tôi không biết chỗ lắp đặt background ở đâu?",
-              "tôi khônb biết chỗ chỉnh sửa kích thước background cho tường ở dâu?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiẻu về cách lắp đặt background ở đây: https://academy.house3d.com/guide/background-wall-installation?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "texture giấy dán tường và nền",
-            "questions": [
-              "chọn texture giấy dán tường như nào?",
-              "làm thế nào để sử dụng giấy dán tường cho toàn bộ tường?",
-              "xem mẫu dán tường ở đâu?",
-              "làm thế nào để lát toàn bộ giấy dán tường vào mặt tường?",
-              "làm thế nào sử dụng giấy dán tường lên cột?",
-              "xoá giấy dán tường như thế nào?",
-              "chọn gạch lát nền ở đâu?",
-              "xoá gạch vừa lát ở đâu?",
-              "có thể chọn những mẫu gạch nào để lát?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu texture giấy dán tường và nền tại đây: https://academy.house3d.com/guide/wall-and-floor-paving?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "thêm cửa và cửa sổ",
-            "questions": [
-
-              "làm thế nào để thêm cửa?",
-              "làm thế nào để thêm cửa sổ?",
-              "làm thế nào để thêm cửa ra vào?",
-              "thay đổi kích thước cửa ở đâu?",
-              "xoay hướng mở cửa như thế nào?",
-              "tạo các lỗ cửa như nào?",
-              "làm thế nào để đặt cửa sổ?",
-              "làm thế nào để đặt ban công trong phần thêm cửa và cửa sổ?",
-              "tôi không biết chỗ thêm cửa sổ ở đâu?",
-              "tôi không biết chỗ thêm cửa ra vào ở đâu?",
-              "tôi không biết chỗ thêm ban công ở đâu?",
-              "chỉnh sửa thông số cửa sổ ở đâu?",
-              "chỉnh sửa kích thước cửa ra vào ở đâu?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về cách thêm cửa và cửa sổ tại đây: https://academy.house3d.com/guide/install-doors-and-windows?lang=vi"
-
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "thêm cửa vào Pillar",
+            "tag": "đặt ánh sáng tăng cường",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "tuỳ chỉnh kích thước gạch và xoay gạch",
-            "questions": [
-            "làm thế nào để tuỳ chỉnh kích thước gạch?",
-            "làm thé nào để xoay gạch?",
-            "thay đổi thông số kích thước gạch ở đâu?",
-            "xoay gạch như thế nào?",
-            "làm thế nào để di chuyển viên gạch theo từng chiều?",
-            "tôi không biết tuỳ chỉnh xoay gạch ở đâu?",
-            "làm thế nào để tuỳ chỉnh vị trí của gạch?"
-
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về tuỳ chỉnh kích thước gạch và xoay gạch tại đây: https://academy.house3d.com/guide/modify-set-start-point-for-paver?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "tuỳ chỉnh len chân tường, phào trần",
-            "questions": [
-              "làm thế nào để chọn kiểu cho phào trần?",
-              "làm thế nào để chọn chất liệu cho phào trần?",
-              "làm thế nào để lắp đặt len tường?",
-              "hiện phào trần ở đâu?",
-              "ẩn phào trần ở đâu?",
-              "xem hiển thị phào trần ở đâu?",
-              "làm thế nào để thay đổi hình dáng phào trần?",
-              "chọn vật liệu cho phào trần như thế nào?",
-              "làm thế nào để thay đổi len chân tường?",
-              "hiển thị len chân tường và phào trần cho nhà ở đâu?",
-              "cách sửa đổi lên chân tường?"
-            ],
-            "answers": [
-             "bạn có thể tìm hiểu về tuỳ chỉnh len chân tường và phào trần tại đây: https://academy.house3d.com/guide/tuy-chinh-len-chan-tuong-phao-tran?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "tạo trần có cửa sổ trời",
-            "questions": [
-              "làm thế nào để tạo trần có cửa sổ trời?",
-              "chọn cửa sổ trời ở đâu?",
-              "tuỳ chỉnh kích thước cửa sổ trời ở đâu?",
-              "tìm model cửa sổ trời ở đâu?",
-              "có những loại cửa sổ trời nào?",
-              "tạo giếng trời từ cửa sổ như thế nào?",
-              "có những cách nào để thêm cửa sổ trời?",
-              "thêm giếng trời như thế nào?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về tạo trần có cửa sổ trời tại đây: https://academy.house3d.com/guide/install-doors-and-windows?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "tạo đường viền gạch nền và đại tường",
-            "questions": [
-              "làm thế nào để đường viền cho nền nhà?",
-              "làm thế nào để trang trí đường viền cho nền nhà?",
-              "tạo viền nền nhà như thế nào?",
-              "chức năng tạo viền nền nhà ở đâu?",
-              "làm thế nào để thay đổi kích thước các viền nền nhà?",
-              "trang trí đường viền như thế nào?",
-              "làm thế nào để tạo đai tường?",
-              "thay đổi khoảng cách giữa các đai tường như thế nào?",
-              "làm thế nào để trang trí đai tường?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về tạo đường viền gạch nền và đai tường tại đây: https://academy.house3d.com/guide/tao-duong-vien-gach-nen-va-dai-tuong?lang=vi"
-            ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
+            "answers": []
         },
         {
             "tag": "đặt đèn chùm",
-            "questions": [
-              "làm thế nào để đặt đồ bám trần?",
-              "làm thế nào để đặt đèn trần?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về cách đặt đèn chùm, trần và đồ bám trần tại đây https://academy.house3d.com/guide/dat-den-chum-do-vat-bam-tran?lang=vi"
-         ],
-            "contexture_lv1": "lắp đặt phần cứng",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "căn chỉnh tường",
-            "questions": [
-              "làm thế nào để căn chỉnh tường?",
-              "làm thế nào có thể căn chỉnh theo tâm tường?",
-              "làm thể nào để căn chỉnh theo mép trong của tường?",
-              "làm thế nào để căn chỉnh mép ngoài của tường?",
-              "có hướng dẫn chi tiết về căn chỉnh tường không?",
-              "tôi không biết căn chỉnh tường ở đâu?",
-              "làm thế nào để căn chỉnh 2 bức tường thẳng hàng nhưng độ dày khác nhau?"
-
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về chức năng căn chỉnh tường ở đây: https://academy.house3d.com/guide/can-chinh-tuong?lang=vi"
-            ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "cắt,chia tường",
-            "questions": [
-              "làm thế nào để cắt và chia bức tường làm hai?",
-              "làm thế nào để cắt và chia tường",
-              "làm thế nào chia tường làm hai nửa bằng nhau?",
-              "có thể điều chỉnh khung tường sau khi cắt không?",
-              "làm thế nào để khôi phục lại nguyên trạng sau khi cắt?",
-              "có thể tịnh tiến tường sau khi cắt thành nhiều hướng không?",
-              "có tài liệu hướng dẫn cách cắt và chia bức tường không?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về cắt và chia tường tại đây: https://academy.house3d.com/guide/splitting-shifting-of-walls?lang=vi"
-            ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "cột, sàn, dầm",
-            "questions": [
-              "làm thế nào để đặt cột vào bản vẽ?",
-              "làm thế nào để chỉnh sửa thông số cột?",
-              "làm thế nào để chỉnh sửa khoảng cách cột với tường?",
-              "làm thế nào để xoá cột?",
-              "làm thế nào để thêm bục?",
-              "làm thế nào để thêm sàn?",
-              "làm thế nào để chỉnh sửa thông số bục và sàn?",
-              "làm thế nào để thêm xà và dầm?",
-              "làm thế nào để chỉnh thông số xà và dầm?",
-              "làm thế nào để xem cột, xà và dầm đã được thêm trong phòng?",
-              "làm thế nào để vẽ cầu thang bằng tấm xà?",
-              "làm thế nào để ẩn cột?",
-              "làm thế nào để ẩn dầm?",
-              "làm thế nào để ẩn xà?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu chi tiết về cột, dầm và xà tại đây: https://academy.house3d.com/guide/cot-san-dam?lang=vi"
-            ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "khoá tường",
-            "questions": [
-              "làm thế nào để bật tính năng khoá tường?",
-              "tôi không biết chế độ khoá tường ở đâu?",
-              "làm thế nào để khoá một mặt tường?"
-            ],
-            "answers": [],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "một số kiểu vẽ tường",
-            "questions": [
-                "có những kiểu vẽ tường nào?",
-                "có tài liệu hướng dẫn về một số cách vẽ tường không?",
-                "làm thế nào để nhập độ dài trong lúc vẽ tường?",
-                "làm thế nào để tạo căn phòng bằng vẽ tường?",
-                "vẽ nét giữa trong vẽ tường là gì?",
-                "vẽ nét giữa, vẽ nét trong và ngoài tường khác gì nhau?",
-                "vẽ nét ngoài tường là gì?",
-                "vẽ nét trong tường là gì?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi"
-            ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "thay đổi kích thước tường",
-            "questions": [
-              "làm thế nào để thay đổi kích thước tường?",
-              "làm thế nào để xem kích thước độ rộng tường?",
-              "làm thế nào để chỉnh sửa kích thước chiều rộng của tường?",
-              "làm thế nào để cố định kích thước của tường?",
-              "làm thế nào để điều chỉnh kích thước độ dày của tường?",
-              "làm thế nào để đặt kích thước chiều cao của tường?",
-              "làm thế nào để thay đôi kích thước độ rộng của tường?",
-              "làm thế nào để thay kich thước đổi độ dày tường đơn?"
-
-            ],
-            "answers": [
-              "bạn có thể thay đổi kích thước của tường tại đây: https://academy.house3d.com/guide/thay-doi-kich-thuoc-tuong?lang=vi"
-            ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
-        },
-        {
-            "tag": "tuỳ chỉnh tường nâng cao",
-            "questions": [
-              "làm thế nào để tuỳ chỉnh tường trong tuỳ chỉnh nâng cao?",
-              "làm thế nào để di chuyển vị trí tường tương dối giữa các không gian trong tuỳ chỉnh tường nâng cao?",
-              "làm thế nào để thay đổi hướng căn hộ và nội thất trong tuỳ chỉnh tường nâng cao?",
-              "có hướng dẫn chi tiết về một số kĩ thuật tuỳ chỉnh tường nâng cao không?",
-              "làm thế nào để điều hịnh dạng kích thước của tường?",
-              "làm thế nào để sử dụng chức năng lật ngang trong tuỳ chỉnh tường nâng cao?",
-              "làm thế nào để sử dụng chức năng lật dọc trong tuỳ chỉnh tường nâng cao?",
-              "làm thế nào để sử dụng chức năng xoay 90 độ trong tuỳ chỉnh tường nâng cao,?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về các chức năng tuỳ chỉnh tường nâng cao tại đây: https://academy.house3d.com/guide/tuy-chinh-tuong-nang-cao?lang=vi"
-            ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
+            "questions": [],
+            "answers": []
         },
         {
             "tag": "đặt tên và ẩn tên không gian",
-            "questions": [
-              "làm thế nào để đặt tên không gian?",
-              "nếu không gian quá lớn tôi có thể đặt tên theo khu vực như nào?",
-              "làm thế nào để ẩn tên không gian?",
-              "khi tôi render ảnh 720 thì có thể thấy tên không gian như lúc đặt ở ảnh 2d không?"
-            ],
-            "answers": [
-              "bạn có thể tìm hiểu về đặt tên và ẩn tên không gian tại đây: https://academy.house3d.com/guide/set-and-hide-space-names?lang=vi"
-            ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "đục tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "đo kích thước và khoảng cách giữa các tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "đo kích thước và khoảng cách giữa các vách cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "đo khoảng cách giữa các đối tượng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "đo khoảng cách và kích thước giữa các cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "đo tường từ bản vẽ sơn đồ mặt bằng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "ẩn hiện tham số tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "ẩn và hiện model hàng loạt",
+            "questions": [],
+            "answers": []
         },
         {
             "tag": "ẩn,hiện tường ngoài",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "bàn bar bếp",
             "questions": [
-              "làm thế nào để ẩn tường ngoài?",
-              "hiện tường ngoài như thế nào?",
-              "tôi không tìm thấy chỗ ẩn tường ở đâu?",
-              "tôi đã ấn vào ẩn tường làm thế nào để hoàn tác?"
+                "Xem danh sách các texture của gian hàng ở đâu?"
             ],
             "answers": [
-              "bạn có thể tìm hiểu về hiện ẩn tường ngoài tại đây: https://academy.house3d.com/guide/anhien-tuong-ngoai?lang=vi"
+                "do duy dao",
+                "bạn có thể tìm hiểu ",
+                "ko biet"
+            ]
+        },
+        {
+            "tag": "cài đặt lưu nhanh góc nhìn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "các cách lát tấm ốp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "các cách thức lát khác nhau",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cách kéo thả đồ đạc",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cách lắp đặt tủ cơ bản có kích thước đặc biệt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cách lắp trần nhà",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cách lưu dự án",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cánh cửa chỉnh sửa đai tủ và số cánh cửa trượt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cánh cửa tạo cánh cửa trượt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cánh cửa tạo cửa tủ góc tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "có gắn đèn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "căn chỉnh đối tượng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "căn chỉnh giữa gạch hoặc khu vực lát",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "căn chỉnh khu vực cắt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "căn chỉnh tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "căn chỉnh vị trí giữa các cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "căn chỉnh vị trí giữa các tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "căn trần vào vị trí chính giữa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ chia cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ chuyển mặt bênh tủ thành cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ chuyển tấm cửa thành ngăn kéo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ sao chép định dạng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ tạo cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ tạo ngăn kéo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ thay đổi kiếu tấm cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ thay đổi kiểu ngăn kéo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cửa tủ thay đổi tham số cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cắt góc cho viên gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cắt,chia tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "cột, sàn, dầm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "chào hỏi",
+            "questions": [
+                "em chào anh chị công ty House 3D ạ",
+                "alo",
+                "cho tôi hỏi",
+                "hi",
+                "hello admin quản lý ",
+                "chào anh chị",
+                "hi ad",
+                "bạn ơi",
+                "chào bạn",
+                "xin chào ad",
+                "xin chào anh chị ạ",
+                "chào chị",
+                "hello ad",
+                "Xin chào bạn",
+                "chào công ty h3d",
+                "chào",
+                "hi bạn",
+                "hello",
+                "chào anh",
+                "xin chào công ty house 3d",
+                "chào admin",
+                "hi admin"
             ],
-            "contexture_lv1": "tạo và chỉnh sửa tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
+            "answers": [
+                "Xin chào, rất hân hạnh được đón tiếp quý khách",
+                "Rất hân hạnh xin được gặp bạn",
+                "Cảm ơn",
+                "Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn",
+                "Chatbot House 3D rất hân hạnh được đón tiếp bạn",
+                "Xin chào quý khách, House 3D rất hân hạnh được phục vụ",
+                "Xin chào quý khách",
+                "House 3D rất hân hạnh được đón tiếp quý khách",
+                "Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn"
+            ]
+        },
+        {
+            "tag": "chế độ render 2d",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "chế độ render 720 đơn điểm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "chế độ tấm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "chức năng đóng góp mặt bằng",
+            "questions": [
+                "xin chao"
+            ],
+            "answers": [
+                "hi"
+            ]
+        },
+        {
+            "tag": "chức năng cơ bản",
+            "questions": [],
+            "answers": []
         },
         {
             "tag": "chức năng chế độ hiển thị",
             "questions": [
                 "bên mình có thiết bị hỗ trợ xem vr không?",
-                "chế độ hiển thị 3d khác chế độ hiển thị vr như thế nào?",
-                "chế độ viền và tách viền khác gì nhau ?",
                 "cloud rendering là gì?",
-                "có bao nhiêu chế độ hiển thị?",
-                "có tài liệu hướng dẫn về các chế độ hiển thị không?",
-                "làm thế nào để chuyển đổi chế độ hiển thị ?",
                 "làm thế nào để xem ảnh render của dự án?",
-                "nếu không có kính thì chế độ vr và 3d có khác nhau nhiều không?",
-                "tải phần mềm file vr về được không?",
+                "chế độ hiển thị 3d khác chế độ hiển thị vr như thế nào?",
                 "ảnh 2d tĩnh chế độ fullhd 4 không hiển thị tính chất vật liệu hề thua kém 3ds max đôi khi nhỉ?",
-                "ở định dạng 3d và vr có thể thay đổi chế độ hiển thị nào ?"
+                "nếu không có kính thì chế độ vr và 3d có khác nhau nhiều không?",
+                "có bao nhiêu chế độ hiển thị?",
+                "làm thế nào để chuyển đổi chế độ hiển thị ?",
+                "tải phần mềm file vr về được không?",
+                "có tài liệu hướng dẫn về các chế độ hiển thị không?",
+                "ở định dạng 3d và vr có thể thay đổi chế độ hiển thị nào ?",
+                "               chế độ viền và tách viền khác gì nhau ?"
             ],
             "answers": [
-                "Bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https://academy.house3d.com/guide/chuyen-doi-che-do-hien-thi?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "chức năng tự động bắt dính",
-            "questions": [
-                "chức năng tự đông bắt dính là gì?",
-                "có tài liệu giới thiệu về chức năng tự động bắt dính của phần mềm không ?",
-                "làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?",
-                "làm thế nào để bắt dính góc cạnh của viên gạch ?",
-                "làm thế nào để có thể tự động xếp chồng lên đồ vật khác bằng chức năng tự động bắt dính ?",
-                "làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?",
-                "tắt chế độ bắt dính như thế nào ?",
-                "điểm bắt dính desktop là gì?",
-                "điểm bắt dính floor adsorb là gì?",
-                "điểm bắt dính floor là gì?",
-                "điểm bắt dính free là gì?",
-                "điểm bắt dính stick floor là gì?",
-                "điểm bắt dính top là gì?",
-                "điểm bắt dính wall là gì?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về chế độ bắt dính trong link này: https://academy.house3d.com/guide/chuc-nang-tu-dong-bat-dinh?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "giới thiệu giao diện thiết kế",
-            "questions": [
-                "biểu tượng nhãn hiệu trong phần mềm là gì ?",
-                "bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?",
-                "có bao nhiêu chế độ nhìn trên phần mềm?",
-                "có những phong cách thiết kế nào?",
-                "có thể thay đổi được ngôn ngữ của phần mềm house3d không ?",
-                "có thể thay đổi được tốc độ chuột trên phần mềm không ?",
-                "có tài liệu hướng dẫn cách sử dụng phần mềm house3d không ?",
-                "làm thế nào để lưu dự án ?",
-                "làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?",
-                "làm thế nào để tạo một dự án mới?",
-                "làm thế nào để xem một số phím tắt của phần mềm house 3d?",
-                "làm thế nào để xem toàn bộ mặt bằng của dự án trên phần mềm house 3d?",
-                "làm thế nào để xem được các file dự án trên phần mềm?",
-                "lưu, lưu mới và lưu về máy khác gì nhau ?",
-                "phần mềm có những thiết kế mẫu nào?",
-                "phần thiết kế chức năng của phần mềm ở đâu ?",
-                "phần thiết kế của phần mềm nằm ở đâu ?",
-                "render dự án ở vị trí nào trên phần mềm ?",
-                "trong lúc tôi đang thiết kế thì diện tích kích thước phòng bị thay đổi, làm thế nào trên phần mềm house3d tôi khắc phục được điều đó ?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https://academy.house3d.com/guide/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "hướng dẫn thanh toán online",
-            "questions": [
-                "Hcoin là gì ?",
-                "Hcoin tương ứng với bao nhiêu vnđ?",
-                "bên house3d có những phương thức thanh toán nào ?",
-                "bên mình có hỗ trợ thanh toán bằnonlineg VNPAY QR không ?",
-                "bên mình hỗ trợ thanh toán qua những ngân hàng nào ?",
-                "cách thanh toán online ?",
-                "có hướng dẫn chi tiết về thanh toán cho house3d không ?",
-                "có những mức thời gian sử dụng nào ?",
-                "có thể chuyển khoản trực tiếp đến công ty house3d không ?",
-                "có thể thanh toán qua paypal không ?",
-                "có thể thanh toán trực tiếp tại công ty house3d không ?",
-                "kiểm tra số lượng hcoin trong tài khoản thanh toán thế nào?",
-                "loại tiền sử dụng thanh toán của house3d là gì ?",
-                "làm thế nào để kiểm tra lịch sử giao dịch ?",
-                "làm thế nào để mua những dịch vụ của house3d ?",
-                "làm thế nào để nạp hcoin vào tài khoản?",
-                "làm thế nào để nạp tiền vào tài khoản?",
-                "làm thế nào để thanh toán trên house3d ?",
-                "nạp hcoin vào tài khoản như thế nào?",
-                "nếu giao dịch không thành côn thì có bị trừ tiền trong tài khoản không ?",
-                "trang web thanh toán của house3d là gì ?",
-                "xem lịch sử giao dịch ở đâu ?"
-            ],
-            "answers": [
-                "Bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "lịch đào tạo hàng tuần",
-            "questions": [
-                "cho mình hỏi chương trình đào tạo của house 3d được tổ chức tại những khu vực nào?",
-                "chương trình đào tạo của House 3D gồm những mảng nào ?",
-                "lịch đào tạo hàng tuần tại văn phòng House3D như thế nào ?",
-                "những yêu cầu trong chương trình đào tạo House 3D là gì ?",
-                "thời gian tổ chức của chương trình đào tạo House 3D tại Hà Nội ?",
-                "thời gian tổ chức của chương trình đào tạo House 3D tại TPHCM ?",
-                "tài liệu tham khảo của chương trình đào tạo gồm những gì ?",
-                "đăng kí tài khoản House3D như thế nào ?",
-                "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại Hà Nội ở đâu?",
-                "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại TPHCM ở đâu ?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "phím tắt thường dùng",
-            "questions": [
-                "có hướng dẫn chi tiêt một số phím tắt thường dùng không ?",
-                "có những loại phím tắt phổ biến tỏng phần mềm ?",
-                "di chuyển tầm nhìn dùng phím tắt gì ?",
-                "làm thế nào để di chuyển đối tượng bằng phím tắt trong phần mềm ?",
-                "làm thế nào để thay đổi kích thước đối tượng bằng phím tắt ?",
-                "làm thế nào để xem các phím tắt trên phần mềm ?",
-                "làm thế nào để xoá vật thể bằng phím tắt ?",
-                "phím tát chuyển đổi chế độ là gì ?",
-                "phím tắt di chuyển trục thẳng đứng là gì ?",
-                "phím tắt trên phiên bản của window và macos có khác gì nhau ?",
-                "phần mềm có sử dụng những phím tắt nào?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu chi tiết về một số phím tắt thường dùng qua tài liệu này: https://academy.house3d.com/guide/phim-tat-thuong-dung?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "thoát và thay đổi tài khoản",
-            "questions": [
-                "ad có video hướng dẫn cách quản lý tài khoản không ?",
-                "cách đăng xuất tài khoản trên ứng dụng house3d ?",
-                "có những cách nào thoát tài khoản trên house3d ?",
-                "làm thế nào để thay đổi tài khoản trên ứng dụng house3d ?",
-                "nếu có thắc mắc về quản lý tài khoản có thể đặt câu hỏi trên phần mềm của house3d không?",
-                "nếu tôi nhấn thoát trên phần mềm thì lần sau có phải đăng nhập lại không ?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách quản lý tài khoản trên phần mềm House3D qua tài liệu sau: https://academy.house3d.com/guide/thoat-thay-doi-tai-khoan?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "tải ảnh facebook 360",
-            "questions": [
-                "có hướng đẫn chi tiết cách up ản sau khi render lên facebook không?",
-                "có thể thay đổi chất lượng ảnh khi tải xuống sau đó đăng trên facebook không?",
-                "có thể thay đổi chế độ ảnh của dự án để đăng trên facebook không ?",
-                "có thể tải liên tục nhiều ảnh cùng lúc về máy không?",
-                "có thể tải ảnh sau khi render về máy tính để đăng trên facebook không?",
-                "làm thế nào để tải ảnh sau khi render lên facebook?",
-                "làm thế nào để up ảnh 360 độ lên facebook ?",
-                "yêu cầu để tải được ảnh lên facebook 360 ?",
-                "ảnh chế độ đơn điểm và đa điểm khi đăng lên facebook khác nhau thế nào?",
-                "ảnh sau khi up lên facebook 360 còn giữ chất lượng không?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu chi tiết về cách đăng dự án lên facebook 360 qua tài liệu sau đây: https://academy.house3d.com/guide/tai-anh-facebook-360?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "đăng ký và cài đặt macos",
-            "questions": [
-                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ ! ",
-                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
-                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
-                "cách đăng ký tài khoản trên House 3D ?",
-                "có video hướng đẫn cách cài đặt không?",
-                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
-                "làm thế nào để download ứng dụng hous3d cho hệ điều hành macos ?",
-                "mình cần link kích hoạt tài khoản ?",
-                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "đăng ký và cài đặt windows",
-            "questions": [
-                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ ! ",
-                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
-                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
-                "cách đăng ký tài khoản trên House 3D ?",
-                "có video hướng đẫn cách cài đặt không?",
-                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
-                "cần sử dụng trình duyệt Internet Explorer phiên bản bao nhiêu để cài đặt được phần mềm",
-                "em đang sử dụng hệ điều hành window 7, bên bạn có phiên bản house 3d hỗ trợ không ?",
-                "làm thế nào để download ứng dụng hous3d cho hệ điều hành windows ?",
-                "mình cần link kích hoạt tài khoản ?",
-                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách cài đặt phần mềm trên hệ điều hành Windows qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-windows?lang=vi"
-            ],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "covert models  sketchup to  file h3d",
-            "questions": [
-                "cách tải file h3d tool cho sketchup ở đâu?",
-                "có thể tuỳ chọn vật liệu nền mong muốn bằng tool chuyển file sketchup không?",
-                "có tài liệu hướng dẫn cách chuyển model từ file sketchup sang file h3d không?",
-                "file sketchup khác file h3d như thế nào ?",
-                "làm thế nào convert model từ file sketchup sang file h3d?",
-                "làm thế nào đẩy model từ sketchup lên h3d?",
-                "làm thế nào để mở sketchup và cài đặt tool?",
-                "làm thế nào để xuất file từ hous3dtool?",
-                "làm thế nào để xuất file từ sketchup?",
-                "nếu tôi không hiểu về cách chuyển model từ file sketchup sang file h3d có thể liên hệ với ai?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu chi tiết vê cách convert model từ file sketchup sang file h3d qua tài liếu sau: https://academy.house3d.com/guide/covert-models-tu-file-sketchup-sang-file-h3d?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "tool convert 3ds max sang h3d",
-            "questions": [
-                "convert từ 3dsmax sang h3d hỗ trợ các model có định dạng nào?",
-                "cách cài đặt plugin để convert model từ 3dsmax sang house3d?",
-                "cách sử dụng phần vật liệu nâng cao sử dụng trong chủ đề convert model từ 3ds max sng house3d?",
-                "có tài liệu hướng dẫn về cách chuyển model từ 3dsmax sang house3d?",
-                "có video chi tiết để convert model từ 3dsmax sng house3d?",
-                "link tải công cụ tạo h3d model-pulugin trên 3ds max?",
-                "làm thế nào để convert model từ 3DSMAX sang HOUSE3D?",
-                "nếu trong thực hiện chuyển model từ 3dsmax sang house3d thì có thể liên hệ ai?",
-                "tính năng U,V map của convert model từ 3dsmax sang house3d?",
-                "tôi không hiểu rõ về cách chuyển model từ 3dsmax sang house3d?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu cách sử dụng tool convert model từ 3dsmax sang hous3dd qua tài liệu sau: https://academy.house3d.com/guide/su-dung-tool-convert-model-tu-3ds-max-sang-h3d?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "tạo mới, chỉnh sửa,xoá danh mục cho gian hàng",
-            "questions": [
-                "cách chinh sửa danh mục cho gian hàng?",
-                "cách tạo mới danh mục cho gian hàng?",
-                "cách xoá danh mục cho gian hàng?",
-                "có cần phải sử dụng tải khoản admin gian hàng không?",
-                "có tài liệu hướng dẫn cách chỉnh sửa và xoá thư mục trong gian hàng không?",
-                "giao diện quản lý danh gian hàng ở đâu?",
-                "làm thế nào tạo mới, chỉnh sửa và xoá danh mục trong gian hàng?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu cách tạo mới, chỉnh sửa và xoá danh mục cho gian hàng qua tài liệu sau: https://academy.house3d.com/guide/tao-moi-chinh-sua-xoa-danh-muc-cho-gian-hang?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "tạo tag, chỉnh sửa và xoá tag trong gian hàng",
-            "questions": [
-                "có tài liệu hướng dẫn cách chỉnh sửa tag trong gian hàng?",
-                "làm thế nào để chỉnh sửa tag trong gian hàng?",
-                "làm thế nào để tạo tag cho gian hàng?",
-                "làm thế nào để xoá tag trong gian hàng?",
-                "làm thế nào để xoá được nhiều tag trong gian hàng?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách tạo mới, chỉnh sửa và xoá danh mục cho gian hàng qua tài liệu sau: https://academy.house3d.com/guide/tao-moi-chinh-sua-xoa-danh-muc-cho-gian-hang?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "up model cửa lên thư viện cá nhân",
-            "questions": [
-                "cách thêm thông tin của texture trong thư viện cá nhân?",
-                "cách điều chỉnh chức năng công khai model trong thư viện cá nhân?",
-                "có tài liệu hướng dẫn chi tiết về cách sử dụng thư viện cá nhân?",
-                "dung lượng tối đa có thể tải model nén zip lên thư viện cá nhân?",
-                "làm thế nào có thể thêm mới model trong thư viện cá nhân?",
-                "làm thế nào có thể xoá model trong thư viện cá nhân?",
-                "làm thế nào để sử dụng được thư viện cá nhân?",
-                "làm thế nào để thêm mới một model trong thư viện cá nhân ?",
-                "làm thế nào để tải ảnh texture lên thư viện cá nhân?",
-                "làm thế nào để đăng nhập vào thư viện cá nhân?",
-                "model của thư viện cá nhân có những thông tin nào?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về chức năng upload model và texture lên thư viện cá nhân qua tài liệu sau:https://academy.house3d.com/guide/upload-model-va-texture-len-thu-vien-ca-nhan?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "upload model và texture lên thư viện cá nhân",
-            "questions": [
-                "có hướng dẫn chi tiết về cách upload model và texture lên thư viện cá nhân không?",
-                "cần phải chuẩn bị những gì trước khi upload model lên thư viện cá nhân?",
-                "làm thế nào mở model đã upload model lên thư viện cá nhân?",
-                "làm thế nào để chỉnh sửa model sau khi upload model lên thư viện cá nhân?",
-                "làm thế nào để công khai model sau khi upload model lên thư viện cá nhân?",
-                "làm thế nào để upload model lên thư viện cá nhân?",
-                "làm thế nào để upload texture lên thư viện cá nhân?",
-                "làm thế nào để xem thông tin chi tiết model sau khi upload model lên thư viện cá nhân?",
-                "quy tắc đặt tên khi upload model lên thư viện cá nhân là gì?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu cách upload model và texture lên thư viện cá nhân qua tài liệu sau: https://academy.house3d.com/guide/upload-model-va-texture-len-thu-vien-ca-nhan?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "upload texture lên bộ sư tập gạch subapp",
-            "questions": [
-                "chức năng chỉnh sửa gạch trong subapp ở đâu?",
-                "chức năng xoá gạch trong subapp ở đâu?",
-                "cách upload texture lên bộ sưu tập gạch trong subapp?",
-                "có những cách nào để vào trang thư viện cá nhân để truy cập bộ sưu tập gạch trong subapp?",
-                "có thể thêm những thông tin gì cho texture trong bộ sưu tập gạch?",
-                "có tài liệu hướng dẫn chi tiết upload texture lên bộ sưu tập gạch trong subapp?",
-                "có video hướng dẫn cách upload texture lên bộ sư tập gạch trong subapp?",
-                "làm thế nào để tạo danh mục cho bộ sưu tập gạch trong subapp?",
-                "làm thế nào để upload texture lên bộ sưu tập gạch trong subapp?",
-                "xem thông tin gạch lên bộ sưu tập gạch trong subapp ở đâu?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu cách upload texture lên bộ sưu tập gạch trong subapp qua tài liệu sau: https://academy.house3d.com/guide/upload-texture-len-bo-suu-tap-gach-trong-subapp?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "upload,chỉnh sửa, xoá,gán tag texture gian hàng",
-            "questions": [
-                "cách chỉnh sửa tag của texture cho gian hàng?",
-                "cách gán tag của texture cho gian hàng?",
-                "cách thêm mới texture cho gian hàng?",
-                "cách tải file texture lên gian hàng?",
-                "cách tải ảnh texture lên gian hàng?",
-                "cách xoá tag của texture cho gian hàng?",
-                "có thể thay đổi các thông tin của texture trong gian hàng không?",
-                "có tài liệu hướng dẫn cách chỉnh sửa texture cho gian hàng?",
-                "gán tag cho texture ở đâu?",
-                "xem danh sách các texture của gian hàng ở đâu?"
-            ],
-            "answers": [
-                "Bạn có thể xem hướng dẫn chi tiết về cách upload, chỉnh sửa, xoá, gán tag cho texture của gian hàng qua hướng dẫn chi tiết sau: https://academy.house3d.com/guide/upload-chinh-sua-xoa-gan-tag-cho-texture-cua-gian-hang?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "upload,chỉnh sửa,xoá,gán tag cho model cho gian hàng",
-            "questions": [
-                "có tài liệu hướng dẫn cách upload và chỉnh sửa tag cho model của gian hàng không?",
-                "cần phải nhập những thông tin gì để upload model cho gian hàng?",
-                "làm thế nào để chỉnh sửa tag cho model của gian hàng ?",
-                "làm thế nào để gán tag cho model của gian hàng?",
-                "làm thế nào để upload model cho gian hàng của mình?",
-                "làm thế nào để xoá tag cho model của gian hàng?",
-                "những thông tin nào bắt buộc phải điền để upload model cho gian hàng?"
-            ],
-            "answers": [
-                "Bạn có thể tìm hiểu về cách upload, chỉnh sửa, xoá, gán tag cho model của gian hàng qua tài liệu sau: https://academy.house3d.com/guide/upload-chinh-sua-xoa-gan-tag-cho-model-cua-gian-hang?lang=vi"
-            ],
-            "contexture_lv1": "chức năng thư viện cá nhân",
-            "contexture_lv2": "nhập môn"
-        },
-        {
-            "tag": "chỉnh góc camera trên bản đồ của ảnh 720 đa điểm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "chỉnh sửa ảnh render 720",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "ghép ảnh 720 đơn điểm đa điểm V2",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "ghép ảnh render 720do tạo thành 720do đa điểm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "hướng dẫn up bản đồ vào ảnh 720",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "hướng dẫn upload ảnh render 720 lên hệ thống",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "hướng dẫn đổi icon chuyển hướng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "nhúng video vào điểm ảnh 720 Panorama đa điểm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "thêm nhãn tuỳ chọn Vr 720",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "thêm âm thanh vào Vr 720",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "trình chiếu ảnh render 720",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chỉnh sửa ảnh 720 panorama",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "chế độ render 2D",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài kiểu render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "chế độ render 720 đơn điểm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài kiểu render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "Render Bird's eye",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài kiểu render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "chức năng section cut",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài đặt trước render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "cài đặt lưu nhanh góc nhìn",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài đặt trước render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "hiệu chỉnh ảnh sáng nâng cao",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài đặt trước render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "thiết lập góc nhìn render",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài đặt trước render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "thiết lập quang cảnh bên ngoài",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài đặt trước render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "đặt ánh sáng tăng cường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cài đặt trước render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "tinh chỉnh hình ảnh sau render",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tuỳ chỉnh ảnh render",
-            "contexture_lv2": "render"
-        },
-        {
-            "tag": "thiết kế cảnh quan với house3d-video",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế cảnh quan với house3d-video",
-            "contexture_lv2": "thiết kế cảnh quan"
-        },
-        {
-            "tag": "chỉnh sửa phào chân tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "căn chỉnh vị trí giữa các cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "di chuyển và xoay cửa sổ có số đo cụ thể",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "mở và đóng cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "quét chất liệu cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "thay đổi chất liệu cửa gỗ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "thay đổi chất liệu phào cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "thay đổi hướng chất liệu",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "thay đổi kích thước chất liệu",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "thêm cửa vào mục yêu thích",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "tìm kiếm model cửa theo tên",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "đo khoảng cách và kích thước giữa các cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế cửa gỗ",
-            "contexture_lv2": "thiết kế cửa gỗ"
-        },
-        {
-            "tag": "chức năng cơ bản",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chức năng cơ bản",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "các cách thức lát khác nhau",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cách thức lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát toàn bộ bề mặt",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cách thức lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát tuỳ ý (xoay hoa văn gạch)",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cách thức lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát tất cả tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cách thức lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát từ trung tâm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cách thức lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát từ điểm xác định trước",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cách thức lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "sao chép đinh dạng gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "cách thức lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "cắt góc cho viên gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát nghệ thuật",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát gạch kiểu cối xay gió",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát nghệ thuật",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát gạch kiểu vảy cá",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát nghệ thuật",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát kiểu con bướm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát nghệ thuật",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát kiểu hình thoi",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát nghệ thuật",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát kiểu nghiêng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát nghệ thuật",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "lát thảm gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát nghệ thuật",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "chuyển khu vực lát đơn thành khu vực lát có viền",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "phân khu lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "thiết lập khu vực lát  dọc",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "phân khu lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "thiết lập khu vực lát ngang",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "phân khu lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tạo khu vực viền gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "phân khu lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "căn chỉnh giữa gạch hoặc khu vực lát",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "căn chỉnh khu vực cắt",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "di chuyển gạch và bắt đối tượng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "hướng dẫn cách xoay viên gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "sao chép gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "thay thế gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "xoá toàn bộ gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "xác định điểm đầu bắt đầu lát",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thay thế, xoá gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "thay đổi chất liệu mạch gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tuỳ chỉnh quy cách gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "thay đổi kích thước gạch và cắt gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tuỳ chỉnh quy cách gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tuỳ chỉnh số cạnh và độ dày viên gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tuỳ chỉnh quy cách gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tạo khe và vát cạnh cho gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tuỳ chỉnh quy cách gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "sao chép và xoá khung thiết kế",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "vẽ khu vực lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tạo khu vực lát hình dạng đặc biệt",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "vẽ khu vực lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tạo khu vực lát hình tròn",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "vẽ khu vực lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tạo khu vực lát hình tứ giác",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "vẽ khu vực lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tạo khu vực lát vị trí  chính xác",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "vẽ khu vực lát",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "xuất báo giá cho gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất bản vẽ",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "xuất bản gia công gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất bản vẽ",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "xuất bản vẽ thi công gạch",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất bản vẽ",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "làm gạch viền đai tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "làm đai tường gồ ra",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "tạo tường background trang trí",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "xử lý khe gạch khi lát cho cột",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế gạch",
-            "contexture_lv2": "thiết kế gạch"
-        },
-        {
-            "tag": "chuyển chế độ di chuyển",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "chỉnh sửa phào cửa phòng tắm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "di chuyển bồn tắm trong phòng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "di chuyển và xoay vách cửa có số đo cụ thể",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "lắp đặt bền xả nước",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "lắp đặt bồn cầu và kệ giấy vệ sinh",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "lắp đặt bồn tắm và kệ khăn",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "lắp đặt cửa nhà tắm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "lắp đặt phào trần nâng cao",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "lắp đặt phòng xông hơi",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "lắp đặt vòi hoa sen",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "thay đổi chất liệu tấm cửa phòng tắm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "thêm phào cửa phòng tắm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "tìm kiếm model cửa theo tên",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "tạo nhóm và lưu cửa vào yêu thích",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "xoay chất liệu cửa nhà tắm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "xuất bản vẽ 2D phòng tắm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "đo kích thước và khoảng cách giữa các vách cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "hướng dẫn thiết kế phòng tắm",
-            "contexture_lv2": "thiết kế phòng tắm"
-        },
-        {
-            "tag": "các cách lát tấm ốp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "dán phủ vật liệu trần nghiêng dầm giữa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "lưu tổ hợp tấm ốp vào bộ sưu tập",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "lắp đặt phào trần giật cấp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "lắp đặt thanh nhôm trần",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "sao chép và xoá tấm ốp vật liệu trần",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thay đổi kích thước và di chuyển tấm ốp trần",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thay đổi tấm ốp nhanh",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thay đổi vật liệu tấm ốp trần",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế trên một cách chính xác",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "xoay hoa văn tấm ốp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lát trần-tấm ốp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "làm đai tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế bề mặt tường",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "trang trí tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế bề mặt tường",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "trang trí tường 1",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế bề mặt tường",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "trang trí tường 2",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế bề mặt tường",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "trang trí tường 3",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế bề mặt tường",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "phím tắt thiết kế trần và tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế sàn-trần ,tường cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "vào giao diện thiết kế_trần_tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "thiết kế sàn-trần ,tường cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "căn trần vào vị trí chính giữa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "sao chép và xoá",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế hình chữ nhật",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế hình tròn",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế hình đa giác",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế hình đặc biệt",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp cơ bản",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "2 tầng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp phức tạp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "có gắn đèn",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp phức tạp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "khu vực lối đi",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp phức tạp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "nghiêng dầm giữa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp phức tạp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "xiên kim tự tháp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "trần giật cấp phức tạp",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế bậc cầu thang lên xuống",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng cầu thang",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế cầu thang chuyển góc",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng cầu thang",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế cầu thang hình chữ L chuyển góc",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng cầu thang",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế cầu thang thẳng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng cầu thang",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế bể bơi",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng khác",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "thiết kế căn hộ tầng lửng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng khác",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "xuất ra bản vẽ 2D",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng khác",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "đục tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng khác",
-            "contexture_lv2": "thiết kế sàn-trần, tường"
-        },
-        {
-            "tag": "quét chân cửa tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi chất liệu cửa tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi chất liệu phào nóc tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi chất liệu tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi hướng chất liệu",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi kích thước chất liệu",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "chế độ tấm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chế độ tấm",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt mặt bàn bếp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt mặt bàn bếp",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt mặt bàn bếp nâng cao",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt mặt bàn bếp",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt bếp và máy hút mùi",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt phụ kiện, thiết bị điện",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt chậu rửa bát và vòi rửa bát",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt phụ kiện, thiết bị điện",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt giá đựng bát",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt phụ kiện, thiết bị điện",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt ngăn ngăn tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt phụ kiện, thiết bị điện",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt thiết bị điện trong bếp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt phụ kiện, thiết bị điện",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi thâm số tấm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt phụ kiện, thiết bị điện",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "bàn bar bếp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "một số thiết kế mẫu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "hướng dẫn dán cạnh",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "một số thiết kế mẫu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "tạo bàn bếp đơn giản",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "một số thiết kế mẫu",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt phào nóc và phào chân tường",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "phào",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tường đèn cho tủ treo",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "phào",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "chuyển tấm cửa tủ thành ngăn kéo",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "chuyển tấm thành cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt và xoá tay nắm cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "mở và đóng cửa tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "phân cánh tủ thành nhiều ngăn",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "quét kiểu dáng cửa tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi kiểu cánh cửa tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi kiểu cửa tay nắm âm tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi kiểu tay nắm cửa nhanh chóng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "thay đổi thuộc tính mở cửa tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "tạo cánh cửa tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tấm cửa",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "cách lắp đặt tủ cơ bản có kích thước đặc biệt",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "căn chỉnh vị trí giữa các tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "di chuyển và xoay tủ có số đo cụ thể",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ chức năng",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ không cánh",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ mặt đất tránh cột nhà",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "tìm kiếm model tủ theo tên",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "tạo nhóm và lưu tủ yêu thích",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "đo kích thước và khoảng cách giữa các tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "ẩn hiện tham số tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ mặt đất",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ cao và tủ nhỡ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ treo",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ góc treo",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ treo",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ treo có cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ treo",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ treo không cánh",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ treo",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ treo tránh cột nhà",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ treo",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "lắp đặt tủ treo tránh dầm",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ treo",
-            "contexture_lv2": "thiết kế tủ bếp"
+                "bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi",
+                "bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https://academy.house3d.com/guide/chuyen-doi-che-do-hien-thi?lang=vi"
+            ]
         },
         {
             "tag": "chức năng hỗ trợ thi công",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất báo giá và bản vẽ",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "dim và xuất báo giá cho tủ kệ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất báo giá và bản vẽ",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "xuất báo giá tủ bếp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất báo giá và bản vẽ",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "xuất bản vẽ 2D cho tủ bếp",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất báo giá và bản vẽ",
-            "contexture_lv2": "thiết kế tủ bếp"
-        },
-        {
-            "tag": "quét chất liệu",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "thay đổi chất liệu khung đai tủ và ray trên dưới",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "thay đổi chất liệu phào nóc",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "thay đổi chất liệu tấm cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "thay đổi chất liệu tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "thay đổi hướng chất liệu",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "thay đổi kích cỡ hoa văn",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "chất liệu",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "lắp đặt và xoá tay nắm cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tay nắm cửa",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "thay đổi kiểu tay nắm cửa nhanh",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tay nắm cửa",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
             "tag": "chức năng phân bố đều tấm trong tủ",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ chia cửa tủ",
+            "tag": "chức năng section cut",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ chuyển mặt bênh tủ thành cửa",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "tag": "chức năng tự động bắt dính",
+            "questions": [
+                "làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?",
+                "điểm bắt dính top là gì?",
+                "điểm bắt dính free là gì?",
+                "chức năng tự đông bắt dính là gì?",
+                "tắt chế độ bắt dính như thế nào ?",
+                "điểm bắt dính desktop là gì?",
+                "làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?",
+                "điểm bắt dính stick floor là gì?\"",
+                "điểm bắt dính floor là gì?",
+                "làm thế nào để có thể tự động xếp chồng lên đồ vật khác bằng chức năng tự động bắt dính ?",
+                "có tài liệu giới thiệu về chức năng tự động bắt dính của phần mềm không ?",
+                "làm thế nào để bắt dính góc cạnh của viên gạch ?",
+                "điểm bắt dính floor adsorb là gì?",
+                "điểm bắt dính wall là gì?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu về chế độ bắt dính trong link này: https://academy.house3d.com/guide/chuc-nang-tu-dong-bat-dinh?lang=vi"
+            ]
         },
         {
-            "tag": "cửa tủ chuyển tấm cửa thành ngăn kéo",
+            "tag": "chỉnh góc camera trên bản đồ của ảnh 720 đa điểm",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ sao chép định dạng",
+            "tag": "chỉnh sửa ảnh render 720",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ thay đổi kiếu tấm cửa",
+            "tag": "chỉnh sửa phào cửa phòng tắm",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ thay đổi kiểu ngăn kéo",
+            "tag": "chỉnh sửa phào chân tường",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ thay đổi tham số cửa tủ",
+            "tag": "chuyển chế độ di chuyển",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ tạo cửa tủ",
+            "tag": "chuyển khu vực lát đơn thành khu vực lát có viền",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cửa tủ tạo ngăn kéo",
+            "tag": "chuyển tấm cửa tủ thành ngăn kéo",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "lắp đặt thanh treo quần áo",
+            "tag": "chuyển tấm thành cửa",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "lắp đặt tấm ngăn tủ",
+            "tag": "covert models  sketchup to file h3d",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "thêm thiết kế sẵn vào tủ",
+            "tag": "dán phủ vật liệu trần nghiêng dầm giữa",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa 2 cánh",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cánh cửa chỉnh sửa đai tủ và số cánh cửa trượt",
+            "tag": "di chuyển bồn tắm trong phòng",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cánh cửa tạo cánh cửa trượt",
+            "tag": "di chuyển gạch và bắt đối tượng",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "cánh cửa tạo cửa tủ góc tường",
+            "tag": "di chuyển và chỉnh sửa kích thước đối tượng",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "lắp đặt khung cửa trượt",
+            "tag": "di chuyển và xoay cửa sổ có số đo cụ thể",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "phào tạo phào kiểu thủ công",
+            "tag": "di chuyển và xoay tủ có số đo cụ thể",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "phào tạo phào nóc hình dạng đặc biệt",
+            "tag": "di chuyển và xoay vách cửa có số đo cụ thể",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "phào tạo và chỉnh sửa phào nóc tủ",
+            "tag": "dim và xuất báo giá cho tủ kệ",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tấm tủ thay đổi tham số của tấm",
+            "tag": "ghép ảnh 720 đơn điểm đa điểm v2",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tấm tủ tạo tấm hình dạng tuỳ chỉnh",
+            "tag": "ghép ảnh render 720 do tạo thành 720 do đa điểm",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tấm tủ xoá tấm tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "tag": "giới thiệu giao diện thiết kế",
+            "questions": [
+                "bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?",
+                "làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?",
+                "làm thế nào để tạo một dự án mới?",
+                "làm thế nào để lưu dự án ?",
+                "lưu, lưu mới và lưu về máy khác gì nhau ?",
+                "phần mềm có những thiết kế mẫu nào?",
+                "trong lúc tôi đang thiết kế thì diện tích kích thước phòng bị thay đổi, làm thế nào trên phần mềm house3d tôi khắc phục được điều đó ?",
+                "render dự án ở vị trí nào trên phần mềm ?",
+                "có những phong cách thiết kế nào?",
+                "có thể thay đổi được ngôn ngữ của phần mềm house3d không ?",
+                "biểu tượng nhãn hiệu trong phần mềm là gì ?",
+                "có tài liệu hướng dẫn cách sử dụng phần mềm house3d không ?",
+                "àm thế nào để xem toàn bộ mặt bằng của dự án trên phần mềm house 3d?",
+                "làm thế nào để xem một số phím tắt của phần mềm house 3d?",
+                "làm thế nào để xem được các file dự án trên phần mềm?",
+                "phần thiết kế chức năng của phần mềm ở đâu ?",
+                "có bao nhiêu chế độ nhìn trên phần mềm?",
+                "có thể thay đổi được tốc độ chuột trên phần mềm không ?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https://academy.house3d.com/guide/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"
+            ]
         },
         {
-            "tag": "tủ căn chỉnh giữa các tủ",
+            "tag": "hướng dẫn đổi icon chuyển hướng",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tủ góc tròn",
+            "tag": "hướng dẫn cách xoay viên gạch",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tủ lắp tủ cửa trượt tránh cột nhà",
+            "tag": "hướng dẫn dán cạnh",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tủ lắp đặt phụ kiện tủ quần áo",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "tag": "hướng dẫn thanh toán online",
+            "questions": [
+                "trang web thanh toán của house3d là gì ?",
+                "làm thế nào để nạp hcoin vào tài khoản?",
+                "làm thế nào để nạp tiền vào tài khoản?",
+                "bên mình hỗ trợ thanh toán qua những ngân hàng nào ?",
+                "bên house3d có những phương thức thanh toán nào ?",
+                "Hcoin tương ứng với bao nhiêu vnđ?",
+                "nạp hcoin vào tài khoản như thế nào?",
+                "làm thế nào để thanh toán trên house3d ?",
+                "có thể chuyển khoản trực tiếp đến công ty house3d không ?",
+                "cách thanh toán online ?",
+                "loại tiền sử dụng thanh toán của house3d là gì ?",
+                "làm thế nào để kiểm tra lịch sử giao dịch ?",
+                "xem lịch sử giao dịch ở đâu ?",
+                "Hcoin là gì ?",
+                "có thể thanh toán qua paypal không ?",
+                "có hướng dẫn chi tiết về thanh toán cho house3d không ?",
+                "nếu giao dịch không thành côn thì có bị trừ tiền trong tài khoản không ?",
+                "có những mức thời gian sử dụng nào ?",
+                "có thể thanh toán trực tiếp tại công ty house3d không ?",
+                "kiểm tra số lượng hcoin trong tài khoản thanh toán thế nào?",
+                "bên mình có hỗ trợ thanh toán bằng VNPAY QR không ?",
+                "làm thế nào để mua những dịch vụ của house3d ?"
+            ],
+            "answers": [
+                "bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi"
+            ]
         },
         {
-            "tag": "tủ lắp đặt tấm ngăn tủ",
+            "tag": "hướng dẫn up bản đồ vào ảnh 720",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tủ lắp đặt tủ nóc",
+            "tag": "hướng dẫn upload ảnh render 720 lên hệ thống",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
-            "tag": "tủ nhóm tủ và lưu tủ vào bộ sưu tập",
+            "tag": "hiệu chỉnh ảnh sáng nâng cao",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "tủ đo kích thước giữa 2 tủ",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "tủ cửa trượt",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "chức năng hỗ trợ thi công",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất bản vẽ và báo giá",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "xuất bán giá tủ quần áo",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất bản vẽ và báo giá",
-            "contexture_lv2": "thiết kế tủ quần áo"
-        },
-        {
-            "tag": "xuất bản vẽ 2D tủ quần áo",
-            "questions": [],
-            "answers": [],
-            "contexture_lv1": "xuất bản vẽ và báo giá",
-            "contexture_lv2": "thiết kế tủ quần áo"
+            "answers": []
         },
         {
             "tag": "kệ để tivi",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế tủ đa năng",
-            "contexture_lv2": "thiết kế tủ đa năng"
+            "answers": []
         },
         {
-            "tag": "tủ giày",
+            "tag": "khoá tường",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế tủ đa năng",
-            "contexture_lv2": "thiết kế tủ đa năng"
+            "answers": []
         },
         {
-            "tag": "tủ rươu",
+            "tag": "khu vực lối đi",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế tủ đa năng",
-            "contexture_lv2": "thiết kế tủ đa năng"
+            "answers": []
         },
         {
-            "tag": "tủ âm tường",
+            "tag": "làm đai tường",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế tủ đa năng",
-            "contexture_lv2": "thiết kế tủ đa năng"
+            "answers": []
         },
         {
-            "tag": "tủ âm tường 2",
+            "tag": "làm đai tường gồ ra",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "ứng dụng thiết kế tủ đa năng",
-            "contexture_lv2": "thiết kế tủ đa năng"
+            "answers": []
+        },
+        {
+            "tag": "làm gạch viền đai tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát gạch kiểu vảy cá",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát kiểu con bướm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát kiểu hình thoi",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát kiểu nghiêng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát từ điểm xác định trước",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát từ trung tâm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát tất cả tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát thảm gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát toàn bộ bề mặt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lát tuỳ ý (xoay hoa văn gạch)",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lịch đào tạo hàng tuần",
+            "questions": [
+                "những yêu cầu trong chương trình đào tạo House 3D là gì ?",
+                "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại TP HCM ở đâu?",
+                "chương trình đào tạo của House 3D gồm những mảng nào ?",
+                "Lịch đào tạo hàng tuần tại văn phòng House3D như thế nào ?",
+                "đăng kí tài khoản House3D như thế nào ?",
+                "cho mình hỏi chương trình đào tạo của house 3d được tổ chức tại những khu vực nào?",
+                "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại Hà Nội ở đâu?",
+                "thời gian tổ chức của chương trình đào tạo House 3D tại TPHCM ?",
+                "tài liệu tham khảo của chương trình đào tạo gồm những gì ?",
+                "thời gian tổ chức của chương trình đào tạo House 3D tại Hà Nội ?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu ch",
+                "bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi"
+            ]
+        },
+        {
+            "tag": "lắp đặt bếp và máy hút mùi",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt bền xả nước",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt bồn cầu và kệ giấy vệ sinh",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt bồn tắm và kệ khăn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt background",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt cửa nhà tắm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt chậu rửa bát và vòi rửa bát",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt giá đựng bát",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt khung cửa trượt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt mặt bàn bếp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt mặt bàn bếp nâng cao",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt ngăn ngăn tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt phào nóc và phào chân tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt phào trần giật cấp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt phào trần nâng cao",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt phòng xông hơi",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ cao và tủ nhỡ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ chức năng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ góc treo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ không cánh",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ mặt đất tránh cột nhà",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ treo có cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ treo không cánh",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ treo tránh cột nhà",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tủ treo tránh dầm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tấm ngăn tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt tường đèn cho tủ treo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt thanh nhôm trần",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt thanh treo quần áo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt thiết bị điện trong bếp",
+            "questions": [],
+            "answers": []
         },
         {
             "tag": "lắp đặt thiết bị trong tủ bếp -video",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "lắp đặt thiết bị trong tủ bếp-video",
-            "contexture_lv2": "training"
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt và xoá tay nắm cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lắp đặt vòi hoa sen",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lưu lịch sử thiết kế dự án",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "lưu tổ hợp tấm ốp vào bộ sưu tập",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "một số kiểu vẽ tường",
+            "questions": [
+                "làm thế nào để nhập độ dài trong lúc vẽ tường?",
+                "Có những kiểu vẽ tường nào?",
+                "có tài liệu hướng dẫn về một số cách vẽ tường không?",
+                "vẽ nét giữa trong vẽ tường là gì?",
+                "vẽ nét ngoài tường là gì?",
+                "vẽ nét giữa, vẽ nét trong và ngoài tường khác gì nhau?",
+                "vẽ nét trong tường là gì?",
+                "làm thế nào để tạo căn phòng bằng vẽ tường?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi"
+            ]
+        },
+        {
+            "tag": "mở và đóng cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "mở và đóng cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "nghiêng dầm giữa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "nhóm và tách nhóm các đối tượng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "nhúng video vào điểm ảnh 720 panorama đa điểm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "phào tạo phào kiểu thủ công",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "phào tạo phào nóc hình dạng đặc biệt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "phào tạo và chỉnh sửa phào nóc tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "phân cánh tủ thành nhiều ngăn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "phím tắt thường dùng",
+            "questions": [
+                "làm thế nào để xem các phím tắt trên phần mềm ?",
+                "làm thế nào để thay đổi kích thước đối tượng bằng phím tắt ?",
+                "có những loại phím tắt phổ biến tỏng phần mềm ?",
+                "làm thế nào để di chuyển đối tượng bằng phím tắt trong phần mềm ?",
+                "có hướng",
+                "phím tắt trên phiên bản của window và macos có khác gì nhau ?",
+                "di chuyển tầm nhìn dùng phím tắt gì ?",
+                "phím tát chuyển đổi chế độ là gì ?",
+                "phần mềm có sử dụng những phím tắt nào?",
+                "làm thế nào để xoá vật thể bằng phím tắt ?",
+                "phím tắt di chuyển trục thẳng đứng là gì ?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu chi tiết về một số phím tắt thường dùng qua tài liệu này: https://academy.house3d.com/guide/phim-tat-thuong-dung?lang=vi"
+            ]
+        },
+        {
+            "tag": "phím tắt thiết kế trần và tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "quét chân cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "quét chất liệu",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "quét chất liệu cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "quét kiểu dáng cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "render bird's eye",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "sao chép đối tượng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "sao chép đinh dạng gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "sao chép gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "sao chép và xoá",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "sao chép và xoá khung thiết kế",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "sao chép và xoá tấm ốp vật liệu trần",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tìm dự án",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tìm hiểu lịch sử lưu dự án",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tìm kiếm model cửa theo tên",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tìm kiếm model tủ theo tên",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ âm tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ âm tường 2",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ đo kích thước giữa 2 tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ căn chỉnh giữa các tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ góc tròn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ giày",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ lắp đặt phụ kiện tủ quần áo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ lắp đặt tủ nóc",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ lắp đặt tấm ngăn tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ lắp tủ cửa trượt tránh cột nhà",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ nhóm tủ và lưu tủ vào bộ sưu tập",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tủ rươu",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo đường viền gạch nền và đại tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo bàn bếp đơn giản",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo cánh cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo khe và vát cạnh cho gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo khu vực lát hình dạng đặc biệt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo khu vực lát hình tứ giác",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo khu vực lát hình tròn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo khu vực lát vị trí  chính xác",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo khu vực viền gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo mới, chỉnh sửa,xoá danh mục cho gian hàng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo nhóm và lưu cửa vào yêu thích",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo nhóm và lưu tủ yêu thích",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo tường background trang trí",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo tag, chỉnh sửa và xoá tag trong gian hàng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tạo trần có cửa sổ trời",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tải ảnh facebook 360",
+            "questions": [
+                "ảnh sau khi up lên facebook 360 còn giữ chất lượng không?",
+                "ảnh chế độ đơn điểm và đa điểm khi đăng lên facebook khác nhau thế nào?",
+                "có thể tải liên tục nhiều ảnh cùng lúc về máy không?",
+                "làm thế nào để tải ảnh sau khi render lên facebook?",
+                "có hướng đẫn chi tiết cách up ản sau khi render lên facebook không?",
+                "yêu cầu để tải được ảnh lên facebook 360 ?",
+                "làm thế nào để up ảnh 360 độ lên facebook ?",
+                "có thể thay đổi chất lượng ảnh khi tải xuống sau đó đăng trên facebook không?",
+                "có thể tải ảnh sau khi render về máy tính để đăng trên facebook không?",
+                "có thể thay đổi chế độ ảnh của dự án để đăng trên facebook không ?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu chi tiết về cách đăng dự án lên facebook 360 qua tài liệu sau đây: https://academy.house3d.com/guide/tai-anh-facebook-360?lang=vi"
+            ]
+        },
+        {
+            "tag": "tấm tủ tạo tấm hình dạng tuỳ chỉnh",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tấm tủ thay đổi tham số của tấm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tấm tủ xoá tấm tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "texture giấy dán tường và nền",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm âm thanh vào vr 720",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm đối tượng vào yêu thích",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm cửa và cửa sổ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm cửa vào pillar",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm cửa vào mục yêu thích",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm nhãn tuỳ chọn vr 720",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm phào cửa phòng tắm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thêm thiết kế sẵn vào tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu cửa gỗ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu khung đai tủ và ray trên dưới",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu mạch gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu phào cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu phào nóc",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu phào nóc tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu tấm cửa",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi chất liệu tấm cửa phòng tắm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi hướng chất liệu",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kích cỡ hoa văn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kích thước chất liệu",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kích thước gạch và cắt gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kích thước tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kích thước và di chuyển tấm ốp trần",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kiểu cánh cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kiểu cửa tay nắm âm tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kiểu tay nắm cửa nhanh",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi kiểu tay nắm cửa nhanh chóng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi tấm ốp nhanh",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi texture cho đồ thất",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi thông số tấm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi thuộc tính mở cửa tủ",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay đổi vật liệu tấm ốp trần",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay thế gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thay thế nhanh bằng sản phẩm cùng loại",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế bể bơi",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế bậc cầu thang lên xuống",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế căn hộ tầng lửng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế cảnh quan với house3d-video",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế cầu thang chuyển góc",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế cầu thang hình chữ l chuyển góc",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế cầu thang thẳng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế hình đặc biệt",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế hình đa giác",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế hình chữ nhật",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế hình tròn",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết kế trên một cách chính xác",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết lập góc nhìn render",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết lập khu vực lát dọc",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết lập khu vực lát ngang",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thiết lập quang cảnh bên ngoài",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "thoát và thay đổi tài khoản",
+            "questions": [
+                "làm thế nào để thay đổi tài khoản trên ứng dụng house3d ?",
+                "nếu có thắc mắc về quản lý tài khoản có thể đặt câu hỏi trên phần mềm của house3d không?",
+                "nếu tôi nhấn thoát trên phần mềm thì lần sau có phải đăng nhập lại không ?",
+                "cách đăng xuất tài khoản trên ứng dụng house3d ?",
+                "ad có video hướng dẫn cách quản lý tài khoản không ?",
+                "có những cách nào thoát tài khoản trên house3d ?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu về cách quản lý tài khoản trên phần mềm House3D qua tài liệu sau: https://academy.house3d.com/guide/thoat-thay-doi-tai-khoan?lang=vi"
+            ]
+        },
+        {
+            "tag": "tinh chỉnh hình ảnh sau render",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tool convert 3ds max sang h3d",
+            "questions": [
+                "link tải công cụ tạo h3d model-pulugin trên 3ds max?",
+                "nếu trong thực hiện chuyển model từ 3dsmax sang house3d thì có thể liên hệ ai?",
+                "tôi không hiểu rõ về cách chuyển model từ 3dsmax sang house3d?",
+                "àm thế nào để convert model từ 3DSMAX sang HOUSE3D?",
+                "convert từ 3dsmax sang h3d hỗ trợ các model có định dạng nào?",
+                "tính năng U,V map của convert model từ 3dsmax sang house3d?",
+                "cách cài đặt plugin để convert model từ 3dsmax sang house3d?",
+                "có tài liệu hướng dẫn về cách chuyển model từ 3dsmax sang house3d?",
+                "cách sử dụng phần vật liệu nâng cao sử dụng trong chủ đề convert model từ 3ds max sang house3d?",
+                "có video chi tiết để convert model từ 3dsmax sng house3d?"
+            ],
+            "answers": [
+                "bạn có thể tìm hiểu cách sử dụng tool convert model từ 3dsmax sang hous3dd qua tài liệu sau: https://academy.house3d.com/guide/su-dung-tool-convert-model-tu-3ds-max-sang-h3d?lang=vi"
+            ]
+        },
+        {
+            "tag": "trình chiếu ảnh render 720",
+            "questions": [],
+            "answers": []
         },
         {
             "tag": "training cơ bản-video",
             "questions": [],
-            "answers": [],
-            "contexture_lv1": "training cơ bản-video",
-            "contexture_lv2": "training"
+            "answers": []
         },
-
         {
-            "tag": "Chào hỏi",
-            "questions": [
-                "chào bạn",
-                "chào",
-                "hi bạn",
-                "xin chào công ty house 3d",
-                "chào anh chị",
-                "chào công ty house 3d",
-                "hello",
-                "chào anh",
-                "chào chị",
-                "cho tôi hỏi",
-                "hi ad",
-                "xin chào ad",
-                "chào admin",
-                "hi admin",
-                "hello ad",
-                "xin chào anh chị ạ",
-                "em chào anh chị công ty House 3D",
-                "Xin chào bạn",
-                "hi"
-
-            ],
-            "answers": [
-                "Chatbot House 3D rất hân hạnh được đón tiếp bạn",
-                "Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn",
-                "Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn",
-                "Xin chào quý khách, House 3D rất hân hạnh được phục vụ",
-                "Xin chào, rất hân hạnh được đón tiếp quý khách",
-                "Rất hân hạnh xin được gặp bạn",
-                "House 3D rất hân hạnh được đón tiếp quý khách",
-                "House 3D chatbot rất hân hạnh được phục vụ bạn"
-            ],
-            "contexture_lv1": "Chào và hỏi với khách hàng",
-            "contexture_lv2": "Chào và hỏi"
-
+            "tag": "trang trí tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "trang trí tường 1",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "trang trí tường 2",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "trang trí tường 3",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tuỳ chỉnh kích thước gạch và xoay gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tuỳ chỉnh len chân tường, phào trần",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tuỳ chỉnh số cạnh và độ dày viên gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "tuỳ chỉnh tường nâng cao",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "up model cửa lên thư viện cá nhân",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "upload model và texture lên thư viện cá nhân",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "upload texture lên bộ sư tập gạch subapp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "upload,chỉnh sửa, xoá,gán tag texture gian hàng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "upload,chỉnh sửa,xoá,gán tag cho model cho gian hàng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "vào giao diện thiết kế_trần_tường",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xác định điểm đầu bắt đầu lát",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xử lý khe gạch khi lát cho cột",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xiên kim tự tháp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xoá dự án",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xoá lịch sử thiết kế dự án",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xoá toàn bộ gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xoay chất liệu cửa nhà tắm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xoay hoa văn tấm ốp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất bán giá tủ quần áo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất báo giá cho gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất báo giá tủ bếp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất bản gia công gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất bản vẽ 2d cho tủ bếp",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất bản vẽ 2d phòng tắm",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất bản vẽ 2d tủ quần áo",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất bản vẽ sơ đồ mặt bằng",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất bản vẽ thi công gạch",
+            "questions": [],
+            "answers": []
+        },
+        {
+            "tag": "xuất ra bản vẽ 2d",
+            "questions": [],
+            "answers": []
         }
-
     ]
 }

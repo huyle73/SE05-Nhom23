@@ -8,36 +8,36 @@
         {
             "tag": "đăng ký và cài đặt macos",
             "questions": [
-                "cách đăng ký tài khoản trên House 3D ?",
-                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ !",
-                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
-                "có video hướng đẫn cách cài đặt không?",
-                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
-                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
-                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
                 "làm thế nào để download ứng dụng hous3d cho hệ điều hành macos ?",
-                "mình cần link kích hoạt tài khoản ?"
+                "có video hướng đẫn cách cài đặt không?",
+                "mình cần link kích hoạt tài khoản ?",
+                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
+                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
+                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
+                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
+                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ !",
+                "cách đăng ký tài khoản trên House 3D ?"
             ],
             "answers": [
+                "bạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi",
                 "bạn có thể tìm hiểu và",
-                "ạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi",
-                "bạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi"
+                "ạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi"
             ]
         },
         {
             "tag": "đăng ký và cài đặt windows",
             "questions": [
-                "cách đăng ký tài khoản trên House 3D ?",
-                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ ! ",
-                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
                 "có video hướng đẫn cách cài đặt không?",
-                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
-                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
-                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
+                "mình cần link kích hoạt tài khoản ?",
+                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
                 "cần sử dụng trình duyệt Internet Explorer phiên bản bao nhiêu để cài đặt được phần mềm",
+                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
                 "em đang sử dụng hệ điều hành window 7, bên bạn có phiên bản house 3d hỗ trợ không ?",
+                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
+                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
                 "làm thế nào để download ứng dụng hous3d cho hệ điều hành windows ?",
-                "mình cần link kích hoạt tài khoản ?"
+                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ ! ",
+                "cách đăng ký tài khoản trên House 3D ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về cách cài đặt phần mềm trên hệ điều hành Windows qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-windows?lang=vi"
@@ -109,9 +109,9 @@
                 "Xem danh sách các texture của gian hàng ở đâu?"
             ],
             "answers": [
-                "do duy dao",
+                "bạn có thể tìm hiểu ",
                 "ko biet",
-                "bạn có thể tìm hiểu "
+                "do duy dao"
             ]
         },
         {
@@ -267,39 +267,39 @@
         {
             "tag": "chào hỏi",
             "questions": [
-                "hello admin quản lý ",
-                "xin chào anh chị ạ",
-                "xin chào công ty house 3d",
-                "cho tôi hỏi",
-                "bạn ơi",
-                "chào",
-                "alo",
-                "chào công ty h3d",
-                "hello ad",
-                "chào anh chị",
-                "em chào anh chị công ty House 3D ạ",
-                "hello",
-                "hi bạn",
-                "chào bạn",
-                "chào chị",
-                "chào admin",
                 "Xin chào bạn",
-                "chào anh",
                 "hi",
-                "hi admin",
+                "hello ad",
+                "cho tôi hỏi",
+                "hello",
+                "chào chị",
+                "hello admin quản lý ",
+                "chào",
+                "chào anh",
+                "xin chào anh chị ạ",
+                "bạn ơi",
+                "chào bạn",
+                "alo",
                 "hi ad",
-                "xin chào ad"
+                "hi admin",
+                "em chào anh chị công ty House 3D ạ",
+                "xin chào ad",
+                "hi bạn",
+                "chào công ty h3d",
+                "chào anh chị",
+                "chào admin",
+                "xin chào công ty house 3d"
             ],
             "answers": [
                 "Chatbot House 3D rất hân hạnh được đón tiếp bạn",
-                "Xin chào quý khách, House 3D rất hân hạnh được phục vụ",
-                "Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn",
+                "Rất hân hạnh xin được gặp bạn",
                 "Xin chào quý khách",
+                "Xin chào quý khách, House 3D rất hân hạnh được phục vụ",
                 "Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn",
-                "Cảm ơn",
                 "House 3D rất hân hạnh được đón tiếp quý khách",
+                "Cảm ơn",
                 "Xin chào, rất hân hạnh được đón tiếp quý khách",
-                "Rất hân hạnh xin được gặp bạn"
+                "Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn"
             ]
         },
         {
@@ -334,18 +334,18 @@
         {
             "tag": "chức năng chế độ hiển thị",
             "questions": [
-                "bên mình có thiết bị hỗ trợ xem vr không?",
-                "có bao nhiêu chế độ hiển thị?",
-                "nếu không có kính thì chế độ vr và 3d có khác nhau nhiều không?",
-                "chế độ hiển thị 3d khác chế độ hiển thị vr như thế nào?",
                 "tải phần mềm file vr về được không?",
-                "               chế độ viền và tách viền khác gì nhau ?",
-                "ở định dạng 3d và vr có thể thay đổi chế độ hiển thị nào ?",
-                "có tài liệu hướng dẫn về các chế độ hiển thị không?",
-                "làm thế nào để xem ảnh render của dự án?",
+                "có bao nhiêu chế độ hiển thị?",
                 "cloud rendering là gì?",
+                "               chế độ viền và tách viền khác gì nhau ?",
+                "chế độ hiển thị 3d khác chế độ hiển thị vr như thế nào?",
+                "ảnh 2d tĩnh chế độ fullhd 4 không hiển thị tính chất vật liệu hề thua kém 3ds max đôi khi nhỉ?",
+                "bên mình có thiết bị hỗ trợ xem vr không?",
+                "làm thế nào để xem ảnh render của dự án?",
+                "có tài liệu hướng dẫn về các chế độ hiển thị không?",
+                "ở định dạng 3d và vr có thể thay đổi chế độ hiển thị nào ?",
                 "làm thế nào để chuyển đổi chế độ hiển thị ?",
-                "ảnh 2d tĩnh chế độ fullhd 4 không hiển thị tính chất vật liệu hề thua kém 3ds max đôi khi nhỉ?"
+                "nếu không có kính thì chế độ vr và 3d có khác nhau nhiều không?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi",
@@ -370,20 +370,20 @@
         {
             "tag": "chức năng tự động bắt dính",
             "questions": [
-                "làm thế nào để có thể tự động xếp chồng lên đồ vật khác bằng chức năng tự động bắt dính ?",
-                "điểm bắt dính desktop là gì?",
+                "điểm bắt dính free là gì?",
                 "điểm bắt dính floor là gì?",
-                "chức năng tự đông bắt dính là gì?",
-                "điểm bắt dính stick floor là gì?\"",
-                "điểm bắt dính wall là gì?",
-                "làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?",
-                "làm thế nào để bắt dính góc cạnh của viên gạch ?",
-                "làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?",
                 "tắt chế độ bắt dính như thế nào ?",
                 "điểm bắt dính top là gì?",
-                "điểm bắt dính floor adsorb là gì?",
+                "điểm bắt dính stick floor là gì?\"",
+                "chức năng tự đông bắt dính là gì?",
+                "làm thế nào để có thể tự động xếp chồng lên đồ vật khác bằng chức năng tự động bắt dính ?",
+                "làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?",
                 "có tài liệu giới thiệu về chức năng tự động bắt dính của phần mềm không ?",
-                "điểm bắt dính free là gì?"
+                "làm thế nào để bắt dính góc cạnh của viên gạch ?",
+                "điểm bắt dính desktop là gì?",
+                "điểm bắt dính wall là gì?",
+                "điểm bắt dính floor adsorb là gì?",
+                "làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về chế độ bắt dính trong link này: https://academy.house3d.com/guide/chuc-nang-tu-dong-bat-dinh?lang=vi"
@@ -487,24 +487,24 @@
         {
             "tag": "giới thiệu giao diện thiết kế",
             "questions": [
-                "àm thế nào để xem toàn bộ mặt bằng của dự án trên phần mềm house 3d?",
+                "có bao nhiêu chế độ nhìn trên phần mềm?",
                 "làm thế nào để lưu dự án ?",
-                "làm thế nào để xem một số phím tắt của phần mềm house 3d?",
+                "àm thế nào để xem toàn bộ mặt bằng của dự án trên phần mềm house 3d?",
                 "làm thế nào để xem được các file dự án trên phần mềm?",
                 "trong lúc tôi đang thiết kế thì diện tích kích thước phòng bị thay đổi, làm thế nào trên phần mềm house3d tôi khắc phục được điều đó ?",
-                "render dự án ở vị trí nào trên phần mềm ?",
-                "phần thiết kế chức năng của phần mềm ở đâu ?",
-                "làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?",
-                "có những phong cách thiết kế nào?",
-                "có thể thay đổi được tốc độ chuột trên phần mềm không ?",
                 "phần mềm có những thiết kế mẫu nào?",
-                "có thể thay đổi được ngôn ngữ của phần mềm house3d không ?",
-                "biểu tượng nhãn hiệu trong phần mềm là gì ?",
-                "bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?",
-                "có tài liệu hướng dẫn cách sử dụng phần mềm house3d không ?",
                 "lưu, lưu mới và lưu về máy khác gì nhau ?",
+                "render dự án ở vị trí nào trên phần mềm ?",
+                "biểu tượng nhãn hiệu trong phần mềm là gì ?",
+                "làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?",
                 "làm thế nào để tạo một dự án mới?",
-                "có bao nhiêu chế độ nhìn trên phần mềm?"
+                "có thể thay đổi được ngôn ngữ của phần mềm house3d không ?",
+                "bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?",
+                "làm thế nào để xem một số phím tắt của phần mềm house 3d?",
+                "có những phong cách thiết kế nào?",
+                "phần thiết kế chức năng của phần mềm ở đâu ?",
+                "có thể thay đổi được tốc độ chuột trên phần mềm không ?",
+                "có tài liệu hướng dẫn cách sử dụng phần mềm house3d không ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https://academy.house3d.com/guide/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"
@@ -528,28 +528,28 @@
         {
             "tag": "hướng dẫn thanh toán online",
             "questions": [
-                "kiểm tra số lượng hcoin trong tài khoản thanh toán thế nào?",
-                "xem lịch sử giao dịch ở đâu ?",
-                "cách thanh toán online ?",
-                "nếu giao dịch không thành côn thì có bị trừ tiền trong tài khoản không ?",
-                "bên mình hỗ trợ thanh toán qua những ngân hàng nào ?",
+                "Hcoin tương ứng với bao nhiêu vnđ?",
+                "làm thế nào để nạp hcoin vào tài khoản?",
+                "Hcoin là gì ?",
+                "trang web thanh toán của house3d là gì ?",
                 "làm thế nào để thanh toán trên house3d ?",
                 "có thể thanh toán trực tiếp tại công ty house3d không ?",
-                "trang web thanh toán của house3d là gì ?",
-                "bên mình có hỗ trợ thanh toán bằng VNPAY QR không ?",
-                "có thể thanh toán qua paypal không ?",
-                "Hcoin là gì ?",
-                "Hcoin tương ứng với bao nhiêu vnđ?",
-                "có những mức thời gian sử dụng nào ?",
+                "kiểm tra số lượng hcoin trong tài khoản thanh toán thế nào?",
                 "bên house3d có những phương thức thanh toán nào ?",
-                "làm thế nào để nạp hcoin vào tài khoản?",
-                "làm thế nào để nạp tiền vào tài khoản?",
-                "loại tiền sử dụng thanh toán của house3d là gì ?",
-                "có hướng dẫn chi tiết về thanh toán cho house3d không ?",
-                "có thể chuyển khoản trực tiếp đến công ty house3d không ?",
                 "nạp hcoin vào tài khoản như thế nào?",
+                "có những mức thời gian sử dụng nào ?",
+                "có thể chuyển khoản trực tiếp đến công ty house3d không ?",
+                "bên mình hỗ trợ thanh toán qua những ngân hàng nào ?",
+                "bên mình có hỗ trợ thanh toán bằng VNPAY QR không ?",
+                "xem lịch sử giao dịch ở đâu ?",
+                "có thể thanh toán qua paypal không ?",
+                "nếu giao dịch không thành côn thì có bị trừ tiền trong tài khoản không ?",
+                "làm thế nào để mua những dịch vụ của house3d ?",
+                "cách thanh toán online ?",
+                "loại tiền sử dụng thanh toán của house3d là gì ?",
                 "làm thế nào để kiểm tra lịch sử giao dịch ?",
-                "làm thế nào để mua những dịch vụ của house3d ?"
+                "có hướng dẫn chi tiết về thanh toán cho house3d không ?",
+                "làm thế nào để nạp tiền vào tài khoản?"
             ],
             "answers": [
                 "bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi"
@@ -653,15 +653,15 @@
         {
             "tag": "lịch đào tạo hàng tuần",
             "questions": [
-                "thời gian tổ chức của chương trình đào tạo House 3D tại TPHCM ?",
-                "những yêu cầu trong chương trình đào tạo House 3D là gì ?",
-                "tài liệu tham khảo của chương trình đào tạo gồm những gì ?",
-                "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại TP HCM ở đâu?",
-                "đăng kí tài khoản House3D như thế nào ?",
                 "chương trình đào tạo của House 3D gồm những mảng nào ?",
+                "tài liệu tham khảo của chương trình đào tạo gồm những gì ?",
                 "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại Hà Nội ở đâu?",
                 "Lịch đào tạo hàng tuần tại văn phòng House3D như thế nào ?",
                 "cho mình hỏi chương trình đào tạo của house 3d được tổ chức tại những khu vực nào?",
+                "thời gian tổ chức của chương trình đào tạo House 3D tại TPHCM ?",
+                "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại TP HCM ở đâu?",
+                "đăng kí tài khoản House3D như thế nào ?",
+                "những yêu cầu trong chương trình đào tạo House 3D là gì ?",
                 "thời gian tổ chức của chương trình đào tạo House 3D tại Hà Nội ?"
             ],
             "answers": [
@@ -847,14 +847,14 @@
         {
             "tag": "một số kiểu vẽ tường",
             "questions": [
-                "vẽ nét giữa trong vẽ tường là gì?",
                 "Có những kiểu vẽ tường nào?",
-                "vẽ nét trong tường là gì?",
-                "vẽ nét giữa, vẽ nét trong và ngoài tường khác gì nhau?",
                 "vẽ nét ngoài tường là gì?",
-                "làm thế nào để nhập độ dài trong lúc vẽ tường?",
                 "có tài liệu hướng dẫn về một số cách vẽ tường không?",
-                "làm thế nào để tạo căn phòng bằng vẽ tường?"
+                "làm thế nào để tạo căn phòng bằng vẽ tường?",
+                "làm thế nào để nhập độ dài trong lúc vẽ tường?",
+                "vẽ nét giữa, vẽ nét trong và ngoài tường khác gì nhau?",
+                "vẽ nét trong tường là gì?",
+                "vẽ nét giữa trong vẽ tường là gì?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi"
@@ -908,17 +908,17 @@
         {
             "tag": "phím tắt thường dùng",
             "questions": [
+                "phím tắt di chuyển trục thẳng đứng là gì ?",
+                "làm thế nào để xoá vật thể bằng phím tắt ?",
+                "phần mềm có sử dụng những phím tắt nào?",
+                "di chuyển tầm nhìn dùng phím tắt gì ?",
+                "làm thế nào để di chuyển đối tượng bằng phím tắt trong phần mềm ?",
                 "phím tát chuyển đổi chế độ là gì ?",
                 "phím tắt trên phiên bản của window và macos có khác gì nhau ?",
-                "có hướng",
-                "di chuyển tầm nhìn dùng phím tắt gì ?",
-                "làm thế nào để thay đổi kích thước đối tượng bằng phím tắt ?",
-                "làm thế nào để xoá vật thể bằng phím tắt ?",
+                "có những loại phím tắt phổ biến tỏng phần mềm ?",
                 "làm thế nào để xem các phím tắt trên phần mềm ?",
-                "phím tắt di chuyển trục thẳng đứng là gì ?",
-                "làm thế nào để di chuyển đối tượng bằng phím tắt trong phần mềm ?",
-                "phần mềm có sử dụng những phím tắt nào?",
-                "có những loại phím tắt phổ biến tỏng phần mềm ?"
+                "làm thế nào để thay đổi kích thước đối tượng bằng phím tắt ?",
+                "có hướng"
             ],
             "answers": [
                 "bạn có thể tìm hiểu chi tiết về một số phím tắt thường dùng qua tài liệu này: https://academy.house3d.com/guide/phim-tat-thuong-dung?lang=vi"
@@ -1143,15 +1143,15 @@
             "tag": "tải ảnh facebook 360",
             "questions": [
                 "ảnh chế độ đơn điểm và đa điểm khi đăng lên facebook khác nhau thế nào?",
-                "có thể tải ảnh sau khi render về máy tính để đăng trên facebook không?",
-                "ảnh sau khi up lên facebook 360 còn giữ chất lượng không?",
-                "có hướng đẫn chi tiết cách up ản sau khi render lên facebook không?",
-                "làm thế nào để tải ảnh sau khi render lên facebook?",
                 "có thể tải liên tục nhiều ảnh cùng lúc về máy không?",
-                "có thể thay đổi chất lượng ảnh khi tải xuống sau đó đăng trên facebook không?",
                 "làm thế nào để up ảnh 360 độ lên facebook ?",
                 "yêu cầu để tải được ảnh lên facebook 360 ?",
-                "có thể thay đổi chế độ ảnh của dự án để đăng trên facebook không ?"
+                "có thể thay đổi chế độ ảnh của dự án để đăng trên facebook không ?",
+                "có thể thay đổi chất lượng ảnh khi tải xuống sau đó đăng trên facebook không?",
+                "có hướng đẫn chi tiết cách up ản sau khi render lên facebook không?",
+                "làm thế nào để tải ảnh sau khi render lên facebook?",
+                "có thể tải ảnh sau khi render về máy tính để đăng trên facebook không?",
+                "ảnh sau khi up lên facebook 360 còn giữ chất lượng không?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu chi tiết về cách đăng dự án lên facebook 360 qua tài liệu sau đây: https://academy.house3d.com/guide/tai-anh-facebook-360?lang=vi"
@@ -1435,12 +1435,12 @@
         {
             "tag": "thoát và thay đổi tài khoản",
             "questions": [
+                "làm thế nào để thay đổi tài khoản trên ứng dụng house3d ?",
                 "cách đăng xuất tài khoản trên ứng dụng house3d ?",
+                "nếu có thắc mắc về quản lý tài khoản có thể đặt câu hỏi trên phần mềm của house3d không?",
                 "nếu tôi nhấn thoát trên phần mềm thì lần sau có phải đăng nhập lại không ?",
                 "ad có video hướng dẫn cách quản lý tài khoản không ?",
-                "có những cách nào thoát tài khoản trên house3d ?",
-                "nếu có thắc mắc về quản lý tài khoản có thể đặt câu hỏi trên phần mềm của house3d không?",
-                "làm thế nào để thay đổi tài khoản trên ứng dụng house3d ?"
+                "có những cách nào thoát tài khoản trên house3d ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về cách quản lý tài khoản trên phần mềm House3D qua tài liệu sau: https://academy.house3d.com/guide/thoat-thay-doi-tai-khoan?lang=vi"
@@ -1454,16 +1454,16 @@
         {
             "tag": "tool convert 3ds max sang h3d",
             "questions": [
+                "cách sử dụng phần vật liệu nâng cao sử dụng trong chủ đề convert model từ 3ds max sang house3d?",
+                "có tài liệu hướng dẫn về cách chuyển model từ 3dsmax sang house3d?",
                 "link tải công cụ tạo h3d model-pulugin trên 3ds max?",
                 "tính năng U,V map của convert model từ 3dsmax sang house3d?",
-                "àm thế nào để convert model từ 3DSMAX sang HOUSE3D?",
                 "convert từ 3dsmax sang h3d hỗ trợ các model có định dạng nào?",
-                "cách cài đặt plugin để convert model từ 3dsmax sang house3d?",
-                "có tài liệu hướng dẫn về cách chuyển model từ 3dsmax sang house3d?",
-                "cách sử dụng phần vật liệu nâng cao sử dụng trong chủ đề convert model từ 3ds max sang house3d?",
-                "nếu trong thực hiện chuyển model từ 3dsmax sang house3d thì có thể liên hệ ai?",
+                "àm thế nào để convert model từ 3DSMAX sang HOUSE3D?",
+                "tôi không hiểu rõ về cách chuyển model từ 3dsmax sang house3d?",
                 "có video chi tiết để convert model từ 3dsmax sng house3d?",
-                "tôi không hiểu rõ về cách chuyển model từ 3dsmax sang house3d?"
+                "nếu trong thực hiện chuyển model từ 3dsmax sang house3d thì có thể liên hệ ai?",
+                "cách cài đặt plugin để convert model từ 3dsmax sang house3d?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu cách sử dụng tool convert model từ 3dsmax sang hous3dd qua tài liệu sau: https://academy.house3d.com/guide/su-dung-tool-convert-model-tu-3ds-max-sang-h3d?lang=vi"
