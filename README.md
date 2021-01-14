@@ -20,7 +20,7 @@ Next version will be extended from dev branch.
 
 ## Requirement
 
-- Python 3.6
+- Python 3.6.12
 - Tensorflow 1.7.0
 - Flask==0.11.1
 - Keras==2.1.5
@@ -80,7 +80,7 @@ If you want to reatrain mode, you move to folder model and run file `model.py`
 python model.py
 ```
 
-After running completely, you will have file `H3D.h5` and the files included in the  `app` directory that consists of:
+After running completely, you will have file `model_h3d.h5` and the files included in the  `app` directory that consists of:
 ```
 - classes.pkl
 - documents.pkl
@@ -151,7 +151,7 @@ You can test your application on Facebook already.
 
 Run file `update.py` for updating data and model.
 
-Files ``intents.json`` and ``H3D.h5`` will be created in update folder. Let's copy and replace in folder `app`.
+Files ``intents.json`` and ``model_h3d.h5`` will be created in update folder. Let's copy and replace in folder `deploy`.
 Finally, run this command:
 ```
 git add .
