@@ -21,9 +21,9 @@ Next version will be extended from dev branch.
 
 - Python 3.6.12
 - Tensorflow 1.7.0
-- Flask==0.11.1
-- Keras==2.1.5
-- Underthesea==1.2.3
+- Flask 0.11.1
+- Keras 2.1.5
+- Underthesea 1.2.3
 
 Download requirements by running this commands on command line ! 
 ```
