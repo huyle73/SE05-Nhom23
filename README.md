@@ -56,15 +56,11 @@ git clone https://github.com/huyle73/SE05-N3.git
             "tag": "chức năng đóng góp mặt bằng",
             "questions": [],
             "answers": [],
-            "contexture_lv1": "dựng tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
         },
         {
             "tag": "xuất bản vẽ sơ đồ mặt bằng",
             "questions": [],
             "answers": [],
-            "contexture_lv1": "dựng tường",
-            "contexture_lv2": "chức năng thiết kế cơ bản"
         },
         ...
         ]
