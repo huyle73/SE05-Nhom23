@@ -10,8 +10,7 @@ Authors:
 
 Reference:
 
-- Build Facebook Messenger Contextual ChatBot with TensorFlow and Keras.
-https://medium.com/@ferrygunawan/build-facebook-messenger-contextual-chatbot-with-tensorflow-and-keras-4f8cc79438cf
+- [Build Facebook Messenger Contextual ChatBot with TensorFlow and Keras](https://medium.com/@ferrygunawan/build-facebook-messenger-contextual-chatbot-with-tensorflow-and-keras-4f8cc79438cf)
 
 ## Update
 
