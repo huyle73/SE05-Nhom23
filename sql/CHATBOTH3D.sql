@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Jan 16, 2021 at 09:20 PM
+-- Generation Time: Jan 16, 2021 at 09:24 PM
 -- Server version: 10.4.6-MariaDB
 -- PHP Version: 7.1.32
 
@@ -43,16 +43,6 @@ CREATE TABLE `Bàn bar bếp` (
   `Question` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
   `Answer` varchar(100) COLLATE utf8_unicode_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
-
---
--- Dumping data for table `Bàn bar bếp`
---
-
-INSERT INTO `Bàn bar bếp` (`Question`, `Answer`) VALUES
-('Xem danh sách các texture của gian hàng ở đâu?', 'ko biet'),
-('Xem danh sách các texture của gian hàng ở đâu?', 'bạn có thể tìm hiểu '),
-('Xem danh sách các texture của gian hàng ở đâu?', 'do duy dao'),
-('Xem danh sách các texture của gian hàng ở đâu?', 'bạn có thể tìm hiểu ');
 
 -- --------------------------------------------------------
 
