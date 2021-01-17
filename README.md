@@ -10,6 +10,7 @@ Authors:
 
 Reference:
 
+
 - [Build Facebook Messenger Contextual ChatBot with TensorFlow and Keras](https://medium.com/@ferrygunawan/build-facebook-messenger-contextual-chatbot-with-tensorflow-and-keras-4f8cc79438cf)
 
 ## Version
@@ -163,7 +164,7 @@ And install heroku by this command(for Ubuntu):
 ```
 sudo snap install --classic heroku
 ```
-*** ìf you install heroku on Windows, you can follow this [link](https://devcenter.heroku.com/articles/heroku-cli).
+*** If you install heroku on Windows, you can follow this [link](https://devcenter.heroku.com/articles/heroku-cli).
 
 Next, go to `deploy` folder and follow this command to push app on server:
 ```
@@ -219,4 +220,4 @@ Open terminal into `SE05-Nhom23` folder and run``update.sh``file by this command
 ### Test app
 Click [here](https://afternoon-stream-46461.herokuapp.com/) to test web app.
 
-Or you can find us on [Fanpage](https://www.facebook.com/ChatbotH3D) and try it on [Messenger](https://www.facebook.com/messages/t/ChatbotH3D).
+Or you can find us on [Fanpage](https://www.facebook.com/ChatbotH3D) and try it on [Messenger](https://m.me/ChatBotH3D).
