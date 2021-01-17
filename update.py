@@ -173,6 +173,6 @@ def buil_new_model():
     print("test loss, test acc:", results)
 
 
-# update_dataset()
-# buil_new_model()
+update_dataset()
+buil_new_model()
 # print("Update successfully")
