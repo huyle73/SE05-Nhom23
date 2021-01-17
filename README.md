@@ -146,13 +146,13 @@ You can test your application on Facebook already.
 
 
 ### Update version
+You need consider that your database is running.
 
-Run file `update.py` for updating data and model.
+Open terminal into `SE05-Nhom23` folder and run``update.sh``file by this command:
+```
+    bash update.sh
+```
+### Test app
+Click [here](https://afternoon-stream-46461.herokuapp.com/) to test web app.
 
-Files ``intents.json``, ``model_h3d.h5``, and attachment files will be created in `deploy` folder.
-Finally, run this command:
-```
-git add .
-git commit —am 'chatbot'
-git push heroku master
-```
+Or you can find us on [Fanpage](https://www.facebook.com/ChatbotH3D) and try it on [Messenger](https://www.facebook.com/messages/t/ChatbotH3D).

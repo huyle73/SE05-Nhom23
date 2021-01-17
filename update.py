@@ -4,6 +4,9 @@ import pickle
 import pymysql
 import json
 
+import warnings
+warnings.filterwarnings('ignore')
+
 def load_database_form_sql():
     host_name = "localhost"
     user_name = "root"
@@ -67,7 +70,6 @@ def update_dataset():
     file_out.close()
     print("Update data successfully")
 
-update_dataset()
 
 #2 update model
 from underthesea import word_tokenize
@@ -161,7 +163,7 @@ def buil_new_model():
 
     model.summary()
     model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['acc'])
-    history = model.fit(np.array(train_x), np.array(train_y), epochs=4000, batch_size=64)
+    history = model.fit(np.array(train_x), np.array(train_y), epochs=10000, batch_size=64)
     model_path = "deploy/model_h3d.h5"
     model.save(model_path)
 
@@ -170,5 +172,7 @@ def buil_new_model():
     results = model.evaluate(np.array(test_x), np.array(test_y), batch_size=64)
     print("test loss, test acc:", results)
 
-buil_new_model()
-print("Update successfully")
+
+# update_dataset()
+# buil_new_model()
+# print("Update successfully")

@@ -12,7 +12,7 @@ from keras import layers
 import pickle
 import json
 
-with open('../dataset/intents.json', encoding="utf-8") as json_data:
+with open('../deploy/intents.json', encoding="utf-8") as json_data:
     intents = json.load(json_data)
 
 words = []
