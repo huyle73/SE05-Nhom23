@@ -171,3 +171,4 @@ def buil_new_model():
     print("test loss, test acc:", results)
 
 buil_new_model()
+print("Update successfully")

@@ -47,3 +47,16 @@ def show_details(tags_QA,tags_NQA):
 
 
 show_details(tags_QA,tags_NQA)
+
+def show_statistic():
+    print("Các nhãn có câu hỏi và câu trả lời: ")
+    df_sample = pd.DataFrame(data=tags_QA,columns=["Tags","Number of questions","Number of answers"])
+    print(df_sample)
+    print(df_sample.sum(axis = 0,numeric_only=True))
+
+    print()
+    print("Các nhãn không có câu hỏi và câu trả lời: ")
+    df_sample = pd.DataFrame(data=tags_NQA,columns=["Tags"])
+    print(df_sample)
+
+# show_statistic()
