@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Jan 16, 2021 at 09:24 PM
+-- Generation Time: Jan 17, 2021 at 10:59 PM
 -- Server version: 10.4.6-MariaDB
 -- PHP Version: 7.1.32
 
@@ -128,7 +128,11 @@ INSERT INTO `Chào hỏi` (`Question`, `Answer`) VALUES
 ('hi', 'Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn'),
 ('alo', 'Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn'),
 ('hi bạn', 'Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn'),
-('hello admin quản lý ', 'Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn');
+('hello admin quản lý ', 'Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn'),
+('hellu', 'Chatbot House 3D rất hân hạnh được đón tiếp bạn'),
+('hey', 'Chatbot House 3D rất hân hạnh được đón tiếp bạn'),
+('How\'s it going?', 'Chatbot House 3D rất hân hạnh được đón tiếp bạn'),
+('Yay', 'Chatbot House 3D rất hân hạnh được đón tiếp bạn');
 
 -- --------------------------------------------------------
 
@@ -327,7 +331,6 @@ CREATE TABLE `Chức năng đóng góp mặt bằng` (
 --
 
 INSERT INTO `Chức năng đóng góp mặt bằng` (`Question`, `Answer`) VALUES
-('xin chao', 'hi'),
 ('chức năng đóng góp sơ đồ mặt bằng ở đâu?', 'Bạn có thể tìm hiểu về chức năng đóng góp sơ đồ mặt bằng tại đây: https://academy.house3d.com/guide/contribute-the-site-map-2?lang=vi'),
 ('làm thế nào để đóng góp thêm vào sơ đồ mặt bằng đã có sẵn?', 'Bạn có thể tìm hiểu về chức năng đóng góp sơ đồ mặt bằng tại đây: https://academy.house3d.com/guide/contribute-the-site-map-2?lang=vi'),
 ('thêm vị trí sơ đồ mặt bằng ở đâu?', 'Bạn có thể tìm hiểu về chức năng đóng góp sơ đồ mặt bằng tại đây: https://academy.house3d.com/guide/contribute-the-site-map-2?lang=vi'),
@@ -467,13 +470,11 @@ INSERT INTO `Cách lắp trần nhà` (`Question`, `Answer`) VALUES
 ('làm thế nào để lắp trần nhà?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
 ('có thể xem thiết kế những mẫu trần nhà nào?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
 ('tuỳ chỉnh kích thước trần nhà như thế nào?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
-('điều chỉnh thông số trần nhà như thế nào?', 'Bạn có thể tìm hiểu về cách lắp'),
 ('có thể chọn những mẫu trần nhà nào?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
 ('chỉnh kích thước toàn bộ trần như thế nào?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
 ('đặt trần trong phòng ở như thế nào?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
 ('tìm thư viện trần ở đâu?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
-('thay đổi thông số của trần như thế nào?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi'),
-('xem trần sau khi lắp ở đâu?', 'bạn có thể tìm hiểu về cách lắp');
+('thay đổi thông số của trần như thế nào?', 'bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi');
 
 -- --------------------------------------------------------
 
@@ -626,8 +627,7 @@ INSERT INTO `Căn chỉnh đối tượng` (`Question`, `Answer`) VALUES
 ('làm thế nào để căn chỉnh trước đối tượng?', 'bạn có thể tìm hiểu về cách căn chỉnh đối tượng tại đây: https://academy.house3d.com/guide/can-chinh-doi-tuong?lang=vi'),
 ('làm thế nào để căn chỉnh sau đối tượng?', 'bạn có thể tìm hiểu về cách căn chỉnh đối tượng tại đây: https://academy.house3d.com/guide/can-chinh-doi-tuong?lang=vi'),
 ('làm thế nào để căn chỉnh trái phải đối tượng?', 'bạn có thể tìm hiểu về cách căn chỉnh đối tượng tại đây: https://academy.house3d.com/guide/can-chinh-doi-tuong?lang=vi'),
-('làm thế nào để căn chỉnh trước sau đối tượng?', 'bạn có thể tìm hiểu về cách căn chỉnh đối tượng tại đây: https://academy.house3d.com/guide/can-chinh-doi-tuong?lang=vi'),
-('làm thế nào có thể căn chỉnh theo tâm tường?', 'bạn có thể tìm hiểu về chức năng căn');
+('làm thế nào để căn chỉnh trước sau đối tượng?', 'bạn có thể tìm hiểu về cách căn chỉnh đối tượng tại đây: https://academy.house3d.com/guide/can-chinh-doi-tuong?lang=vi');
 
 -- --------------------------------------------------------
 
@@ -667,7 +667,12 @@ INSERT INTO `Cảm ơn` (`Question`, `Answer`) VALUES
 ('cảm ơn', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !'),
 ('tốt lắm', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !'),
 ('best advice', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !'),
-('good job', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !');
+('good job', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !'),
+('câu trả lời bạn hay lắm', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !'),
+('cảm ơn đội ngũ của House 3D', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !'),
+('cảm ơn admin rất nhiều', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !'),
+('very useful', 'Chat'),
+('okay, thanks', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !');
 
 -- --------------------------------------------------------
 
@@ -1715,7 +1720,6 @@ INSERT INTO `Lịch đào tạo hàng tuần` (`Question`, `Answer`) VALUES
 ('những yêu cầu trong chương trình đào tạo House 3D là gì ?', 'bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi'),
 ('thời gian tổ chức của chương trình đào tạo House 3D tại Hà Nội ?', 'bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi'),
 ('thời gian tổ chức của chương trình đào tạo House 3D tại TPHCM ?', 'bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi'),
-('tài liệu tham khảo của chương trình đào tạo gồm những gì ?', 'bạn có thể tìm hiểu ch'),
 ('đăng kí tài khoản House3D như thế nào ?', 'bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi'),
 ('địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại Hà Nội ở đâu?', 'bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi'),
 ('địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại TP HCM ở đâu?', 'bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi');
@@ -1797,9 +1801,7 @@ INSERT INTO `Nhóm và tách nhóm các đối tượng` (`Question`, `Answer`) 
 ('làm thế nào để gộp các đối tượng vào một nhóm?', 'bạn có thể tìm hiểu về nhóm và tách nhóm ở đây: https://academy.house3d.com/guide/nhom-tach-nhom-cac-doi-tuong?lang=vi'),
 ('làm thế nào để tách nhóm thành các đối tượng?', 'bạn có thể tìm hiểu về nhóm và tách nhóm ở đây: https://academy.house3d.com/guide/nhom-tach-nhom-cac-doi-tuong?lang=vi'),
 ('tôi không biết chỗ gộp các đối tượng ở đâu?', 'bạn có thể tìm hiểu về nhóm và tách nhóm ở đây: https://academy.house3d.com/guide/nhom-tach-nhom-cac-doi-tuong?lang=vi'),
-('tôi không biết chỗ tách nhóm các đối tượng ở đâu?', 'bạn có thể tìm hiểu về nhóm'),
 ('có tài liệu hướng dẫn cách gộp và tách nhóm các đối tượng không?', 'bạn có thể tìm hiểu về nhóm và tách nhóm ở đây: https://academy.house3d.com/guide/nhom-tach-nhom-cac-doi-tuong?lang=vi'),
-('tôi có thể đặt tên cho nhóm các đối tượng không?', 'bạn có thể tìm hiểu về nhóm'),
 ('có thể thêm tối đa bao nhiêu đối tượng vào một nhóm?', 'bạn có thể tìm hiểu về nhó');
 
 -- --------------------------------------------------------
@@ -1831,7 +1833,9 @@ CREATE TABLE `Nói vui` (
 INSERT INTO `Nói vui` (`Question`, `Answer`) VALUES
 ('oke nhá', 'Mình còn có thể giúp đỡ gì không ạ ?'),
 ('oke', 'Bạn muốn tìm hiểu gì thêm không?'),
-('hihi', 'Mình có thể giúp gì nữa cho bạn nhỉ ?');
+('hihi', 'Mình có thể giúp gì nữa cho bạn nhỉ ?'),
+('hmm', 'Mình có thể giúp gì nữa cho bạn nhỉ ?'),
+('hỏi gì tiếp nhỉ?', 'Mình có thể giúp gì cho bạn ạ?');
 
 -- --------------------------------------------------------
 
@@ -3002,7 +3006,8 @@ INSERT INTO `Tạm biệt` (`Question`, `Answer`) VALUES
 ('pp nhaa', 'Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách'),
 ('tạm biệt nha', 'Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách, chúc quý khách một ngày tốt lành !'),
 ('xin chào tạm biệt', 'Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách, chúc quý khách một ngày tốt lành !'),
-('xin chào tạm biệt nhá', 'Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách, chúc quý khách một ngày tốt lành !');
+('xin chào tạm biệt nhá', 'Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách, chúc quý khách một ngày tốt lành !'),
+('bai bai', 'Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !');
 
 -- --------------------------------------------------------
 
@@ -3801,8 +3806,7 @@ INSERT INTO `Đo khoảng cách giữa các đối tượng` (`Question`, `Answe
 ('đo khoảng cách từ cột nhà pillar đến nội thất như nào?', 'bạn có thể tìm hiểu về đo khoảng cách giữa các đối tượng ở đây: https://academy.house3d.com/guide/do-khoang-cach-giua-cac-doi-tuong?lang=vi'),
 ('khoảng cách tối đa để pillar cách tường là bao nhiêu?', 'bạn có thể tìm hiểu về đo khoảng cách giữa các đối tượng ở đây: https://academy.house3d.com/guide/do-khoang-cach-giua-cac-doi-tuong?lang=vi'),
 ('làm thế nào để điều chỉnh khoảng cách cột pillar về sát tường', 'bạn có thể tìm hiểu về đo khoảng cách giữa các đối tượng ở đây: https://academy.house3d.com/guide/do-khoang-cach-giua-cac-doi-tuong?lang=vi'),
-('đơn vị đo khoảng cách giữa các đối tượng là gì?', 'bạn có thể tìm hiểu về đo khoảng cách giữa các đối tượng ở đây: https://academy.house3d.com/guide/do-khoang-cach-giua-cac-doi-tuong?lang=vi'),
-('có thể chuyển đổi đơn vị đo giữa các đối tượng không?', 'bạn có thể tìm hiểu về đo');
+('đơn vị đo khoảng cách giữa các đối tượng là gì?', 'bạn có thể tìm hiểu về đo khoảng cách giữa các đối tượng ở đây: https://academy.house3d.com/guide/do-khoang-cach-giua-cac-doi-tuong?lang=vi');
 
 -- --------------------------------------------------------
 
