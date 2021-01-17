@@ -8,36 +8,36 @@
         {
             "tag": "đăng ký và cài đặt macos",
             "questions": [
-                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ !",
-                "cách đăng ký tài khoản trên House 3D ?",
-                "làm thế nào để download ứng dụng hous3d cho hệ điều hành macos ?",
-                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
-                "có video hướng đẫn cách cài đặt không?",
-                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
                 "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
                 "mình cần link kích hoạt tài khoản ?",
-                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?"
+                "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
+                "cách đăng ký tài khoản trên House 3D ?",
+                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
+                "có video hướng đẫn cách cài đặt không?",
+                "làm thế nào để download ứng dụng hous3d cho hệ điều hành macos ?",
+                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
+                "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ !"
             ],
             "answers": [
-                "ạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi",
                 "bạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi",
-                "bạn có thể tìm hiểu và"
+                "bạn có thể tìm hiểu và",
+                "ạn có thể tìm hiểu và cách đăng ký và cài đặt của house3D cho hệ điều hành macOS qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-macos?lang=vi"
             ]
         },
         {
             "tag": "đăng ký và cài đặt windows",
             "questions": [
-                "làm thế nào để download ứng dụng hous3d cho hệ điều hành windows ?",
-                "cách đăng ký tài khoản trên House 3D ?",
-                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
-                "có video hướng đẫn cách cài đặt không?",
+                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
                 "em đang sử dụng hệ điều hành window 7, bên bạn có phiên bản house 3d hỗ trợ không ?",
                 "Em có đăng ký account để dùng house3d, bị quên pass em có reset nhưng có báo check mail, nhưng em check mail thì không thấy gửi mã reset pass về ạ ! ",
                 "tôi không nhận được mail xác thực tài khoản đã đăng ký ?",
-                "admin có thể cấp lại link kích hoạt tài khoản trên gmail hộ mình được k ạ ?",
+                "làm thế nào để download ứng dụng hous3d cho hệ điều hành windows ?",
+                "cách đăng ký tài khoản trên House 3D ?",
+                "bạn ơi mình đã đăng ký và sử dụng trải nghiệm House3D được chưa nhỉ ?",
                 "cần sử dụng trình duyệt Internet Explorer phiên bản bao nhiêu để cài đặt được phần mềm",
-                "mình cần link kích hoạt tài khoản ?",
-                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?"
+                "có video hướng đẫn cách cài đặt không?",
+                "cần phải đăng ký những thông tin cá nhân bắt buộc nào?",
+                "mình cần link kích hoạt tài khoản ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về cách cài đặt phần mềm trên hệ điều hành Windows qua tài liệu này: https://academy.house3d.com/guide/dang-ky-va-cai-dat-house3d-windows?lang=vi"
@@ -46,11 +46,11 @@
         {
             "tag": "đồ tường từ bản vẽ sơ đồ mặt bằng",
             "questions": [
+                "đồ lại sơ đồ mặt bằng như nào?",
+                "mở file sơ đồ mặt bằng ở đâu?",
                 "ẩn sơ đồ mặt bằng ở đâu?",
                 "làm thế nào để đồ tường?",
-                "mở file sơ đồ mặt bằng ở đâu?",
                 "tôi không biết dựng tường từ bản vẽ sơ đồ mặt bằng ở đâu?",
-                "đồ lại sơ đồ mặt bằng như nào?",
                 "tiến hành đồ tường ở đâu?",
                 "làm thế nào dể dựng tường từ bản vẽ sơ đồ mặt bằng?"
             ],
@@ -66,8 +66,8 @@
         {
             "tag": "đặt đèn chùm",
             "questions": [
-                "làm thế nào để đặt đèn trần?",
-                "làm thế nào để đặt đồ bám trần?"
+                "làm thế nào để đặt đồ bám trần?",
+                "làm thế nào để đặt đèn trần?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về cách đặt đèn chùm, trần và đồ bám trần tại đây https://academy.house3d.com/guide/dat-den-chum-do-vat-bam-tran?lang=vi"
@@ -103,20 +103,18 @@
         {
             "tag": "đo khoảng cách giữa các đối tượng",
             "questions": [
+                "đơn vị đo khoảng cách giữa các đối tượng là gì?",
+                "làm thế nào để đo khoảng cách giữa các đối tượng?",
+                "làm thế nào để đo khoảng cách giữa các đối tượng chính xác?",
+                "làm thế nào để điều chỉnh khoảng cách cột pillar về sát tường",
+                "đo khoảng cách từ cột nhà pillar đến nội thất như nào?",
+                "khoảng cách tối đa để pillar cách tường là bao nhiêu?",
+                "có những cách nào để đo khoảng cách giữa các đối tượng?",
                 "đo khoảng cách đối tượng ở chế độ 2D như thế nào?",
                 "làm thế nào để đo khoảng cách từ cột nhà đến tường?",
-                "khoảng cách tối đa để pillar cách tường là bao nhiêu?",
-                "làm thế nào để điều chỉnh khoảng cách cột pillar về sát tường",
-                "làm thế nào để đo khoảng cách giữa các đối tượng?",
-                "có những cách nào để đo khoảng cách giữa các đối tượng?",
-                "đo khoảng cách đối tượng ở chế độ 3D như thế nào?",
-                "đo khoảng cách từ cột nhà pillar đến nội thất như nào?",
-                "làm thế nào để đo khoảng cách giữa các đối tượng chính xác?",
-                "có thể chuyển đổi đơn vị đo giữa các đối tượng không?",
-                "đơn vị đo khoảng cách giữa các đối tượng là gì?"
+                "đo khoảng cách đối tượng ở chế độ 3D như thế nào?"
             ],
             "answers": [
-                "bạn có thể tìm hiểu về đo",
                 "bạn có thể tìm hiểu về đo khoảng cách giữa các đối tượng ở đây: https://academy.house3d.com/guide/do-khoang-cach-giua-cac-doi-tuong?lang=vi"
             ]
         },
@@ -133,19 +131,19 @@
         {
             "tag": "ẩn và hiện model hàng loạt",
             "questions": [
-                "làm thế nào để ẩn và hiện đồ nội thất?",
                 "làm thế nào để xoá đồ đã ẩn?",
-                "làm thế nào để hiển thị model đã ẩn?",
-                "làm thế nào để ẩn hiện nhiều đối tượng?",
-                "làm thế nào để ẩn model?",
                 "để xem model đã ẩn đi ở đâu?",
-                "làm thế nào để ẩn và hiện cửa?",
+                "làm thế nào để ẩn model?",
                 "làm thế nào để ẩn hoặc hiện một đối tượng?",
                 "để xem đồ vật đã ẩn đi ở đâu?",
-                "tôi không biết cho hiện model sau khi ẩn ở đâu?",
+                "làm thế nào để hiển thị model đã ẩn?",
+                "làm thế nào để ẩn hiện nhiều đối tượng?",
+                "làm thế nào để ẩn và hiện đồ nội thất?",
                 "làm thế nào để hiện model?",
                 "tôi không biết chỗ ẩn model ở đâu?",
-                "làm thế nào để ẩn và hiện trần?"
+                "làm thế nào để ẩn và hiện cửa?",
+                "làm thế nào để ẩn và hiện trần?",
+                "tôi không biết cho hiện model sau khi ẩn ở đâu?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về cách ẩn và hiện model hàng loạt ở đây: https://academy.house3d.com/guide/an-hien-model-hang-loat?lang=vi\"",
@@ -155,10 +153,10 @@
         {
             "tag": "ẩn,hiện tường ngoài",
             "questions": [
-                "tôi không tìm thấy chỗ ẩn tường ở đâu?",
+                "tôi đã ấn vào ẩn tường làm thế nào để hoàn tác?",
                 "hiện tường ngoài như thế nào?",
-                "ẩn,hiện tường ngoài",
-                "tôi đã ấn vào ẩn tường làm thế nào để hoàn tác?"
+                "tôi không tìm thấy chỗ ẩn tường ở đâu?",
+                "ẩn,hiện tường ngoài"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về hiện",
@@ -190,12 +188,12 @@
             "questions": [
                 "kéo đồ vào dự án như nào?",
                 "tôi có thể kéo thả đồ đạc mong muốn không?",
-                "làm thế nào để kéo thả đồ đạc?",
-                "Bạn có thể tìm hiểu cách kéo thả đồ đạc tại đây: https://academy.house3d.com/guide/cach-keo-tha-do-dac?lang=vi",
                 "tôi không biết kéo đồ ở đâu?",
+                "làm thế nào để kéo thả đồ đạc",
+                "Bạn có thể tìm hiểu cách kéo thả đồ đạc tại đây: https://academy.house3d.com/guide/cach-keo-tha-do-dac?lang=vi",
                 "làm thế nào để kéo đồ ở chế độ 2D?",
                 "làm thế nào để kéo đồ ở chế độ 3D?",
-                "làm thế nào để kéo thả đồ đạc"
+                "làm thế nào để kéo thả đồ đạc?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu cách kéo thả đồ đạc tại đây: https://academy.house3d.com/guide/cach-keo-tha-do-dac?lang=vi",
@@ -210,33 +208,29 @@
         {
             "tag": "cách lắp trần nhà",
             "questions": [
-                "chỉnh kích thước toàn bộ trần như thế nào?",
-                "tuỳ chỉnh kích thước trần nhà như thế nào?",
-                "làm thế nào để lắp trần nhà?",
-                "đặt trần trong phòng ở như thế nào?",
-                "điều chỉnh thông số trần nhà như thế nào?",
                 "có thể chọn những mẫu trần nhà nào?",
                 "có thể xem thiết kế những mẫu trần nhà nào?",
-                "thay đổi thông số của trần như thế nào?",
+                "tuỳ chỉnh kích thước trần nhà như thế nào?",
                 "tìm thư viện trần ở đâu?",
-                "xem trần sau khi lắp ở đâu?"
+                "chỉnh kích thước toàn bộ trần như thế nào?",
+                "thay đổi thông số của trần như thế nào?",
+                "làm thế nào để lắp trần nhà?",
+                "đặt trần trong phòng ở như thế nào?"
             ],
             "answers": [
-                "bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi",
-                "Bạn có thể tìm hiểu về cách lắp",
-                "bạn có thể tìm hiểu về cách lắp"
+                "bạn có thể tìm hiểu về cách lắp trần nhà tại đây: https://academy.house3d.com/guide/drop-ceiling-installation?lang=vi"
             ]
         },
         {
             "tag": "cách lưu dự án",
             "questions": [
-                "làm thế nào để lưu 2 dự án tách biệt?",
                 "àm thế nào để xem dự án đã lưu trên đám mây?",
-                "làm thế nào để xem dự án đã lưu?",
-                "chế độ lưu mới khác gì lưu bình thường?",
-                "làm thế nào để lưu dự án về máy?",
+                "tôi không tìm thấy chỗ lưu dự án?",
+                "làm thế nào để lưu 2 dự án tách biệt?",
                 "làm thế nào để lưu dự án?",
-                "tôi không tìm thấy chỗ lưu dự án?"
+                "làm thế nào để lưu dự án về máy?",
+                "làm thế nào để xem dự án đã lưu?",
+                "chế độ lưu mới khác gì lưu bình thường?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu về cách lưu dự án tại đây: https://academy.house3d.com/guide/cach-luu-du-an?lang=vi"
@@ -265,21 +259,19 @@
         {
             "tag": "căn chỉnh đối tượng",
             "questions": [
-                "làm thế nào để căn chỉnh trái phải đối tượng?",
-                "làm thế nào để căn chỉnh trước sau đối tượng?",
                 "căn chỉnh đối tượng ở đâu?",
-                "làm thế nào để căn chỉnh giữa đối tượng?",
-                "làm thế nào để căn chỉnh dưới đối tượng?",
-                "căn chỉnh đối tượng phải để ở chế độ nào?",
-                "có những kiểu căn chỉnh nào?",
-                "làm thế nào để căn chỉnh sau đối tượng?",
-                "làm thế nào có thể căn chỉnh theo tâm tường?",
-                "làm thế nào để căn chỉnh trước đối tượng?",
+                "làm thế nào để căn chỉnh trái phải đối tượng?",
                 "làm thế nào để căn chỉnh đối tượng?",
-                "làm thế nào để căn chỉnh 2 đối tượng?"
+                "làm thế nào để căn chỉnh 2 đối tượng?",
+                "làm thế nào để căn chỉnh giữa đối tượng?",
+                "căn chỉnh đối tượng phải để ở chế độ nào?",
+                "làm thế nào để căn chỉnh trước sau đối tượng?",
+                "có những kiểu căn chỉnh nào?",
+                "làm thế nào để căn chỉnh dưới đối tượng?",
+                "làm thế nào để căn chỉnh sau đối tượng?",
+                "làm thế nào để căn chỉnh trước đối tượng?"
             ],
             "answers": [
-                "bạn có thể tìm hiểu về chức năng căn",
                 "bạn có thể tìm hiểu về cách căn chỉnh đối tượng tại đây: https://academy.house3d.com/guide/can-chinh-doi-tuong?lang=vi"
             ]
         },
@@ -296,12 +288,12 @@
         {
             "tag": "căn chỉnh tường",
             "questions": [
+                "làm thế nào để căn chỉnh tường?",
+                "làm thế nào để căn chỉnh mép ngoài của tường?",
+                "có hướng dẫn chi tiết về căn chỉnh tường không?",
                 "làm thể nào để căn chỉnh theo mép trong của tường?",
                 "tôi không biết căn chỉnh tường ở đâu?",
-                "làm thế nào để căn chỉnh 2 bức tường thẳng hàng nhưng độ dày khác nhau?",
-                "có hướng dẫn chi tiết về căn chỉnh tường không?",
-                "làm thế nào để căn chỉnh tường?",
-                "làm thế nào để căn chỉnh mép ngoài của tường?"
+                "làm thế nào để căn chỉnh 2 bức tường thẳng hàng nhưng độ dày khác nhau?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về chức năng căn chỉnh tường ở đây: https://academy.house3d.com/guide/can-chinh-tuong?lang=vi"
@@ -370,21 +362,27 @@
         {
             "tag": "cảm ơn",
             "questions": [
-                "cảm ơn nha",
-                "tks nha",
-                "cảm ơn",
-                "good job",
-                "tks ",
-                "best advice",
-                "tốt lắm",
                 "cảm ơn bạn",
+                "okay, thanks",
+                "cảm ơn admin rất nhiều",
+                "best advice",
+                "cảm ơn nhiều",
+                "tks ",
+                "tks nha",
+                "câu trả lời bạn hay lắm",
+                "good job",
+                "tks nhiều",
+                "cảm ơn đội ngũ của House 3D",
+                "cảm ơn nha",
+                "cảm ơn",
                 "cảm ơn vì câu trả lời",
                 "cảm ơn rất nhiều",
-                "tks nhiều",
-                "cảm ơn nhiều"
+                "very useful",
+                "tốt lắm"
             ],
             "answers": [
-                "Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !"
+                "Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !",
+                "Chat"
             ]
         },
         {
@@ -395,36 +393,36 @@
         {
             "tag": "cắt,chia tường",
             "questions": [
-                "làm thế nào để khôi phục lại nguyên trạng sau khi cắt?",
                 "có thể tịnh tiến tường sau khi cắt thành nhiều hướng không?",
-                "làm thế nào để cắt và chia tường",
                 "có thể điều chỉnh khung tường sau khi cắt không?",
+                "làm thế nào để cắt và chia tường",
                 "làm thế nào chia tường làm hai nửa bằng nhau?",
                 "có tài liệu hướng dẫn cách cắt và chia bức tường không?",
-                "làm thế nào để cắt và chia bức tường làm hai?"
+                "làm thế nào để cắt và chia bức tường làm hai?",
+                "làm thế nào để khôi phục lại nguyên trạng sau khi cắt?"
             ],
             "answers": [
-                "bạn có thể tìm hiểu về cắt và chia tường tại đây: https://academy.house3d.com/guide/splitting-shifting-of-walls?lang=vi",
-                "bạn có thể tìm hiểu về cắt"
+                "bạn có thể tìm hiểu về cắt",
+                "bạn có thể tìm hiểu về cắt và chia tường tại đây: https://academy.house3d.com/guide/splitting-shifting-of-walls?lang=vi"
             ]
         },
         {
             "tag": "cột, sàn, dầm",
             "questions": [
-                "làm thế nào để vẽ cầu thang bằng tấm xà?",
                 "làm thế nào để ẩn cột?",
-                "làm thế nào để chỉnh thông số xà và dầm?",
-                "làm thế nào để xem cột, xà và dầm đã được thêm trong phòng?",
                 "làm thế nào để ẩn xà?",
                 "làm thế nào để thêm bục?",
-                "làm thế nào để thêm sàn?",
-                "làm thế nào để xoá cột?",
-                "làm thế nào để chỉnh sửa khoảng cách cột với tường?",
-                "làm thế nào để chỉnh sửa thông số cột?",
-                "làm thế nào để chỉnh sửa thông số bục và sàn?",
+                "làm thế nào để xem cột, xà và dầm đã được thêm trong phòng?",
                 "làm thế nào để ẩn dầm?",
+                "làm thế nào để chỉnh sửa thông số bục và sàn?",
+                "làm thế nào để vẽ cầu thang bằng tấm xà?",
+                "làm thế nào để xoá cột?",
+                "làm thế nào để đặt cột vào bản vẽ?",
+                "làm thế nào để thêm sàn?",
                 "làm thế nào để thêm xà và dầm?",
-                "làm thế nào để đặt cột vào bản vẽ?"
+                "làm thế nào để chỉnh thông số xà và dầm?",
+                "làm thế nào để chỉnh sửa thông số cột?",
+                "làm thế nào để chỉnh sửa khoảng cách cột với tường?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu chi tiết về cột, dầm và xà tại đây: https://academy.house3d.com/guide/cot-san-dam?lang=vi"
@@ -433,39 +431,43 @@
         {
             "tag": "chào hỏi",
             "questions": [
-                "xin chào ad",
                 "em chào anh chị công ty House 3D ạ",
-                "Xin chào bạn",
-                "cho tôi hỏi",
-                "xin chào anh chị ạ",
-                "chào admin",
                 "chào bạn",
-                "chào anh",
-                "hi bạn",
-                "bạn ơi",
-                "hello",
-                "hello admin quản lý ",
-                "alo",
-                "hello ad",
-                "chào anh chị",
-                "chào",
-                "hi",
-                "xin chào công ty house 3d",
                 "chào chị",
+                "alo",
+                "chào anh chị",
+                "Xin chào bạn",
+                "bạn ơi",
+                "hey",
                 "hi admin",
+                "Yay",
+                "xin chào công ty house 3d",
+                "hello ad",
+                "hi",
+                "hello",
+                "hellu",
                 "hi ad",
-                "chào công ty h3d"
+                "chào",
+                "cho tôi hỏi",
+                "hi bạn",
+                "chào anh",
+                "hello admin quản lý ",
+                "chào admin",
+                "xin chào anh chị ạ",
+                "chào công ty h3d",
+                "How's it going?",
+                "xin chào ad"
             ],
             "answers": [
-                "Xin chào, rất hân hạnh được đón tiếp quý khách",
-                "Cảm ơn",
-                "Chatbot House 3D rất hân hạnh được đón tiếp bạn",
-                "Xin chào quý khách, House 3D rất hân hạnh được phục vụ",
-                "House 3D rất hân hạnh được đón tiếp quý khách",
-                "Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn",
-                "Xin chào quý khách",
                 "Rất hân hạnh xin được gặp bạn",
-                "Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn"
+                "House 3D rất hân hạnh được đón tiếp quý khách",
+                "Chatbot House 3D rất hân hạnh được đón tiếp bạn",
+                "Cảm ơn",
+                "Xin chào quý khách",
+                "Xin chào, rất hân hạnh được đón tiếp quý khách",
+                "Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn",
+                "Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn",
+                "Xin chào quý khách, House 3D rất hân hạnh được phục vụ"
             ]
         },
         {
@@ -486,20 +488,18 @@
         {
             "tag": "chức năng đóng góp mặt bằng",
             "questions": [
-                "thay đổi tên sơ đồ mặt bằng ở đâu?",
-                "thay đổi sơ đồ mặt bằng như thế nào?",
-                "xem lại sơ đồ mặt bằng đã đóng góp ở đâu?",
-                "thêm vị trí sơ đồ mặt bằng ở đâu?",
-                "xem sơ đồ mặt bằng ở đâu?",
-                "chức năng đóng góp sơ đồ mặt bằng ở đâu?",
                 "bao lâu mới được duyệt sơ đồ mặt bằng?",
+                "chức năng đóng góp sơ đồ mặt bằng ở đâu?",
+                "thay đổi sơ đồ mặt bằng như thế nào?",
                 "làm thế nào để đóng góp thêm vào sơ đồ mặt bằng đã có sẵn?",
-                "xin chao",
-                "có thể thay đổi những thông tin gì của sơ đồ mặt bằng?"
+                "có thể thay đổi những thông tin gì của sơ đồ mặt bằng?",
+                "xem sơ đồ mặt bằng ở đâu?",
+                "thêm vị trí sơ đồ mặt bằng ở đâu?",
+                "thay đổi tên sơ đồ mặt bằng ở đâu?",
+                "xem lại sơ đồ mặt bằng đã đóng góp ở đâu?"
             ],
             "answers": [
-                "Bạn có thể tìm hiểu về chức năng đóng góp sơ đồ mặt bằng tại đây: https://academy.house3d.com/guide/contribute-the-site-map-2?lang=vi",
-                "hi"
+                "Bạn có thể tìm hiểu về chức năng đóng góp sơ đồ mặt bằng tại đây: https://academy.house3d.com/guide/contribute-the-site-map-2?lang=vi"
             ]
         },
         {
@@ -510,22 +510,22 @@
         {
             "tag": "chức năng chế độ hiển thị",
             "questions": [
-                "nếu không có kính thì chế độ vr và 3d có khác nhau nhiều không?",
-                "có bao nhiêu chế độ hiển thị?",
-                "làm thế nào để xem ảnh render của dự án?",
-                "bên mình có thiết bị hỗ trợ xem vr không?",
-                "cloud rendering là gì?",
                 "               chế độ viền và tách viền khác gì nhau ?",
-                "ảnh 2d tĩnh chế độ fullhd 4 không hiển thị tính chất vật liệu hề thua kém 3ds max đôi khi nhỉ?",
-                "chế độ hiển thị 3d khác chế độ hiển thị vr như thế nào?",
-                "có tài liệu hướng dẫn về các chế độ hiển thị không?",
                 "làm thế nào để chuyển đổi chế độ hiển thị ?",
+                "chế độ hiển thị 3d khác chế độ hiển thị vr như thế nào?",
+                "làm thế nào để xem ảnh render của dự án?",
+                "cloud rendering là gì?",
+                "có bao nhiêu chế độ hiển thị?",
+                "có tài liệu hướng dẫn về các chế độ hiển thị không?",
                 "ở định dạng 3d và vr có thể thay đổi chế độ hiển thị nào ?",
-                "tải phần mềm file vr về được không?"
+                "nếu không có kính thì chế độ vr và 3d có khác nhau nhiều không?",
+                "bên mình có thiết bị hỗ trợ xem vr không?",
+                "tải phần mềm file vr về được không?",
+                "ảnh 2d tĩnh chế độ fullhd 4 không hiển thị tính chất vật liệu hề thua kém 3ds max đôi khi nhỉ?"
             ],
             "answers": [
-                "bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https://academy.house3d.com/guide/chuyen-doi-che-do-hien-thi?lang=vi",
-                "bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi"
+                "bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi",
+                "bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https://academy.house3d.com/guide/chuyen-doi-che-do-hien-thi?lang=vi"
             ]
         },
         {
@@ -546,20 +546,20 @@
         {
             "tag": "chức năng tự động bắt dính",
             "questions": [
-                "điểm bắt dính floor là gì?",
-                "làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?",
-                "có tài liệu giới thiệu về chức năng tự động bắt dính của phần mềm không ?",
-                "làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?",
-                "làm thế nào để bắt dính góc cạnh của viên gạch ?",
-                "điểm bắt dính wall là gì?",
+                "điểm bắt dính stick floor là gì?\"",
                 "làm thế nào để có thể tự động xếp chồng lên đồ vật khác bằng chức năng tự động bắt dính ?",
-                "điểm bắt dính top là gì?",
-                "điểm bắt dính floor adsorb là gì?",
+                "làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?",
                 "điểm bắt dính desktop là gì?",
-                "chức năng tự đông bắt dính là gì?",
-                "tắt chế độ bắt dính như thế nào ?",
+                "có tài liệu giới thiệu về chức năng tự động bắt dính của phần mềm không ?",
                 "điểm bắt dính free là gì?",
-                "điểm bắt dính stick floor là gì?\""
+                "làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?",
+                "điểm bắt dính wall là gì?",
+                "tắt chế độ bắt dính như thế nào ?",
+                "điểm bắt dính top là gì?",
+                "chức năng tự đông bắt dính là gì?",
+                "điểm bắt dính floor adsorb là gì?",
+                "điểm bắt dính floor là gì?",
+                "làm thế nào để bắt dính góc cạnh của viên gạch ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về chế độ bắt dính trong link này: https://academy.house3d.com/guide/chuc-nang-tu-dong-bat-dinh?lang=vi"
@@ -609,15 +609,15 @@
             "tag": "covert models  sketchup to file h3d",
             "questions": [
                 "làm thế nào để xuất file từ sketchup?",
+                "có thể tuỳ chọn vật liệu nền mong muốn bằng tool chuyển file sketchup không?",
+                "làm thế nào để mở sketchup và cài đặt tool?",
                 "nếu tôi không hiểu về cách chuyển model từ file sketchup sang file h3d có thể liên hệ với ai?",
                 "làm thế nào để xuất file từ hous3dtool?",
-                "làm thế nào đẩy model từ sketchup lên h3d?",
+                "cách tải file h3d tool cho sketchup ở đâu?",
                 "file sketchup khác file h3d như thế nào ?",
                 "có tài liệu hướng dẫn cách chuyển model từ file sketchup sang file h3d không?",
                 "làm thế nào convert model từ file sketchup sang file h3d?",
-                "làm thế nào để mở sketchup và cài đặt tool?",
-                "cách tải file h3d tool cho sketchup ở đâu?",
-                "có thể tuỳ chọn vật liệu nền mong muốn bằng tool chuyển file sketchup không?"
+                "làm thế nào đẩy model từ sketchup lên h3d?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu chi tiết vê cách convert model từ file sketchup sang file h3d qua tài liếu sau: https://academy.house3d.com/guide/covert-models-tu-file-sketchup-sang-file-h3d?lang=vi"
@@ -641,13 +641,13 @@
         {
             "tag": "di chuyển và chỉnh sửa kích thước đối tượng",
             "questions": [
-                "làm thế nào để chỉnh sửa kích thước đồ nội thất?",
+                "làm thế nào để chỉnh sửa thông số kích thước đối tượng?",
+                "tôi có thể khoá kích thước một chiều của đồ nội thất không?",
                 "làm thế nào để chỉnh sửa kích thước đồ nội thất trong chế độ VR?",
                 "làm thế nào để chỉnh sửa  kích thước đồ nội thất trong chế độ 2D?",
-                "làm thế nào để chỉnh sửa kích thước đồ nội thất trong chế độ 3D?",
+                "làm thế nào để chỉnh sửa kích thước đồ nội thất?",
                 "di chuyển đồ nội thất như thế nào?",
-                "làm thế nào để chỉnh sửa thông số kích thước đối tượng?",
-                "tôi có thể khoá kích thước một chiều của đồ nội thất không?"
+                "làm thế nào để chỉnh sửa kích thước đồ nội thất trong chế độ 3D?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về di chuyển và chỉnh sửa kích thước đối tượng tại đây: https://academy.house3d.com/guide/move-and-resize-objects?lang=vi"
@@ -686,23 +686,23 @@
         {
             "tag": "giới thiệu giao diện thiết kế",
             "questions": [
+                "biểu tượng nhãn hiệu trong phần mềm là gì ?",
+                "làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?",
                 "làm thế nào để tạo một dự án mới?",
-                "lưu, lưu mới và lưu về máy khác gì nhau ?",
-                "phần mềm có những thiết kế mẫu nào?",
                 "phần thiết kế chức năng của phần mềm ở đâu ?",
-                "bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?",
                 "có thể thay đổi được ngôn ngữ của phần mềm house3d không ?",
+                "làm thế nào để lưu dự án ?",
+                "có bao nhiêu chế độ nhìn trên phần mềm?",
                 "có thể thay đổi được tốc độ chuột trên phần mềm không ?",
                 "àm thế nào để xem toàn bộ mặt bằng của dự án trên phần mềm house 3d?",
-                "làm thế nào để xem một số phím tắt của phần mềm house 3d?",
-                "biểu tượng nhãn hiệu trong phần mềm là gì ?",
                 "làm thế nào để xem được các file dự án trên phần mềm?",
-                "làm thế nào để lưu dự án ?",
-                "làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?",
-                "trong lúc tôi đang thiết kế thì diện tích kích thước phòng bị thay đổi, làm thế nào trên phần mềm house3d tôi khắc phục được điều đó ?",
-                "render dự án ở vị trí nào trên phần mềm ?",
                 "có tài liệu hướng dẫn cách sử dụng phần mềm house3d không ?",
-                "có bao nhiêu chế độ nhìn trên phần mềm?",
+                "bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?",
+                "làm thế nào để xem một số phím tắt của phần mềm house 3d?",
+                "phần mềm có những thiết kế mẫu nào?",
+                "render dự án ở vị trí nào trên phần mềm ?",
+                "lưu, lưu mới và lưu về máy khác gì nhau ?",
+                "trong lúc tôi đang thiết kế thì diện tích kích thước phòng bị thay đổi, làm thế nào trên phần mềm house3d tôi khắc phục được điều đó ?",
                 "có những phong cách thiết kế nào?"
             ],
             "answers": [
@@ -727,28 +727,28 @@
         {
             "tag": "hướng dẫn thanh toán online",
             "questions": [
-                "nạp hcoin vào tài khoản như thế nào?",
-                "trang web thanh toán của house3d là gì ?",
-                "có thể thanh toán trực tiếp tại công ty house3d không ?",
-                "bên mình có hỗ trợ thanh toán bằng VNPAY QR không ?",
-                "làm thế nào để nạp tiền vào tài khoản?",
-                "làm thế nào để thanh toán trên house3d ?",
-                "cách thanh toán online ?",
-                "kiểm tra số lượng hcoin trong tài khoản thanh toán thế nào?",
-                "có thể chuyển khoản trực tiếp đến công ty house3d không ?",
-                "Hcoin tương ứng với bao nhiêu vnđ?",
-                "có hướng dẫn chi tiết về thanh toán cho house3d không ?",
-                "có thể thanh toán qua paypal không ?",
-                "Hcoin là gì ?",
-                "bên house3d có những phương thức thanh toán nào ?",
-                "có những mức thời gian sử dụng nào ?",
                 "nếu giao dịch không thành côn thì có bị trừ tiền trong tài khoản không ?",
-                "xem lịch sử giao dịch ở đâu ?",
-                "loại tiền sử dụng thanh toán của house3d là gì ?",
-                "làm thế nào để nạp hcoin vào tài khoản?",
-                "bên mình hỗ trợ thanh toán qua những ngân hàng nào ?",
+                "có thể thanh toán trực tiếp tại công ty house3d không ?",
                 "làm thế nào để kiểm tra lịch sử giao dịch ?",
-                "làm thế nào để mua những dịch vụ của house3d ?"
+                "xem lịch sử giao dịch ở đâu ?",
+                "bên house3d có những phương thức thanh toán nào ?",
+                "bên mình có hỗ trợ thanh toán bằng VNPAY QR không ?",
+                "làm thế nào để thanh toán trên house3d ?",
+                "làm thế nào để nạp hcoin vào tài khoản?",
+                "kiểm tra số lượng hcoin trong tài khoản thanh toán thế nào?",
+                "có những mức thời gian sử dụng nào ?",
+                "làm thế nào để nạp tiền vào tài khoản?",
+                "làm thế nào để mua những dịch vụ của house3d ?",
+                "có thể chuyển khoản trực tiếp đến công ty house3d không ?",
+                "nạp hcoin vào tài khoản như thế nào?",
+                "có thể thanh toán qua paypal không ?",
+                "trang web thanh toán của house3d là gì ?",
+                "bên mình hỗ trợ thanh toán qua những ngân hàng nào ?",
+                "Hcoin là gì ?",
+                "có hướng dẫn chi tiết về thanh toán cho house3d không ?",
+                "Hcoin tương ứng với bao nhiêu vnđ?",
+                "cách thanh toán online ?",
+                "loại tiền sử dụng thanh toán của house3d là gì ?"
             ],
             "answers": [
                 "bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi"
@@ -777,8 +777,8 @@
         {
             "tag": "khoá tường",
             "questions": [
-                "làm thế nào để khoá một mặt tường?",
                 "làm thế nào để bật tính năng khoá tường?",
+                "làm thế nào để khoá một mặt tường?",
                 "tôi không biết chế độ khoá tường ở đâu?"
             ],
             "answers": [
@@ -858,20 +858,18 @@
         {
             "tag": "lịch đào tạo hàng tuần",
             "questions": [
-                "Lịch đào tạo hàng tuần tại văn phòng House3D như thế nào ?",
-                "tài liệu tham khảo của chương trình đào tạo gồm những gì ?",
                 "cho mình hỏi chương trình đào tạo của house 3d được tổ chức tại những khu vực nào?",
-                "thời gian tổ chức của chương trình đào tạo House 3D tại TPHCM ?",
-                "những yêu cầu trong chương trình đào tạo House 3D là gì ?",
+                "Lịch đào tạo hàng tuần tại văn phòng House3D như thế nào ?",
+                "thời gian tổ chức của chương trình đào tạo House 3D tại Hà Nội ?",
                 "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại TP HCM ở đâu?",
                 "địa điểm tổ chức của chương trình đào tạo miễn phí House3D tại Hà Nội ở đâu?",
-                "đăng kí tài khoản House3D như thế nào ?",
-                "thời gian tổ chức của chương trình đào tạo House 3D tại Hà Nội ?",
-                "chương trình đào tạo của House 3D gồm những mảng nào ?"
+                "thời gian tổ chức của chương trình đào tạo House 3D tại TPHCM ?",
+                "những yêu cầu trong chương trình đào tạo House 3D là gì ?",
+                "chương trình đào tạo của House 3D gồm những mảng nào ?",
+                "đăng kí tài khoản House3D như thế nào ?"
             ],
             "answers": [
-                "bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi",
-                "bạn có thể tìm hiểu ch"
+                "bạn có thể tìm hiểu chi tiết về lịch đào tạo hàng tuần của House3D: https://academy.house3d.com/guide/huong-dan-thanh-toan-online?lang=vi"
             ]
         },
         {
@@ -897,19 +895,19 @@
         {
             "tag": "lắp đặt background",
             "questions": [
-                "có những cách chỉnh sửa kích thước cho background tường nào?",
-                "xem thư viện tường background ở đâu?",
-                "làm thế nào để xem background cho tường đã thêm?",
-                "tôi không biết chỗ chỉnh sửa kích thước background cho tường ở dâu?",
-                "tôi có thể chọn những loại background nào?",
-                "tôi không biết chỗ lắp đặt background ở đâu?",
-                "cách lắp đặt background tường?",
                 "làm thế nào để đặt background cho tường?",
-                "chỉnh kích thước của tường background ở đâu?"
+                "cách lắp đặt background tường?",
+                "tôi không biết chỗ chỉnh sửa kích thước background cho tường ở dâu?",
+                "tôi không biết chỗ lắp đặt background ở đâu?",
+                "chỉnh kích thước của tường background ở đâu?",
+                "tôi có thể chọn những loại background nào?",
+                "xem thư viện tường background ở đâu?",
+                "có những cách chỉnh sửa kích thước cho background tường nào?",
+                "làm thế nào để xem background cho tường đã thêm?"
             ],
             "answers": [
-                "bạn có thể tìm hiểu về cách lắp đặt background ở đây: https://academy.house3d.com/guide/background-wall-installation?lang=vi",
-                "bạn có thể tìm hiẻu về cách lắp đặt background ở đây: https://academy.house3d.com/guide/background-wall-installation?lang=vi"
+                "bạn có thể tìm hiẻu về cách lắp đặt background ở đây: https://academy.house3d.com/guide/background-wall-installation?lang=vi",
+                "bạn có thể tìm hiểu về cách lắp đặt background ở đây: https://academy.house3d.com/guide/background-wall-installation?lang=vi"
             ]
         },
         {
@@ -1071,14 +1069,14 @@
         {
             "tag": "một số kiểu vẽ tường",
             "questions": [
-                "vẽ nét giữa trong vẽ tường là gì?",
                 "vẽ nét trong tường là gì?",
-                "làm thế nào để tạo căn phòng bằng vẽ tường?",
-                "vẽ nét ngoài tường là gì?",
-                "có tài liệu hướng dẫn về một số cách vẽ tường không?",
-                "làm thế nào để nhập độ dài trong lúc vẽ tường?",
                 "vẽ nét giữa, vẽ nét trong và ngoài tường khác gì nhau?",
-                "Có những kiểu vẽ tường nào?"
+                "làm thế nào để nhập độ dài trong lúc vẽ tường?",
+                "có tài liệu hướng dẫn về một số cách vẽ tường không?",
+                "vẽ nét giữa trong vẽ tường là gì?",
+                "Có những kiểu vẽ tường nào?",
+                "vẽ nét ngoài tường là gì?",
+                "làm thế nào để tạo căn phòng bằng vẽ tường?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https://academy.house3d.com/guide/mot-so-kieu-ve-tuong?lang=vi"
@@ -1097,14 +1095,17 @@
         {
             "tag": "nói vui",
             "questions": [
-                "oke",
+                "hỏi gì tiếp nhỉ?",
                 "hihi",
-                "oke nhá"
+                "oke nhá",
+                "hmm",
+                "oke"
             ],
             "answers": [
-                "Mình có thể giúp gì nữa cho bạn nhỉ ?",
                 "Bạn muốn tìm hiểu gì thêm không?",
-                "Mình còn có thể giúp đỡ gì không ạ ?"
+                "Mình còn có thể giúp đỡ gì không ạ ?",
+                "Mình có thể giúp gì cho bạn ạ?",
+                "Mình có thể giúp gì nữa cho bạn nhỉ ?"
             ]
         },
         {
@@ -1115,18 +1116,15 @@
         {
             "tag": "nhóm và tách nhóm các đối tượng",
             "questions": [
-                "tôi không biết chỗ gộp các đối tượng ở đâu?",
-                "có thể thêm tối đa bao nhiêu đối tượng vào một nhóm?",
                 "làm thế nào để gộp các đối tượng vào một nhóm?",
-                "tôi có thể đặt tên cho nhóm các đối tượng không?",
-                "tôi không biết chỗ tách nhóm các đối tượng ở đâu?",
+                "có thể thêm tối đa bao nhiêu đối tượng vào một nhóm?",
+                "làm thế nào để tách nhóm thành các đối tượng?",
                 "có tài liệu hướng dẫn cách gộp và tách nhóm các đối tượng không?",
-                "làm thế nào để tách nhóm thành các đối tượng?"
+                "tôi không biết chỗ gộp các đối tượng ở đâu?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về nhó",
-                "bạn có thể tìm hiểu về nhóm và tách nhóm ở đây: https://academy.house3d.com/guide/nhom-tach-nhom-cac-doi-tuong?lang=vi",
-                "bạn có thể tìm hiểu về nhóm"
+                "bạn có thể tìm hiểu về nhóm và tách nhóm ở đây: https://academy.house3d.com/guide/nhom-tach-nhom-cac-doi-tuong?lang=vi"
             ]
         },
         {
@@ -1157,17 +1155,17 @@
         {
             "tag": "phím tắt thường dùng",
             "questions": [
-                "có những loại phím tắt phổ biến tỏng phần mềm ?",
-                "làm thế nào để xem các phím tắt trên phần mềm ?",
                 "làm thế nào để thay đổi kích thước đối tượng bằng phím tắt ?",
-                "phím tắt trên phiên bản của window và macos có khác gì nhau ?",
-                "có hướng",
-                "phím tát chuyển đổi chế độ là gì ?",
                 "phần mềm có sử dụng những phím tắt nào?",
-                "di chuyển tầm nhìn dùng phím tắt gì ?",
                 "phím tắt di chuyển trục thẳng đứng là gì ?",
                 "làm thế nào để xoá vật thể bằng phím tắt ?",
-                "làm thế nào để di chuyển đối tượng bằng phím tắt trong phần mềm ?"
+                "phím tát chuyển đổi chế độ là gì ?",
+                "có những loại phím tắt phổ biến tỏng phần mềm ?",
+                "có hướng",
+                "làm thế nào để di chuyển đối tượng bằng phím tắt trong phần mềm ?",
+                "phím tắt trên phiên bản của window và macos có khác gì nhau ?",
+                "làm thế nào để xem các phím tắt trên phần mềm ?",
+                "di chuyển tầm nhìn dùng phím tắt gì ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu chi tiết về một số phím tắt thường dùng qua tài liệu này: https://academy.house3d.com/guide/phim-tat-thuong-dung?lang=vi"
@@ -1236,9 +1234,9 @@
         {
             "tag": "tìm dự án",
             "questions": [
-                "làm thế nào để tìm dự án?",
-                "trong khu vực tìm dự án nếu để lâu có bị mất không?",
                 "có thể tìm dự án trong khoảng thời gian bao lâu?",
+                "trong khu vực tìm dự án nếu để lâu có bị mất không?",
+                "làm thế nào để tìm dự án?",
                 "có thể tìm dự án theo bộ lọc thời gian không"
             ],
             "answers": [
@@ -1248,10 +1246,10 @@
         {
             "tag": "tìm hiểu lịch sử lưu dự án",
             "questions": [
-                "xem lịch sử đã lưu trước đây của dự án ở đâu?",
                 "tôi có thể khôi phục lại phần đã làm từ lịch sử dự án không?",
+                "làm thế nào để tìm lịch sử lưu dự án?",
                 "tôi có thể dùng lại bản lịch sử dự án đã lưu về không?",
-                "làm thế nào để tìm lịch sử lưu dự án?"
+                "xem lịch sử đã lưu trước đây của dự án ở đâu?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu về tìm lịch sử lưu dự án tại đây: https://academy.house3d.com/guide/tim-lich-su-luu-du-an?lang=vi"
@@ -1330,39 +1328,41 @@
         {
             "tag": "tạm biệt",
             "questions": [
-                "good bye",
-                "pp nhaa",
+                "bye",
+                "good bye, see you next time",
                 "tạm biệt nhé",
-                "pp nhé",
+                "tạm biệt",
+                "cảm ơn và tạm biệt ad",
+                "pp nhaa",
+                "pp nha",
+                "bai bai",
+                "tạm biệt nha",
                 "Chào tạm biệt",
                 "xin chào tạm biệt nhá",
-                "cảm ơn và tạm biệt ad",
-                "xin chào tạm biệt",
                 "cảm ơn và chào tạm biệt",
-                "pp nha",
+                "good bye",
+                "pp nhé",
                 "pp",
-                "bye",
-                "tạm biệt",
-                "good bye, see you next time",
-                "tạm biệt nha"
+                "xin chào tạm biệt"
             ],
             "answers": [
-                "Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách",
-                "Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách, chúc quý khách một ngày tốt lành !"
+                "Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách, chúc quý khách một ngày tốt lành !",
+                "Chatbot House 3D xin chân thành cảm ơn vì sự đóng góp của quý khách !",
+                "Chatbot House 3D xin cảm ơn và chào tạm biệt quý khách"
             ]
         },
         {
             "tag": "tạo đường viền gạch nền và đại tường",
             "questions": [
                 "",
-                "tạo viền nền nhà như thế nào?",
-                "làm thế nào để thay đổi kích thước các viền nền nhà?",
-                "làm thế nào để trang trí đai tường?",
                 "thay đổi khoảng cách giữa các đai tường như thế nào?",
-                "trang trí đường viền như thế nào?",
-                "làm thế nào để tạo đai tường?",
+                "làm thế nào để trang trí đường viền cho nền nhà?",
+                "tạo viền nền nhà như thế nào?",
                 "làm thế nào để đường viền cho nền nhà?",
-                "làm thế nào để trang trí đường viền cho nền nhà?"
+                "làm thế nào để trang trí đai tường?",
+                "làm thế nào để thay đổi kích thước các viền nền nhà?",
+                "trang trí đường viền như thế nào?",
+                "làm thế nào để tạo đai tường?"
             ],
             "answers": [
                 "",
@@ -1412,13 +1412,13 @@
         {
             "tag": "tạo mới, chỉnh sửa,xoá danh mục cho gian hàng",
             "questions": [
-                "có cần phải sử dụng tải khoản admin gian hàng không?",
-                "có tài liệu hướng dẫn cách chỉnh sửa và xoá thư mục trong gian hàng không?",
                 "giao diện quản lý danh gian hàng ở đâu?",
-                "cách xoá danh mục cho gian hàng",
                 "làm thế nào tạo mới, chỉnh sửa và xoá danh mục trong gian hàng?",
+                "cách xoá danh mục cho gian hàng",
+                "có cần phải sử dụng tải khoản admin gian hàng không?",
+                "cách tạo mới danh mục cho gian hàng?",
                 "cách chinh sửa danh mục cho gian hàng?",
-                "cách tạo mới danh mục cho gian hàng?"
+                "có tài liệu hướng dẫn cách chỉnh sửa và xoá thư mục trong gian hàng không?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu cách tạo mới, chỉnh sửa và xoá danh mục cho gian hàng qua tài liệu sau: https://academy.house3d.com/guide/tao-moi-chinh-sua-xoa-danh-muc-cho-gian-hang?lang=vi"
@@ -1442,11 +1442,11 @@
         {
             "tag": "tạo tag, chỉnh sửa và xoá tag trong gian hàng",
             "questions": [
-                "làm thế nào để xoá được nhiều tag trong gian hàng?",
-                "làm thế nào để chỉnh sửa tag trong gian hàng?",
                 "có tài liệu hướng dẫn cách chỉnh sửa tag trong gian hàng?",
+                "làm thế nào để xoá được nhiều tag trong gian hàng?",
                 "làm thế nào để tạo tag cho gian hàng?",
-                "làm thế nào để xoá tag trong gian hàng?"
+                "làm thế nào để xoá tag trong gian hàng?",
+                "làm thế nào để chỉnh sửa tag trong gian hàng?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu cách tạo",
@@ -1457,14 +1457,14 @@
         {
             "tag": "tạo trần có cửa sổ trời",
             "questions": [
-                "tuỳ chỉnh kích thước cửa sổ trời ở đâu?",
-                "làm thế nào để tạo trần có cửa sổ trời?",
-                "có những loại cửa sổ trời nào?",
                 "thêm giếng trời như thế nào?",
-                "chọn cửa sổ trời ở đâu?",
                 "tìm model cửa sổ trời ở đâu?",
+                "chọn cửa sổ trời ở đâu?",
+                "tuỳ chỉnh kích thước cửa sổ trời ở đâu?",
                 "tạo giếng trời từ cửa sổ như thế nào?",
-                "có những cách nào để thêm cửa sổ trời?"
+                "làm thế nào để tạo trần có cửa sổ trời?",
+                "có những cách nào để thêm cửa sổ trời?",
+                "có những loại cửa sổ trời nào?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về tạo trần có cửa sổ trời tại đây: https://academy.house3d.com/guide/install-doors-and-windows?lang=vi"
@@ -1473,16 +1473,16 @@
         {
             "tag": "tải ảnh facebook 360",
             "questions": [
-                "có thể tải ảnh sau khi render về máy tính để đăng trên facebook không?",
-                "ảnh chế độ đơn điểm và đa điểm khi đăng lên facebook khác nhau thế nào?",
-                "có thể thay đổi chế độ ảnh của dự án để đăng trên facebook không ?",
-                "ảnh sau khi up lên facebook 360 còn giữ chất lượng không?",
-                "có thể tải liên tục nhiều ảnh cùng lúc về máy không?",
-                "làm thế nào để tải ảnh sau khi render lên facebook?",
                 "có hướng đẫn chi tiết cách up ản sau khi render lên facebook không?",
+                "làm thế nào để tải ảnh sau khi render lên facebook?",
                 "yêu cầu để tải được ảnh lên facebook 360 ?",
                 "làm thế nào để up ảnh 360 độ lên facebook ?",
-                "có thể thay đổi chất lượng ảnh khi tải xuống sau đó đăng trên facebook không?"
+                "ảnh chế độ đơn điểm và đa điểm khi đăng lên facebook khác nhau thế nào?",
+                "có thể tải liên tục nhiều ảnh cùng lúc về máy không?",
+                "có thể thay đổi chất lượng ảnh khi tải xuống sau đó đăng trên facebook không?",
+                "ảnh sau khi up lên facebook 360 còn giữ chất lượng không?",
+                "có thể thay đổi chế độ ảnh của dự án để đăng trên facebook không ?",
+                "có thể tải ảnh sau khi render về máy tính để đăng trên facebook không?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu chi tiết về cách đăng dự án lên facebook 360 qua tài liệu sau đây: https://academy.house3d.com/guide/tai-anh-facebook-360?lang=vi"
@@ -1506,12 +1506,12 @@
         {
             "tag": "texture giấy dán tường và nền",
             "questions": [
-                "làm thế nào sử dụng giấy dán tường lên cột?",
-                "làm thế nào để sử dụng giấy dán tường cho toàn bộ tường?",
-                "chọn texture giấy dán tường như nào?",
-                "xoá giấy dán tường như thế nào?",
-                "chọn gạch lát nền ở đâu?",
                 "làm thế nào để lát toàn bộ giấy dán tường vào mặt tường?",
+                "chọn gạch lát nền ở đâu?",
+                "chọn texture giấy dán tường như nào?",
+                "làm thế nào sử dụng giấy dán tường lên cột?",
+                "xoá giấy dán tường như thế nào?",
+                "làm thế nào để sử dụng giấy dán tường cho toàn bộ tường?",
                 "xem mẫu dán tường ở đâu?"
             ],
             "answers": [
@@ -1527,11 +1527,11 @@
         {
             "tag": "thêm đối tượng vào yêu thích",
             "questions": [
-                "tôi có thể xem lại bộ sưu tập yêu thích không?",
-                "tôi không biết cách thêm đối tượng vào bộ sưu tập yêu thích?",
                 "thêm bộ sư tập ưu thích ở đâu?",
                 "làm thế nào để thêm đối tượng vào bộ sưu tập yêu thích?",
-                "làm thế nào để lưu đối tượng trong thư mục chung?"
+                "làm thế nào để lưu đối tượng trong thư mục chung?",
+                "tôi có thể xem lại bộ sưu tập yêu thích không?",
+                "tôi không biết cách thêm đối tượng vào bộ sưu tập yêu thích?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu về cách thêm đối tượng yêu thích tại đây: https://academy.house3d.com/guide/them-doi-tuong-vao-yeu-thich?lang=vi"
@@ -1540,19 +1540,19 @@
         {
             "tag": "thêm cửa và cửa sổ",
             "questions": [
-                "thay đổi kích thước cửa ở đâu?",
                 "tôi không biết chỗ thêm ban công ở đâu?",
-                "tôi không biết chỗ thêm cửa sổ ở đâu?",
-                "tạo các lỗ cửa như nào?",
-                "chỉnh sửa thông số cửa sổ ở đâu?",
-                "xoay hướng mở cửa như thế nào?",
                 "chỉnh sửa kích thước cửa ra vào ở đâu?",
-                "làm thế nào để thêm cửa?",
-                "làm thế nào để thêm cửa sổ?",
                 "làm thế nào để đặt cửa sổ?",
-                "làm thế nào để thêm cửa ra vào?",
+                "làm thế nào để đặt ban công trong phần thêm cửa và cửa sổ?",
                 "tôi không biết chỗ thêm cửa ra vào ở đâu?",
-                "làm thế nào để đặt ban công trong phần thêm cửa và cửa sổ?"
+                "tạo các lỗ cửa như nào?",
+                "xoay hướng mở cửa như thế nào?",
+                "thay đổi kích thước cửa ở đâu?",
+                "tôi không biết chỗ thêm cửa sổ ở đâu?",
+                "làm thế nào để thêm cửa ra vào?",
+                "chỉnh sửa thông số cửa sổ ở đâu?",
+                "làm thế nào để thêm cửa?",
+                "làm thế nào để thêm cửa sổ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về cách thêm cửa và cửa sổ tại đây: https://academy.house3d.com/guide/install-doors-and-windows?lang=vi"
@@ -1657,13 +1657,13 @@
             "tag": "thay đổi kích thước tường",
             "questions": [
                 "làm thế nào để đặt kích thước chiều cao của tường?",
-                "làm thế nào để chỉnh sửa kích thước chiều rộng của tường?",
-                "làm thế nào để điều chỉnh kích thước độ dày của tường?",
-                "làm thế nào để xem kích thước độ rộng tường?",
+                "làm thế nào để thay đôi kích thước độ rộng của tường?",
                 "làm thế nào để cố định kích thước của tường?",
+                "làm thế nào để chỉnh sửa kích thước chiều rộng của tường?",
+                "làm thế nào để xem kích thước độ rộng tường?",
+                "làm thế nào để điều chỉnh kích thước độ dày của tường?",
                 "làm thế nào để thay kich thước đổi độ dày tường đơn?",
-                "làm thế nào để thay đổi kích thước tường?",
-                "làm thế nào để thay đôi kích thước độ rộng của tường?"
+                "làm thế nào để thay đổi kích thước tường?"
             ],
             "answers": [
                 "bạn có thể thay đổi kích thước của tường tại đây: https://academy.house3d.com/guide/thay-doi-kich-thuoc-tuong?lang=vi"
@@ -1702,12 +1702,12 @@
         {
             "tag": "thay đổi texture cho đồ thất",
             "questions": [
-                "thay đổi texture ở đâu trong giao diện làm việc",
-                "làm thế nào để thay đổi texture cho đồ nội thất?",
-                "tôi không biết thay đổi texture cho đồ nội thất ở đâu?",
                 "có thể thay đổi texture khác thư viện của model không?",
-                "thư viện model nào mới thay đổi được texture?",
-                "thay đổi kích thước texture như thế nào?"
+                "làm thế nào để thay đổi texture cho đồ nội thất?",
+                "thay đổi kích thước texture như thế nào?",
+                "thay đổi texture ở đâu trong giao diện làm việc",
+                "tôi không biết thay đổi texture cho đồ nội thất ở đâu?",
+                "thư viện model nào mới thay đổi được texture?"
             ],
             "answers": [
                 "Bạn có thể tìm hiẻu về cách thay đổi texture cho đồ nội thất ở đây: https://academy.house3d.com/guide/thay-doi-texture-cho-do-noi-that-2?lang=vi",
@@ -1737,10 +1737,10 @@
         {
             "tag": "thay thế nhanh bằng sản phẩm cùng loại",
             "questions": [
+                "tôi không biết cách sao chép đối tượng?",
                 "sao chép đối tượng như nào?",
                 "có những cách nào để sao chép đối tượng ?",
                 "sử dụng phím tắt gì để sao chép được đối tượng?",
-                "tôi không biết cách sao chép đối tượng?",
                 "sao chép đối tượng sử dụng tổ hợp ctr+V khác gì so với phím shift?"
             ],
             "answers": [
@@ -1830,12 +1830,12 @@
         {
             "tag": "thoát và thay đổi tài khoản",
             "questions": [
+                "cách đăng xuất tài khoản trên ứng dụng house3d ?",
+                "nếu có thắc mắc về quản lý tài khoản có thể đặt câu hỏi trên phần mềm của house3d không?",
                 "làm thế nào để thay đổi tài khoản trên ứng dụng house3d ?",
                 "có những cách nào thoát tài khoản trên house3d ?",
-                "ad có video hướng dẫn cách quản lý tài khoản không ?",
-                "cách đăng xuất tài khoản trên ứng dụng house3d ?",
                 "nếu tôi nhấn thoát trên phần mềm thì lần sau có phải đăng nhập lại không ?",
-                "nếu có thắc mắc về quản lý tài khoản có thể đặt câu hỏi trên phần mềm của house3d không?"
+                "ad có video hướng dẫn cách quản lý tài khoản không ?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về cách quản lý tài khoản trên phần mềm House3D qua tài liệu sau: https://academy.house3d.com/guide/thoat-thay-doi-tai-khoan?lang=vi"
@@ -1849,16 +1849,16 @@
         {
             "tag": "tool convert 3ds max sang h3d",
             "questions": [
-                "convert từ 3dsmax sang h3d hỗ trợ các model có định dạng nào?",
-                "tôi không hiểu rõ về cách chuyển model từ 3dsmax sang house3d?",
                 "có video chi tiết để convert model từ 3dsmax sng house3d?",
-                "àm thế nào để convert model từ 3DSMAX sang HOUSE3D?",
+                "cách sử dụng phần vật liệu nâng cao sử dụng trong chủ đề convert model từ 3ds max sang house3d?",
                 "tính năng U,V map của convert model từ 3dsmax sang house3d?",
-                "có tài liệu hướng dẫn về cách chuyển model từ 3dsmax sang house3d?",
-                "cách cài đặt plugin để convert model từ 3dsmax sang house3d?",
+                "convert từ 3dsmax sang h3d hỗ trợ các model có định dạng nào?",
+                "àm thế nào để convert model từ 3DSMAX sang HOUSE3D?",
                 "link tải công cụ tạo h3d model-pulugin trên 3ds max?",
+                "tôi không hiểu rõ về cách chuyển model từ 3dsmax sang house3d?",
                 "nếu trong thực hiện chuyển model từ 3dsmax sang house3d thì có thể liên hệ ai?",
-                "cách sử dụng phần vật liệu nâng cao sử dụng trong chủ đề convert model từ 3ds max sang house3d?"
+                "cách cài đặt plugin để convert model từ 3dsmax sang house3d?",
+                "có tài liệu hướng dẫn về cách chuyển model từ 3dsmax sang house3d?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu cách sử dụng tool convert model từ 3dsmax sang hous3dd qua tài liệu sau: https://academy.house3d.com/guide/su-dung-tool-convert-model-tu-3ds-max-sang-h3d?lang=vi"
@@ -1897,13 +1897,13 @@
         {
             "tag": "tuỳ chỉnh kích thước gạch và xoay gạch",
             "questions": [
-                "thay đổi thông số kích thước gạch ở đâu?",
-                "làm thé nào để xoay gạch?",
-                "làm thế nào để tuỳ chỉnh kích thước gạch?",
-                "làm thế nào để tuỳ chỉnh vị trí của gạch?",
                 "xoay gạch như thế nào?",
+                "làm thế nào để di chuyển viên gạch theo từng chiều?",
+                "làm thé nào để xoay gạch?",
+                "thay đổi thông số kích thước gạch ở đâu?",
                 "tôi không biết tuỳ chỉnh xoay gạch ở đâu?",
-                "làm thế nào để di chuyển viên gạch theo từng chiều?"
+                "làm thế nào để tuỳ chỉnh kích thước gạch?",
+                "làm thế nào để tuỳ chỉnh vị trí của gạch?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về tuỳ chỉnh kích thước gạch và xoay gạch tại đây: https://academy.house3d.com/guide/modify-set-start-point-for-paver?lang=vi"
@@ -1912,17 +1912,17 @@
         {
             "tag": "tuỳ chỉnh len chân tường, phào trần",
             "questions": [
-                "làm thế nào để thay đổi len chân tường?",
-                "hiện phào trần ở đâu?",
-                "àm thế nào để thay đổi hình dáng phào trần?",
-                "ẩn phào trần ở đâu?",
-                "chọn vật liệu cho phào trần như thế nào?",
                 "hiển thị len chân tường và phào trần cho nhà ở đâu?",
+                "làm thế nào để thay đổi len chân tường?",
                 "cách sửa đổi lên chân tường?",
+                "àm thế nào để lắp đặt len tường?",
+                "ẩn phào trần ở đâu?",
                 "xem hiển thị phào trần ở đâu?",
+                "chọn vật liệu cho phào trần như thế nào?",
                 "làm thế nào để chọn kiểu cho phào trần?",
-                "làm thế nào để chọn chất liệu cho phào trần?",
-                "àm thế nào để lắp đặt len tường?"
+                "àm thế nào để thay đổi hình dáng phào trần?",
+                "hiện phào trần ở đâu?",
+                "làm thế nào để chọn chất liệu cho phào trần?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về tuỳ chỉnh len chân tường và phào trần tại đây: https://academy.house3d.com/guide/tuy-chinh-len-chan-tuong-phao-tran?lang=vi"
@@ -1936,14 +1936,14 @@
         {
             "tag": "tuỳ chỉnh tường nâng cao",
             "questions": [
-                "làm thế nào để tuỳ chỉnh tường trong tuỳ chỉnh nâng cao?",
-                "làm thế nào để sử dụng chức năng lật ngang trong tuỳ chỉnh tường nâng cao?",
-                "có hướng dẫn chi tiết về một số kĩ thuật tuỳ chỉnh tường nâng cao không?",
-                "Làm thế nào để điều hịnh dạng kích thước của tường?",
-                "làm thế nào để sử dụng chức năng xoay 90 độ trong tuỳ chỉnh tường nâng cao,?",
                 "làm thế nào để thay đổi hướng căn hộ và nội thất trong tuỳ chỉnh tường nâng cao?",
+                "có hướng dẫn chi tiết về một số kĩ thuật tuỳ chỉnh tường nâng cao không?",
+                "làm thế nào để sử dụng chức năng lật dọc trong tuỳ chỉnh tường nâng cao",
+                "làm thế nào để sử dụng chức năng lật ngang trong tuỳ chỉnh tường nâng cao?",
+                "làm thế nào để sử dụng chức năng xoay 90 độ trong tuỳ chỉnh tường nâng cao,?",
                 "làm thế nào để di chuyển vị trí tường tương dối giữa các không gian trong tuỳ chỉnh tường nâng cao?",
-                "làm thế nào để sử dụng chức năng lật dọc trong tuỳ chỉnh tường nâng cao"
+                "Làm thế nào để điều hịnh dạng kích thước của tường?",
+                "làm thế nào để tuỳ chỉnh tường trong tuỳ chỉnh nâng cao?"
             ],
             "answers": [
                 "bạn có thể tìm hiểu về các chức năng tuỳ chỉnh tường nâng cao tại đây: https://academy.house3d.com/guide/tuy-chinh-tuong-nang-cao?lang=vi"
@@ -1952,16 +1952,16 @@
         {
             "tag": "up model cửa lên thư viện cá nhân",
             "questions": [
-                "model của thư viện cá nhân có những thông tin nào?",
-                "làm thế nào để thêm mới một model trong thư viện cá nhân ?",
-                "làm thế nào để sử dụng được thư viện cá nhân?",
-                "Làm thế nào để đăng nhập vào thư viện cá nhân?",
                 "làm thế nào có thể thêm mới model trong thư viện cá nhân?",
-                "dung lượng tối đa có thể tải model nén zip lên thư viện cá nhân?",
+                "model của thư viện cá nhân có những thông tin nào?",
+                "làm thế nào để tải ảnh texture lên thư viện cá nhân?",
                 "cách thêm thông tin của texture trong thư viện cá nhân?",
+                "làm thế nào để thêm mới một model trong thư viện cá nhân ?",
                 "cách điều chỉnh chức năng công khai model trong thư viện cá nhân?",
-                "làm thế nào có thể xoá model trong thư viện cá nhân?",
-                "làm thế nào để tải ảnh texture lên thư viện cá nhân?"
+                "Làm thế nào để đăng nhập vào thư viện cá nhân?",
+                "dung lượng tối đa có thể tải model nén zip lên thư viện cá nhân?",
+                "làm thế nào để sử dụng được thư viện cá nhân?",
+                "làm thế nào có thể xoá model trong thư viện cá nhân?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu về chức năng upload model và texture lên thư viện cá nhân qua tài liệu sau:https://academy.house3d.com/guide/upload-model-va-texture-len-thu-vien-ca-nhan?lang=vi"
@@ -1975,16 +1975,16 @@
         {
             "tag": "upload texture lên bộ sư tập gạch subapp",
             "questions": [
+                "làm thế nào để upload texture lên bộ sưu tập gạch trong subapp?",
+                "làm thế nào để tạo danh mục cho bộ sưu tập gạch trong subapp?",
+                "có những cách nào để vào trang thư viện cá nhân để truy cập bộ sưu tập gạch trong subapp?",
                 "có video hướng dẫn cách upload texture lên bộ sư tập gạch trong subapp?",
+                "cách upload texture lên bộ sưu tập gạch trong subapp?",
+                "có thể thêm những thông tin gì cho texture trong bộ sưu tập gạch?",
                 "chức năng chỉnh sửa gạch trong subapp ở đâu",
                 "có tài liệu hướng dẫn chi tiết upload texture lên bộ sưu tập gạch trong subapp?",
                 "chức năng xoá gạch trong subapp ở đâu?",
-                "cách upload texture lên bộ sưu tập gạch trong subapp?",
-                "xem thông tin gạch lên bộ sưu tập gạch trong subapp ở đâu?",
-                "có những cách nào để vào trang thư viện cá nhân để truy cập bộ sưu tập gạch trong subapp?",
-                "làm thế nào để upload texture lên bộ sưu tập gạch trong subapp?",
-                "làm thế nào để tạo danh mục cho bộ sưu tập gạch trong subapp?",
-                "có thể thêm những thông tin gì cho texture trong bộ sưu tập gạch?"
+                "xem thông tin gạch lên bộ sưu tập gạch trong subapp ở đâu?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu cách upload texture lên bộ sưu tập gạch trong subapp qua tài liệu sau: https://academy.house3d.com/guide/upload-texture-len-bo-suu-tap-gach-trong-subapp?lang=vi"
@@ -1993,16 +1993,16 @@
         {
             "tag": "upload,chỉnh sửa, xoá,gán tag texture gian hàng",
             "questions": [
-                "gán tag cho texture ở đâu?",
                 "cách chỉnh sửa tag của texture cho gian hàng?",
-                "cách xoá tag của texture cho gian hàng?",
-                "có thể thay đổi các thông tin của texture trong gian hàng không?",
                 "xem danh sách các texture của gian hàng ở đâu?",
-                "cách tải ảnh texture lên gian hàng?",
-                "cách tải file texture lên gian hàng?",
                 "cách gán tag của texture cho gian hàng?",
+                "cách tải file texture lên gian hàng?",
+                "có thể thay đổi các thông tin của texture trong gian hàng không?",
+                "có tài liệu hướng dẫn cách chỉnh sửa texture cho gian hàng?",
+                "cách tải ảnh texture lên gian hàng?",
                 "cách thêm mới texture cho gian hàng?",
-                "có tài liệu hướng dẫn cách chỉnh sửa texture cho gian hàng?"
+                "gán tag cho texture ở đâu?",
+                "cách xoá tag của texture cho gian hàng?"
             ],
             "answers": [
                 "Bạn có thể xem hướng dẫn chi tiết về cách upload, chỉnh sửa, xoá, gán tag cho texture của gian hàng qua hướng dẫn chi tiết sau: https://academy.house3d.com/guide/upload-chinh-sua-xoa-gan-tag-cho-texture-cua-gian-hang?lang=vi"
@@ -2011,13 +2011,13 @@
         {
             "tag": "upload,chỉnh sửa,xoá,gán tag cho model cho gian hàng",
             "questions": [
-                "những thông tin nào bắt buộc phải điền để upload model cho gian hàng?",
+                "làm thế nào để xoá tag cho model của gian hàng?",
                 "cần phải nhập những thông tin gì để upload model cho gian hàng?",
-                "làm thế nào để gán tag cho model của gian hàng?",
-                "làm thế nào để chỉnh sửa tag cho model của gian hàng ?",
                 "có tài liệu hướng dẫn cách upload và chỉnh sửa tag cho model của gian hàng không?",
                 "làm thế nào để upload model cho gian hàng của mình?",
-                "làm thế nào để xoá tag cho model của gian hàng?"
+                "những thông tin nào bắt buộc phải điền để upload model cho gian hàng?",
+                "làm thế nào để chỉnh sửa tag cho model của gian hàng ?",
+                "làm thế nào để gán tag cho model của gian hàng?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu về cách upload, chỉnh sửa, xoá, gán tag cho model của gian hàng qua tài liệu sau: https://academy.house3d.com/guide/upload-chinh-sua-xoa-gan-tag-cho-model-cua-gian-hang?lang=vi"
@@ -2047,9 +2047,9 @@
             "tag": "xoá dự án",
             "questions": [
                 "tôi không biết chỗ xoá dự án ở đâu?",
-                "có thể xoá được nhiều dự án không?",
                 "làm thế nào để xoá dự án?",
-                "xoá dự án rồi có thể lấy lại được không?"
+                "xoá dự án rồi có thể lấy lại được không?",
+                "có thể xoá được nhiều dự án không?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu về cách xoá dự án ở đâu: https://academy.house3d.com/guide/xoa-du-an?lang=vi"
@@ -2058,11 +2058,11 @@
         {
             "tag": "xoá lịch sử thiết kế dự án",
             "questions": [
+                "làm thế nào có thể xoá lịch sử thiết kế dự án?",
                 "có thể xoá phiên bản trong lịch sử thiết kế dự án không?",
                 "có thể xoá tất cả phiên bản trong lịch sử thiết kế dự án không?",
-                "làm thế nào để quán lý lịch sử thiết kế dự án?",
-                "làm thế nào có thể xoá lịch sử thiết kế dự án?",
-                "không thấy chỗ xoá phiên bản đã tạo trong lịch sử thiết kế dự án?"
+                "không thấy chỗ xoá phiên bản đã tạo trong lịch sử thiết kế dự án?",
+                "làm thế nào để quán lý lịch sử thiết kế dự án?"
             ],
             "answers": [
                 "Bạn có thể tìm hiểu về cách xoá lịch sử thiết kế dự án tại đây: https://academy.house3d.com/guide/tim-lich-su-luu-du-an?lang=vi"
@@ -2121,13 +2121,13 @@
         {
             "tag": "xuất bản vẽ sơ đồ mặt bằng",
             "questions": [
-                "Làm thế nào để xoay sơ đồ mặt bằng?",
+                "tải về sơ đồ mặt bằng ở đâu?",
                 "xuất bản vẽ sơ đồ mặt bằng ở đâu?",
                 "có cách nào để xuất bản vẽ sơ đồ mặt bằng",
-                "làm thế nào để xuất bản vẽ sơ đồ mặt bằng?",
+                "Làm thế nào để xoay sơ đồ mặt bằng?",
                 "làm thế nào để in sơ đồ mặt bằng?",
-                "xuất sơ đồ mặt bằng ở đâu?",
-                "tải về sơ đồ mặt bằng ở đâu?"
+                "làm thế nào để xuất bản vẽ sơ đồ mặt bằng?",
+                "xuất sơ đồ mặt bằng ở đâu?"
             ],
             "answers": [
                 "Bạn có thể xuất bản vẽ sơ đồ mặt bằng ở đây: https://academy.house3d.com/guide/xuat-ban-ve-so-do-mat-bang?lang=vi"
