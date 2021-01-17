@@ -12,7 +12,7 @@ Reference:
 
 - [Build Facebook Messenger Contextual ChatBot with TensorFlow and Keras](https://medium.com/@ferrygunawan/build-facebook-messenger-contextual-chatbot-with-tensorflow-and-keras-4f8cc79438cf)
 
-## Update
+## Version
 
 New version will be released in version *.1 that it is stable to use.
 Next version will be extended from dev branch.
@@ -36,6 +36,70 @@ pip install -r requirements.txt
 #### Clone the repository
 ```
 git clone https://github.com/huyle73/SE05-N3.git
+```
+#### Architecture of System
+```
+├── README.md
+├── data_raw
+│   ├── chức năng thiết kế cơ bản
+│   ├── nhập môn
+│   ├── những câu hỏi thường gặp
+│   ├── render
+│   ├── thiết kế cảnh quan
+│   ├── thiết kế cửa gỗ
+│   ├── thiết kế gạch
+│   ├── thiết kế phòng tắm
+│   ├── thiết kế sàn-trần, tường
+│   ├── thiết kế tủ bếp
+│   ├── thiết kế tủ quần áo
+│   ├── thiết kế tủ đa năng
+│   └── training
+├── dataset
+│   └── intents.json
+├── deploy
+│   ├── Procfile
+│   ├── app.py
+│   ├── classes.pkl
+│   ├── documents.pkl
+│   ├── ignore_words.pkl
+│   ├── intents.json
+│   ├── model_h3d.h5
+│   ├── requirements.txt
+│   ├── runtime.txt
+│   ├── static
+│   ├── templates
+│   └── words.pkl
+├── model
+│   ├── __pycache__
+│   ├── model.py
+│   ├── model_h3d.h5
+│   ├── preProcess.py
+│   └── test_model.py
+├── process
+│   ├── StopWords
+│   ├── __pycache__
+│   ├── load_data_raw.py
+│   ├── preProcess.py
+│   ├── sentences_test
+│   └── test_preProcess.py
+├── requirements.txt
+├── sql
+│   ├── CHATBOTH3D.sql
+│   ├── __pycache__
+│   ├── sql2intents.py
+│   ├── templates
+│   └── test.py
+├── statistics
+│   ├── __pycache__
+│   ├── have_qa.html
+│   ├── no_qa.html
+│   └── statistic_data.py
+├── update
+│   └── intents.json
+├── update.py
+└── update.sh
+
+
 ```
 
 #### Data
